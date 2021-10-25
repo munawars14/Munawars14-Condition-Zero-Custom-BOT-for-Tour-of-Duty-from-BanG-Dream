@@ -24,7 +24,7 @@ The Terrorists will oppose your way. They will plant the bomb at one of the bomb
 When the player gains reputation points, the amount of enemies on maps within the same tour of duty will increase to balance out the player's increased amount and power of teammates.
 
 <b>B. About Custom BOT Nickname for Tour of Duty</b><br>
-The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party.</b> Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
+The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
 
 All bot names are taken based on all members of each band : <b>Poppin Party</b>, <b>Afterglow</b>, <b>Pastel Palettes</b>, <b>Hello Happy World</b>, <b>Roselia</b>, <b>Morfonica</b>, <b>Raise A Suilen</b>, <b>Glitter Green</b>, and <b>CHiSPA</b>. They will use different weapons and be placed at different costs.
 
