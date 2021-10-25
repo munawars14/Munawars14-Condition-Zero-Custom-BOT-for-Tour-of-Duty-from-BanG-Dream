@@ -359,7 +359,7 @@
 <Td>Poppin Party</td>
 <Td>3</td>
 <Td>Maverick M4A1 Carbine</td>
-<Td></td>
+<Td>-</td>
 <Td>Good</td>
 <Td>High</td>
 <Td>Ok</td>
@@ -370,7 +370,7 @@
 <Td>Roselia</td>
 <Td>4</td>
 <Td>Leone YG1265 Auto Shotgun</td>
-<Td></td>
+<Td>-</td>
 <Td>Good</td>
 <Td>High</td>
 <Td>Ok</td>
