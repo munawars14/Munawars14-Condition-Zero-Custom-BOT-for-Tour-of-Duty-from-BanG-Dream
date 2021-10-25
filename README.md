@@ -28,7 +28,7 @@ The bot in this Tour of Duty mod has been <i>modified</i>, all the names and per
 
 All bot names are taken based on all members of each band : <b>Poppin Party</b>, <b>Afterglow</b>, <b>Pastel Palettes</b>, <b>Hello Happy World</b>, <b>Roselia</b>, <b>Morfonica</b>, <b>Raise A Suilen</b>, <b>Glitter Green</b>, and <b>CHiSPA</b>. They will use different weapons and be placed at different costs.
 
-For the list of custom bots and their individual statistics, see here.
+For the list of custom bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">see here</a>.
 
 # Tours
 
