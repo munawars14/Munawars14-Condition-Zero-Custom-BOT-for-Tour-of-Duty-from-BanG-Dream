@@ -9,11 +9,18 @@
 <Li>Natsuki</li>
 <Li>Satomi</li>
 <Li>Asuka</li>
+<Ul>
+<Li>Storyline in Anime</li>
+<li>Tour of Duty in Condition Zero's Game</li>
+</Ul>
 <Li>Nanana</li>
 <Li>Rii</li>
 <Li>Yuri</li>
 <Li>Marina</li>
 </Ul>
+<Li>Tactics</li>
+<Li>Trivia</li>
+<Li>External Link</li>
 </Ol></b>
 
 ## Overview
@@ -146,7 +153,7 @@ Natsuki is an Easy bot. Natsuki's skill type is bad, which means she is not accu
 <Br><br>
 Her teamwork level are set to 75 (Good) points and bravery level are set to 25 (Low) points. She will follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
 <Br><br>
-Her preferred main weapons are KM Submachine Gun. She does not buy or pick up other weapons.
+Her preferred main weapons are KM Submachine Gun, followed by Schmidt Machine Pistol. Actually, the main weapon used in the database is the CV-47. She will take it if she finds the weapon.
 <Br><br>
 Her voice pitch is set to 106, slightly higher than standard.
 
@@ -189,7 +196,7 @@ Satomi is an Easy bot. Satomi's skill type is bad, which means she is not accura
 <Br><br>
 Her teamwork is set to 75. He frequently follows the player's commands and usually stays together with teammates.
 <Br><br>
-Her preferred main weapons are Clarion 5.56. She does not buy or pick up other weapons.
+Her preferred main weapons are Clarion 5.56. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Satomi never utilize burst-fire mode.
 <Br><br>
 Her bravery is set to high, at 100 points. She will never retreat even when spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
 <Br><br>
@@ -242,5 +249,203 @@ In the 3rd season, Rokka finally met her "fated band members" and Asuka's role o
 
 Asuka is a Fair bot. Asuka's skill type is Low, which means she is 25% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She has an attack delay of 1 second.
 <Br><br>
-He has 75 (Good) points of teamwork and no change in points on bravery (using default points which is 30). She will follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will wait for assailants to approach. In bomb defusal maps, she prefers to camp at a bombsite if she lacks money.
+He has 75 (Good) points of teamwork and no change in points on bravery (using default points which is 30 (Low)). She will follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will wait for assailants to approach. In bomb defusal maps, she prefers to camp at a bombsite if she lacks money.
+<Br><br>
+Her preferred main weapons are KM Submachine Gun and secondary weapons are ES Five-Seven, followed by Nighthawk 55C and 228 Compact.
+<Br><br>
+Her voice pitch is 112, which means she has a high voice pitch.
+<Br><br>
+Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
+
+### Nanana
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 1</th>
+</Tr>
+<Tr>
+<Td colspan="2">Unknown Avatar</td>
+</Tr>
+<Tr>
+<Th colspan="2">Nanana</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>SAS</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Low</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th colspan="2">ES C90</th>
+</Tr>
+</Tbody>
+</Table><br>
+Nanana is the keyboardist of the band member Glitter Green. Nanana is a Fair bot. Nanana's skill type is Low, which means she is 25% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She has an attack delay of 1 second. 
+<Br><br>
+Both of her co-op and bravery are set to 75 (Good) each, Nanana has good teamwork. She frequently follows the player's commands and stays close to teammates, Nanana is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
+<Br><br>
+Nanana uses the Spray template.
+<Br><br>
+Her voice pitch is 105, slightly higher than standard.
+
+### Rii
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 1</th>
+</Tr>
+<Tr>
+<Td colspan="2">Unknown Avatar</td>
+</Tr>
+<Tr>
+<Th colspan="2">Rii</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>GSG-9</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Low</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th colspan="2">Leone 12 Gauge Super</th>
+</Tr>
+</Tbody>
+</Table><br>
+Rii is the bassist of the band member Glitter Green, Rii is a Fair bot. Rii's skill type is Low, which means she is 25% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She has an attack delay of 1 second.  She is good for close quarter combat when assisted with teammates, but lacks sufficient firepower when she is alone due to the severe limitations of the Leone 12 Gauge Super shotgun that she wields. As such, it is rare for Rii to quickly kill an assailant and will struggle when fighting enemies armed with rifles. Sometimes however, Rii may get lucky by killing a Terrorist at medium ranges with her pistol.
+<Br><br>
+Like Nanana, her co-op and bravery are set to 75 (Good) each, Rii has good teamwork. She frequently follows the player's commands and stays close to teammates, Rii is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
+<Br><br>
+She prefers Leone 12 Gauge Super as her main weapon. If she can't purchase the shotgun, she will buy KM Submachine Gun. Her pistol preferences are Nighthawk 55C. She does not buy or pick up other weapons.
+<Br><br>
+Her voice pitch is set to 108, slightly higher than standard.
+
+### Yuri
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 1</th>
+</Tr>
+<Tr>
+<Td colspan="2">Unknown Avatar</td>
+</Tr>
+<Tr>
+<Th colspan="2">Yuri</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>SEAL Team 6</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Low</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Low</th>
+</Tr>
+<Tr>
+<Th colspan="2">Clarion 5.56</th>
+</Tr>
+</Tbody>
+</Table><br>
+Yuri is the lead vocalist and guitarist of Glitter Green, and Rimi's older sister. Yuri is a Fair bot. Yuri's skill type is Low, which means she is 25% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She has an attack delay of 1 second. 
+<Br><br>
+She has 100 (High) points of teamwork and 25 (Low) points of Bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, he will find another way to strike from behind. In bomb defusal maps, he prefers to camp at a bombsite.
+<Br><br>
+Yuri prefers Clarion 5.56 as her main weapon, followed by KM Submachine Gun and Schmidt Machine Pistol. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Yuri never utilize burst-fire mode.
+<Br><br>
+Her voice pitch is set to 110, slightly higher than the basic voice.
+
+### Marina
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 1</th>
+</Tr>
+<Tr>
+<Td colspan="2">Unknown Avatar</td>
+</Tr>
+<Tr>
+<Th colspan="2">Marina</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>Spetsnaz</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Low</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th colspan="2">Maverick M4A1 Carbine</th>
+</Tr>
+</Tbody>
+</Table><br>
+Marina is the BanG Dream!'s in-game navigation character. She is a staff at the Live House CiRCLE. In the game's main story, she is trying to get 5 (now 7) bands together for a multi-live event together with the Player Character's help.
+<Br><br>
+Marina is a Fair bot. Marina's skill type is Low, which means she is 25% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She has an attack delay of 1 second. 
+<Br><br>
+She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite. Like in the game and anime BanG Dream!, she really cares about anyone, both friends and rivals in anime.
+<Br><br>
+Marina uses Rifle template, sometimes she uses silencer or not. Like Natsuki, the main weapon used in the database is the CV-47. She will take it if she finds the weapon.
+<Br><br>
+Her voice pitch is set to 110, same with Yuri.
+<Br><br>
+Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Spetsnaz character.
+
+## Tactics
+<Ul>
+<Li>When hiring Cost 1 CT bot(s), hire Fair bot(s) first because they have better skill level.</li>
+<li>On maps with large open space, bots with the M4A1, Famas, UMP-45, and the MP5 should be hired as they have better accuracy at longer ranges. Meanwhile at close ranged maps, bots with the M3, P90, TMP and the MP5 should be hired while the UMP-45 should be avoided.</li>
+<Li>Rii is the only Cost 1 teammates who uses Leone 12 Gauge Super, so it's better for players to hire her only in melee type pictures (Office, Tides, etc.).</li>
+<Li>Prioritize Marina as your teammate, she's the only one using M4A1.</li>
+</Ul>
+
+## Trivia
+<Ul>
+<Li>Rii is the only bot in Tour of Duty that uses Leone 12 Gauge Super as his most preferred weapon.</li>
+<Ul><li>Other bots use Leone 12 Gauge Super when they can't buy XM1014.</li></ul>
+<Li>Only Marina uses the M4A1.</li>
+<Li>Only Marina and Asuka use the exclusive character, Spetsnaz.</li>
+</Ul>
+
+## External Link
+<Ul>
+<Li>BanG Dream!'s Band Members in Fandom website.</li>
+<Ul><li>Glitter Green</li>
+<Li>CHiSPA</li></ul>
+</Ul>
+
 
