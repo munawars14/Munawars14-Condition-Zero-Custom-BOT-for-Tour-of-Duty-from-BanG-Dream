@@ -1,7 +1,7 @@
 # List of Tour of Duty CT Custom Bots
 
 <B>Cost 1</b><br>
-<I>Main article : List of Tour of Duty CT Custom Bots/Cost 1</i><br>
+<I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md">List of Tour of Duty CT Custom Bots/Cost 1</a></i><br>
 <table border="1">
 <tbody align="center">
 <Tr>
@@ -66,7 +66,7 @@
 <Td>-</td>
 <Td>5</td>
 <Td>KM Submachine Gun</td>
-<Td>-</td>
+<Td>ES Five-Seven</td>
 <Td>Low</td>
 <Td>Good</td>
 <Td>Low</td>
@@ -88,7 +88,7 @@
 <Td>Glitter Green</td>
 <Td>2</td>
 <Td>Leone 12 Gauge Super</td>
-<Td>-</td>
+<Td>Nighthawk 55C</td>
 <Td>Low</td>
 <Td>Good</td>
 <Td>Good</td>
