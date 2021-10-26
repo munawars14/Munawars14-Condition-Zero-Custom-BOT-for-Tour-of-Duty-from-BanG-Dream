@@ -30,6 +30,9 @@ All bot names are taken based on all members of each band : <b>Poppin Party</b>,
 
 For the list of custom bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">see here</a>.
 
+# Download Link
+- Waiting ...
+
 # Tours
 
 <B>1. Tour of Duty 1</b>
