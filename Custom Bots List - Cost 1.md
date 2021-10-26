@@ -439,6 +439,7 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Ul><li>Other bots use Leone 12 Gauge Super when they can't buy XM1014.</li></ul>
 <Li>Only Marina uses the M4A1.</li>
 <Li>Only Marina and Asuka use the exclusive character, Spetsnaz.</li>
+<Li>All CT bots have voice pitch higher than 110.</li>
 </Ul>
 
 ## External Link
