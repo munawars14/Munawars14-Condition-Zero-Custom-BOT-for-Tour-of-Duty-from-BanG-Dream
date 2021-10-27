@@ -2,25 +2,25 @@
 <B>Contents
 <Ol>
 <Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#overview">Overview</a></li>
-<Li>Members</li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#members">Members</a></li>
 <Ul>
-<Li>Fumika</li>
-<Li>Hinako</li>
-<Li>Natsuki</li>
-<Li>Satomi</li>
-<Li>Asuka</li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#fumika">Fumika</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#hinako">Hinako</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#natsuki">Natsuki</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#satomi">Satomi</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#asuka">Asuka</a></li>
 <Ul>
-<Li>Storyline in Anime</li>
-<li>Tour of Duty in Condition Zero's Game</li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#storyline-in-anime">Storyline in Anime</a></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#tour-of-duty-in-condition-zeros-game">Tour of Duty in Condition Zero's Game</a></li>
 </Ul>
-<Li>Nanana</li>
-<Li>Rii</li>
-<Li>Yuri</li>
-<Li>Marina</li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#nanana">Nanana</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#rii">Rii</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#yuri">Yuri</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#marina">Marina</a></li>
 </Ul>
-<Li>Tactics</li>
-<Li>Trivia</li>
-<Li>External Link</li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#tactics">Tactics</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#trivia">Trivia</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#external-link">External Link</a></li>
 </Ol></b>
 
 ## Overview
