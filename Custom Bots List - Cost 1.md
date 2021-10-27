@@ -438,6 +438,7 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Li>Rii is the only bot in Tour of Duty that uses Leone 12 Gauge Super as his most preferred weapon.</li>
 <Ul><li>Other bots use Leone 12 Gauge Super when they can't buy XM1014.</li></ul>
 <Li>Only Marina uses the M4A1.</li>
+<Ul><li>She will use Famas if she can't buy M4A1.</li></ul>
 <Li>Only Marina and Asuka use the exclusive character, Spetsnaz.</li>
 <Li>All CT bots have voice pitch higher than 110.</li>
 </Ul>
