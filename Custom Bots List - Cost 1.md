@@ -419,7 +419,7 @@ Marina is a Fair bot. Marina's skill type is Low, which means she is 25% accurat
 <Br><br>
 She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite. Like in the game and anime BanG Dream!, she really cares about anyone, both friends and rivals in anime.
 <Br><br>
-Marina uses Rifle template, sometimes she uses silencer or not. Like Natsuki, the main weapon used in the database is the CV-47. She will take it if she finds the weapon.
+Marina uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Carbine (and uses its silencer), but will swap it for an CV-47 if she finds one dropped by a Terrorist. She buys a random pistol as a secondary weapon.
 <Br><br>
 Her voice pitch is set to 110, same with Yuri.
 <Br><br>
