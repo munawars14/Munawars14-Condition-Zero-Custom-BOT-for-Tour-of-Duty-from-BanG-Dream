@@ -1,6 +1,6 @@
 # Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream
 
-<b>A. About Tour of Duty</b><br>
+## A. About Tour of Duty
 According to <b>Jess Cliffe</b>, Tour of Duty was partly inspired by sports games.
 
 There are 6 tours of duty in this game mode and each tour of duty consists of 3 different maps (all maps use their Condition Zero games versions). Completing one tour of duty unlocks the next tour of duty.
@@ -23,44 +23,47 @@ The Terrorists will oppose your way. They will plant the bomb at one of the bomb
 
 When the player gains reputation points, the amount of enemies on maps within the same tour of duty will increase to balance out the player's increased amount and power of teammates.
 
-<b>B. About Custom BOT Nickname for Tour of Duty</b><br>
+## B. About Custom BOT Nickname for Tour of Duty</b>
 The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
 
 All bot names are taken based on all members of each band : <b>Poppin Party</b>, <b>Afterglow</b>, <b>Pastel Palettes</b>, <b>Hello Happy World</b>, <b>Roselia</b>, <b>Morfonica</b>, <b>Raise A Suilen</b>, <b>Glitter Green</b>, and <b>CHiSPA</b>. They will use different weapons and be placed at different costs.
 
 For the list of custom bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">see here</a>.
 
-# Download Link
+## C. Download Link
 - Waiting ...
 
-# Tours
-
-<B>1. Tour of Duty 1</b>
+## D. Tours
+### 1. Tour of Duty 1
 - Dust
 - Office
 - Prodigy
 
-<B>2. Tour of Duty 2</b>
+### 2. Tour of Duty 2
 - Tides
 - Italy
 - Inferno
 
-<B>3. Tour of Duty 3</b>
+### 3. Tour of Duty 3
 - Dust II
 - Militia
 - Stadium
 
-<B>4. Tour of Duty 4</b>
+### 4. Tour of Duty 4
 - Chateau
 - Havana
 - Cobble
 
-<B>5. Tour of Duty 5</b>
+### 5. Tour of Duty 5
 - Aztec
 - Downed
 - Airstrip
 
-<B>6. Tour of Duty 6</b>
+### 6. Tour of Duty 6
 - Piranesi
 - Fastline
 - Torn
+
+## Preferences
+- About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
+- <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">CSCZ Custom BOT Nickname from BanG Dream! (Classic BOT)</a>
