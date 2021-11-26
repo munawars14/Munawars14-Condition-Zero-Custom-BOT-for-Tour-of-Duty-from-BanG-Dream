@@ -447,16 +447,16 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 ## External Link
 <Ul>
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
-<Ul><li>Poppin Party</li>
-<Ul><li>Toyama Kasumi</li>
-<li>Ichigaya Arisa</li>
-<li>Yamabuki Saaya</li></ul>
-<Li>Roselia</li>
-<li>RAISE A SUILEN</li>
-<Ul><Li>Asahi Rokka</li></ul>
-<li>Glitter Green</li>
-<Li>CHiSPA</li>
-<Li>Marina Tsukishima</li></ul>
+<Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
+<Ul><li>Toyama Kasumi (<a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Fandom</a> | Tour of Duty)</li>
+<li>Ichigaya Arisa (<a href="https://bandori.fandom.com/wiki/Ichigaya_Arisa">Fandom</a> | Tour of Duty)</li>
+<li>Yamabuki Saaya (<a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Fandom</a> | Tour of Duty)</li></ul>
+<Li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
+<li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
+<Ul><Li>Asahi Rokka (<a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Fandom</a> | Tour of Duty)</li></ul>
+<li><a href="https://bandori.fandom.com/wiki/Glitter*Green">Glitter Green</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Marina Tsukishima</a></li></ul>
 </Ul>
 
 
