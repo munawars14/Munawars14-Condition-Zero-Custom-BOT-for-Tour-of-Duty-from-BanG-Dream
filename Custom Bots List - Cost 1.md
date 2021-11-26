@@ -429,8 +429,9 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Ul>
 <Li>When hiring Cost 1 CT bot(s), hire Fair bot(s) first because they have better skill level.</li>
 <li>On maps with large open space, bots with the M4A1, Famas, UMP-45, and the MP5 should be hired as they have better accuracy at longer ranges. Meanwhile at close ranged maps, bots with the M3, P90, TMP and the MP5 should be hired while the UMP-45 should be avoided.</li>
-<Li>Rii is the only Cost 1 teammates who uses Leone 12 Gauge Super, so it's better for players to hire her only in melee type pictures (Office, Tides, etc.).</li>
+<Li>Rii is the only Cost 1 teammates who uses Leone 12 Gauge Super, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
 <Li>Prioritize Marina as your teammate, she's the only one using M4A1.</li>
+<Ul><Li>But will swap it for an CV-47 if she finds one dropped by a Terrorist, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.) even though the shooting accuracy is low.</li></ul>
 </Ul>
 
 ## Trivia
@@ -446,8 +447,16 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 ## External Link
 <Ul>
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
-<Ul><li>Glitter Green</li>
-<Li>CHiSPA</li></ul>
+<Ul><li>Poppin Party</li>
+<Ul><li>Toyama Kasumi</li>
+<li>Ichigaya Arisa</li>
+<li>Yamabuki Saaya</li></ul>
+<Li>Roselia</li>
+<li>RAISE A SUILEN</li>
+<Ul><Li>Asahi Rokka</li></ul>
+<li>Glitter Green</li>
+<Li>CHiSPA</li>
+<Li>Marina Tsukishima</li></ul>
 </Ul>
 
 
