@@ -456,7 +456,7 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Ul><Li>Asahi Rokka (<a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Fandom</a> | Tour of Duty)</li></ul>
 <li><a href="https://bandori.fandom.com/wiki/Glitter*Green">Glitter Green</a></li>
 <Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
-<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Marina Tsukishima</a></li></ul>
+<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Tsukishima Marina</a></li></ul>
 </Ul>
 
 
