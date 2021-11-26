@@ -20,6 +20,7 @@
 </Ul>
 <Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#tactics">Tactics</a></li>
 <Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#trivia">Trivia</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#preferences">Preferences</a></li>
 <Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#external-link">External Link</a></li>
 </Ol></b>
 
@@ -444,8 +445,21 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Li>Some CT bots have voice pitch higher than 110.</li>
 </Ul>
 
+## Preferences
+<Ul>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a></li>
+<Ul><li><b>Cost 1</b></li>
+<li>Cost 2</li>
+<li>Cost 3</li>
+<li>Cost 4</li>
+<li>Cost 5</li>
+</ul>
+</Ul>
+
 ## External Link
 <Ul>
+<Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
 <Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
 <Ul><li>Toyama Kasumi (<a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Fandom</a> | Tour of Duty)</li>
