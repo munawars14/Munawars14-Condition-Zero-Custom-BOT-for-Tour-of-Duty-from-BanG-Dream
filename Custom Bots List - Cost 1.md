@@ -70,7 +70,7 @@ She has 25 (Low) points of teamwork, and 100 (High) points of bravery. She alway
 <Br><br>
 She buy Schmidt Machine Pistol as her weapons. She will not buy or pick up another weapons.
 <Br><br>
-Her voice pitch is 104, which means her voice has a higher pitch and she talks faster.
+Her voice pitch is set to 104, slightly higher than the standard voice.
 
 ### Hinako
 <Table border="1">
