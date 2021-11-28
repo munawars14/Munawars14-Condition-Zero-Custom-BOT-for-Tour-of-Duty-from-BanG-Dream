@@ -1,36 +1,32 @@
 # Custom BOT List - Cost 2
 <B>Contents
 <Ol>
-<Li>Overview</li>
-<Li>Members</li>
+<Li><a href="">Overview</a></li>
+<Li><a href="">Members</a></li>
 <Ul>
-<Li>Mayu</li>
-<Li>Toko</li>
-<Li>Arisa</li>
-<Li>Himari</li>
-<Li>Rui</li>
-<Ul>
-<Li>Storyline in Anime</li>
-<li>Tour of Duty in Condition Zero's Game</li>
+<Li><a href="">Mayu</a></li>
+<Li><a href="">Toko</a></li>
+<Li><a href="">Arisa</a></li>
+<Li><a href="">Himari</a></li>
+<Li><a href="">Rui</a></li>
+<Li><a href="">Mashiro</a></li>
+<Li><a href="">Hagumi</a></li>
+<Li><a href="">Rokka (aka LOCK)</a></li>
+<Li><a href="">Nanami</a></li>
+<Li><a href="">Reona (aka PAREO)</a></li>
 </Ul>
-<Li>Mashiro</li>
-<Li>Hagumi</li>
-<Li>Lock</li>
-<Li>Nanami</li>
-<Li>Pareo</li>
-</Ul>
-<Li>Tactics</li>
-<Li>Trivia</li>
-<Li>External Link</li>
+<Li><a href="">Tactics</a></li>
+<Li><a href="">Trivia</a></li>
+<Li><a href="">External Link</a></li>
 </Ol></b>
 
-# Overview
+## Overview
 There are 10 Tour of Duty CT bots under Cost 2 category.
 
 On Easy and Normal difficulty, they are unlocked after the player finished 4 maps (at 6 reputation points), while on Hard and Expert they are available from the beginning. Two reputation points are needed to hire each of them. Their skill level are set to 50 (Ok) or 60 (Ok).
 
-## Members
-### Mayu
+### Members
+#### Mayu
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -40,7 +36,7 @@ On Easy and Normal difficulty, they are unlocked after the player finished 4 map
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Mayu</th>
+<Th colspan="2">Wakabata Mayu</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -72,19 +68,19 @@ However, her co-op have been set to 25 (Low) and bravery have been set to 0 (Bad
 
 Mayu prefers Schmidt Scout as her main weapon. When having sufficient money, she will buy Nighthawk 55C as her secondary. She does not buy or pick up other weapon.
 
-Her voice pitch is set to 110, slightly higher than the basic voice.
+Her voice pitch is set to 109, slightly higher than the basic voice.
 
-### Toko
+#### Toko
 <Table border="1">
 <Tbody align="center">
 <Tr>
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Touko" src="https://i.bandori.party/u/i/m/32Kirigaya-Touko-roXDxC.png"></td></td>
+<Td colspan="2"><img alt="Toko" src="https://i.bandori.party/u/i/m/32Kirigaya-Touko-roXDxC.png"></td></td>
 </Tr>
 <Tr>
-<Th colspan="2">Toko</th>
+<Th colspan="2">Kirigaya Toko</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -116,9 +112,9 @@ Her bravery is set to 50 (Ok). Toko is a moderate aggressive bot. She will retre
 
 Her preferred main weapons are Schmidt Machine Pistol. Actually, the main weapon used in the database is the Ingram MAC-10. She will take it if she finds the weapon.
 
-Her voice pitch is 111 which means her voice has a higher pitch.
+Her voice pitch is 111, slightly higher than the basic voice.
 
-### Arisa
+#### Arisa
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -128,7 +124,7 @@ Her voice pitch is 111 which means her voice has a higher pitch.
 <Td colspan="2"><img alt="Arisa" src="https://i.bandori.party/u/i/m/10Arisa-Ichigaya-OhdoPc.png"></td>
 </Tr>
 <Tr>
-<Th colspan="2">Arisa</th>
+<Th colspan="2">Ichigaya Arisa</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -152,26 +148,7 @@ Her voice pitch is 111 which means her voice has a higher pitch.
 </Tbody>
 </Table>
 
-#### About
-##### Background
-
-Arisa's grandparents run a pawnshop called Ryuuseidou, and she lives in a big and traditional house, which includes a basement where Poppin'Party practices and hangs out at most of the time. Ryuuseidou is also the place where Kasumi found her guitar, Random Star, from.
-
-When she was younger, Arisa picked up to learn the piano but then quit it halfway through because she didn't have any motivation to continue, and because she had to study for middle school exams - when she befriended Kasumi and heard about her plans to start a band, she picked it up again.
-
-##### Personality
-
-Arisa is an introvert whose hobbies include tending for bonsai plants and internet surfing. Even though she's basically a shut-in and admits to being lazy by nature, she still manages to achieve excellent results in school due to her intellect.
-
-She tends to be quite moody, and because of her sharp tongue and being hot headed, often gets into arguments with others (especially Kasumi). Usually, however, this is because she is unable to be honest with herself. She easily blushes and starts stammering when she gets complimented, especially by her fellow Poppin'Party members. She blushed very hard when Rei complimented her that she was the most talented in the music school Arisa attended when she was younger, and got so flustered she ran down the hallway. Though she denies it, she gets lonely easily.
-
-It was shown that in the past that Arisa was a loner who always did things by herself, and claimed not to need help from other people. However after meeting Kasumi, she slowly started changing, showing her more of her kind side and interacting with other people as well. Due to her grounded personality, the other members of the band often tease her on friendly terms, though it doesn't stop her from getting frustrated.
-
-In the beginning, and as a way of trying to maintain her image of a refined, rich girl, she talked in a very polite and exaggerated manner with people she hadn't interacted with before, or did not know well (such as Eve and Misaki in the game's first event story).
-
-#### Custom Tour of Duty
-
-Arisa is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+Arisa is the keyboardist of the band member Poppin'Party, Arisa is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 She has 60 (Ok) points of teamwork and 85 (Good) points of bravery. Arisa has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if she lacks sufficient money.
 
@@ -179,7 +156,367 @@ Arisa is an aggressive bot. She will not retreat if she spots a few enemies. She
 
 Arisa uses Rifle template, which means her top priority weapon is Maverick M4A1 Carbine.
 
+Her voice pitch is set to 110, slightly higher than the basic voice.
+
+#### Himari
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Himari" src="https://i.bandori.party/u/i/m/13Himari-Uehara-w2nYPj.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Uehara Himari</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>SAS</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th colspan="2">KM Submachine Gun</th>
+</Tr>
+</Tbody>
+</Table>
+
+Himari is the leader and bassist of the band member Afterglow, Himari is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+
+Both of her teamwork and bravery are set to 75 (Good) points each. She will always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists. After several seconds, she will attack. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
+
+Her preferred main weapons are KM Submachine Gun. Actually, the main weapon used in the database is the CV-47. She will take it if she finds the weapon. Her secondary weapons are ES Five-Seven, followed by 228 Compact.
+
+His voice pitch is 114, which means she has a high voice pitch.
+
+#### Rui
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Rui" src="https://i.bandori.party/u/i/m/35Rui-Yashio-VY7tDV.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Yashio Rui</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>Spetsnaz</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th colspan="2">Clarion 5.56</th>
+</Tr>
+</Tbody>
+</Table>
+
+Rui is a talented violinist who has played the violin ever since she was young. Rui is also a member of Tsukinomori Girls' Academy's student council. She initially watched Morfonica's band practices only because they needed someone from the student council to monitor their activities, before the other girls managed to convince her to join the band.
+
+Rui is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+
+Her teamwork is set to 75. She frequently follows the player's commands and usually stays together with teammates. Her bravery is set to high, at 100 points. She will never retreat even when spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
+
+Rui prefers Clarion 5.56 as her main weapon, followed by KM Submachine Gun and Schmidt Machine Pistol. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Rui never utilize burst-fire mode.
+
+Her voice pitch is set to 104, slightly higher than the standard voice.
+
+Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
+
+#### Mashiro
+
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Mashiro" src="https://i.bandori.party/u/i/m/31Mashiro-Kurata-5theuT.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Kurata Mashiro</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>GIGN</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Low</th>
+</Tr>
+<Tr>
+<Th colspan="2">ES C90</th>
+</Tr>
+</Tbody>
+</Table>
+
+Mashiro is the vocalist of the band Morfonica, Mashiro is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+
+She has 100 teamwork points and 25 bravery points. She will always follow the player's commands and stays together with teammates. She is rather passive, and will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
+
+Mashiro is a kind but quiet, shy, and reserved girl. Though she aspired for Tsukinomori Girls' Academy and managed to get in, she was overwhelmed by the talented individuals around her. As a result, she felt depressed daily until she stumbled upon Poppin'Party's performance in CiRCLE.
+
+She's full of imagination and tends to get lost in her fantasies, especially when she's writing lyrics. Mashiro tends to think negatively quite often, and is afraid of interacting with strangers because she thinks she might give them a bad first impression of herself, as well as make them think she's strange.
+
+She prefers ES C90 as his main weapon, since she uses Spray template.
+
+Her voice pitch is set to 116, which means she has a bit high pitch.
+
+#### Hagumi
+
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Hagumi" src="https://i.bandori.party/u/i/m/18Hagumi-Kitazawa-A21E3r.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Kitazawa Hagumi</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>Spetsnaz</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th colspan="2">KM UMP45</th>
+</Tr>
+</Tbody>
+</Table>
+
+Hagumi is the bassist of the band member Hello Happy World, Hagumi is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+
+She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
+
+Her preferred main weapons are KM UMP45, followed by KM Submachine Gun. Same as Himari, the main weapon used in the database is the CV-47. She will take it if she finds the weapon. Her secondary weapon preference are 9x19mm Sidearm, the only Terrorist exclusive weapon used by bot teammates CT.
+
+Her voice pitch is set to 117, which means she has a bit high pitch.
+
+Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spetsnaz character.
+
+#### Rokka (aka LOCK)
+
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Lock" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Asahi Rokka</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>GSG-9</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th colspan="2">Bullpup</th>
+</Tr>
+</Tbody>
+</Table>
+
+Rokka is the guitarist of the band member Raise A Suilen, Rokka is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+
+Her co-op level is set to 100 (High) points and bravery level is set to 75 (Good) points, which means he will almost always follow player's command and stick together with teammates.
+
+Rokka is an aggressive bot. When she sees a teammate dead in his view, she will go towards the killer and start firing. Small amount of enemies do not make her afraid unless a large group is present. After several seconds, she will strike back. In the bomb defusal maps, she likes to scatter around the map while in hostage rescue maps, she likes to strike first and rescue the hostages.
+
+Rokka uses the Punch template, which means her top priority weapon is Bullpup. She does not use the low-power scope like other bots using the Bullpup.
+
+Her voice pitch is set to 118, which means she has a higher pitch.
+
+#### Nanami
+
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Nanami" src="https://i.bandori.party/u/i/m/33Nanami-Hiromachi-6p9s2u.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Hiromachi Nanami</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>SEAL Team 6</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th colspan="2">Leone YG1265 Auto Shotgun</th>
+</Tr>
+</Tbody>
+</Table>
+
+Nanami is the bassist of the band member Morfonica, Nanami is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+
+Her co-op level is set to 100 (High) points and bravery level is set to 85 (Good) points, which means he will almost always follow player's command and stick together with teammates. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
+
+She uses Shotgun template, which means her top priority weapon is Leone YG1265 Auto Shotgun.
+
+Same as Mayu, her voice pitch is set to 109.
+
+#### Reona (aka PAREO)
+
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 2</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Pareo" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png"></td>
+</Tr>
+<Tr>
+<Th colspan="2">Nyubara Reona</th>
+</Tr>
+<Tr>
+<Th>Skin</th>
+<Th>GIGN</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th colspan="2">Clarion 5.56</th>
+</Tr>
+</Tbody>
+</Table>
+
+Reona is the keyboardist and backing vocal of the band member Raise A Suilen, Reona is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+
+Both of her teamwork and bravery are set to 100% points each, which in the "High" category. She will always follow the player's command and always sticks together with teammates.
+
+Reona is a very aggressive bot. She will never retreat even spotting a large group of enemies.
+
+Reona prefers Clarion 5.56 as her main weapon and secondary weapon are ES Five-Seven. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, she never utilize burst-fire mode.
+
+Her voice pitch is set to 108, slightly higher than standard.
+
+## Tactics
+
+<Ul>
+<Li>When hiring cost 2 bots, hire Arisa first because she have better skill (60 instead of 50) and preferred main weapons (Maverick M4A1 Carbine). You can also hire Rokka after Arisa, because she have stronger preferred main weapons (Bullpup).</li>
+<Ul>
+<Li>You can change your teammate with Reona if one of the two suggestions doesn't match your preference or you can use them as their best companion.</li>
+</Ul>
+<Li>When using Mayu in bomb defusal mission, she will camp at a bombsite. Therefore, she might be a good choice in defending open spaced bombsite (e.g. Aztec) on lower difficulties.</li>
+<Li>Unless you have a lot of points to spend or have no more suitable candidate to join your team, it is best not to hire Hagumi, although her overall value looks higher than other mercenaries, but in fact the weapon she uses is the worst weapon of all cost 2 mercenaries: KM UMP45 and the 9x19mm Sidearm pistol. KM UMP45 is not suitable for close range, 9x19mm Sidearm is also not suitable for longer range even though she use Tough template skill, which is completely incomparable with the powerful rivals of P90, AK47, AWP or M249.
+<Ul>
+<Li>If a SMG wielding teammates is really needed, consider hiring Himari instead even though she use Normal template skill and she uses the MP5 and is a all rounder decent weapon good for both medium and close ranged maps. Or hiring Mashiro who uses the ES C90 for close quarter combat for far better weapon.</li>
+</Ul>
+</Ul>
+
+## Trivia
+
+<Ul>
+<Li>Sometimes bots don't use secondary weapons that match their map territory, especially Arisa, Nanami, Rokka, and Mashiro because they use secondary weapons randomly.</li>
+<Li>Only Hagumi and Rui use the exclusive character, Spetsnaz.</li>
+</Ul>
 
 
+## Preferences
+<Ul>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a></li>
+<Ul>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md">Cost 1</a></li>
+<li><b>Cost 2</b></li>
+<li>Cost 3</li>
+<li>Cost 4</li>
+<li>Cost 5</li>
+</ul>
+</Ul>
 
+## External Link
+<Ul>
+<Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
+<Li>BanG Dream!'s Band Members in Fandom website.</li>
+<Ul>
+<li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Afterglow">Afterglow</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Hello,_Happy_World!">Hello Happy World</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Morfonica">Morfonica</a></li>
+<li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
+</Ul>
+</Ul>
 
