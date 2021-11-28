@@ -41,7 +41,7 @@ They are always unlocked, regardless of Reputation Point level or difficulty. On
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Fumika</th>
+<Th colspan="2">Mori Fumika</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -82,7 +82,7 @@ Her voice pitch is 104, which means her voice has a higher pitch and she talks f
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Hinako</th>
+<Th colspan="2">Nijikki Hinako</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -125,7 +125,7 @@ Her voice pitch is 113, which means she has a high voice pitch.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Natsuki</th>
+<Th colspan="2">Umino Natsuki</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -168,7 +168,7 @@ Her voice pitch is set to 106, slightly higher than standard.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Satomi</th>
+<Th colspan="2">Taiko Satomi</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -213,7 +213,7 @@ Her voice pitch is set to 107, slightly higher than standard.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Asuka</th>
+<Th colspan="2">Toyama Asuka</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -268,7 +268,7 @@ Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Nanana</th>
+<Th colspan="2">Wanibe Nanana</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -309,7 +309,7 @@ Her voice pitch is 105, slightly higher than standard.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Rii</th>
+<Th colspan="2">Uzawa Rii</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -350,7 +350,7 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Yuri</th>
+<Th colspan="2">Ushigome Yuri</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
@@ -391,7 +391,7 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 <Td colspan="2">Unknown Avatar</td>
 </Tr>
 <Tr>
-<Th colspan="2">Marina</th>
+<Th colspan="2">Tsukishima Marina</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
