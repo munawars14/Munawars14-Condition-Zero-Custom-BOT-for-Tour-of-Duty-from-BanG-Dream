@@ -1,10 +1,10 @@
 # Custom BOT List - Cost 2
 <B>Contents
 <Ol>
-<Li><a href="">Overview</a></li>
-<Li><a href="">Members</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#overview">Overview</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#members">Members</a></li>
 <Ul>
-<Li><a href="">Mayu</a></li>
+<Li><a href="#mayu">Mayu</a></li>
 <Li><a href="">Toko</a></li>
 <Li><a href="">Arisa</a></li>
 <Li><a href="">Himari</a></li>
