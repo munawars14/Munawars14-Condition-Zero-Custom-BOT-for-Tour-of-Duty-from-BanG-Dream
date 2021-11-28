@@ -1,27 +1,27 @@
 # Custom BOT List - Cost 1
 <B>Contents
 <Ol>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#overview">Overview</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#members">Members</a></li>
+<Li><a href="#overview">Overview</a></li>
+<Li><a href="#members">Members</a></li>
 <Ul>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#fumika">Fumika</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#hinako">Hinako</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#natsuki">Natsuki</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#satomi">Satomi</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#asuka">Asuka</a></li>
+<Li><a href="#fumika">Fumika</a></li>
+<Li><a href="#hinako">Hinako</a></li>
+<Li><a href="#natsuki">Natsuki</a></li>
+<Li><a href="#satomi">Satomi</a></li>
+<Li><a href="#asuka">Asuka</a></li>
 <Ul>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#storyline-in-anime">Storyline in Anime</a></li>
-<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#tour-of-duty-in-condition-zeros-game">Tour of Duty in Condition Zero's Game</a></li>
+<Li><a href="#storyline-in-anime">Storyline in Anime</a></li>
+<li><a href="#tour-of-duty-in-condition-zeros-game">Tour of Duty in Condition Zero's Game</a></li>
 </Ul>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#nanana">Nanana</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#rii">Rii</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#yuri">Yuri</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#marina">Marina</a></li>
+<Li><a href="#nanana">Nanana</a></li>
+<Li><a href="#rii">Rii</a></li>
+<Li><a href="#yuri">Yuri</a></li>
+<Li><a href="#marina">Marina</a></li>
 </Ul>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#tactics">Tactics</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#trivia">Trivia</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#preferences">Preferences</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#external-link">External Link</a></li>
+<Li><a href="#tactics">Tactics</a></li>
+<Li><a href="#trivia">Trivia</a></li>
+<Li><a href="#preferences">Preferences</a></li>
+<Li><a href="#external-link">External Link</a></li>
 </Ol></b>
 
 ## Overview
@@ -450,7 +450,7 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a></li>
 <Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a></li>
 <Ul><li><b>Cost 1</b></li>
-<li>Cost 2</li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md">Cost 2</a></li>
 <li>Cost 3</li>
 <li>Cost 4</li>
 <li>Cost 5</li>
