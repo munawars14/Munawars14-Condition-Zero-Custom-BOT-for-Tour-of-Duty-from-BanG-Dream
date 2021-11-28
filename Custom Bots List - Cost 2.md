@@ -1,23 +1,23 @@
 # Custom BOT List - Cost 2
 <B>Contents
 <Ol>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#overview">Overview</a></li>
-<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#members">Members</a></li>
+<Li><a href="#overview">Overview</a></li>
+<Li><a href="#members">Members</a></li>
 <Ul>
 <Li><a href="#mayu">Mayu</a></li>
-<Li><a href="">Toko</a></li>
-<Li><a href="">Arisa</a></li>
-<Li><a href="">Himari</a></li>
-<Li><a href="">Rui</a></li>
-<Li><a href="">Mashiro</a></li>
-<Li><a href="">Hagumi</a></li>
-<Li><a href="">Rokka (aka LOCK)</a></li>
-<Li><a href="">Nanami</a></li>
-<Li><a href="">Reona (aka PAREO)</a></li>
+<Li><a href="#toko">Toko</a></li>
+<Li><a href="#arisa">Arisa</a></li>
+<Li><a href="#himari">Himari</a></li>
+<Li><a href="#rui">Rui</a></li>
+<Li><a href="#mashiro">Mashiro</a></li>
+<Li><a href="#hagumi">Hagumi</a></li>
+<Li><a href="#rokka-aka-lock">Rokka (aka LOCK)</a></li>
+<Li><a href="#nanami">Nanami</a></li>
+<Li><a href="#reona-aka-pareo">Reona (aka PAREO)</a></li>
 </Ul>
-<Li><a href="">Tactics</a></li>
-<Li><a href="">Trivia</a></li>
-<Li><a href="">External Link</a></li>
+<Li><a href="#tactics">Tactics</a></li>
+<Li><a href="#trivia">Trivia</a></li>
+<Li><a href="#external-link">External Link</a></li>
 </Ol></b>
 
 ## Overview
