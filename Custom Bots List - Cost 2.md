@@ -17,6 +17,7 @@
 </Ul>
 <Li><a href="#tactics">Tactics</a></li>
 <Li><a href="#trivia">Trivia</a></li>
+<Li><a href="#preferences">Preferences</a></li>
 <Li><a href="#external-link">External Link</a></li>
 </Ol></b>
 
