@@ -68,6 +68,22 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 - About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
 - <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">CSCZ Custom BOT Nickname from BanG Dream! (Classic BOT)</a>
 
+<table border="1">
+<tbody>
+<tr>
+<th colspan="2" align="center">Tour of Duty</th>
+</tr>
+<tr>
+<th align="center">Cost 1</th>
+<td>Fumika • Hinako • Natsuki • Satomi • Asuka • Nanana • Rii • Yuri • Marina</td>
+</tr>
+<tr>
+<th align="center">Cost 2</th>
+<td>Mayu • Toko • Arisa • Himari • Rui • Mashiro • Hagumi • Lock • Nanami • Pareo</td>
+</tr>
+</tbody>
+</table>
+
 ## Special Thanks
 - Bang Dream! Project
 - Craft Egg Inc.
