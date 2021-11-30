@@ -71,9 +71,10 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <table border="1">
 <tbody>
 <tr>
-<th colspan="2" align="center">Tour of Duty</th>
+<th colspan="3" align="center">Custom Tour of Duty</th>
 </tr>
 <tr>
+<th rowspan="5">Counter-Terrorists</th>
 <th align="center">Cost 1</th>
 <td>Fumika • Hinako • Natsuki • Satomi • Asuka • Nanana • Rii • Yuri • Marina</td>
 </tr>
@@ -92,6 +93,39 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <tr>
 <th align="center">Cost 5</th>
 <td>Sayo • Hina • Kasumi • Kokoro • Maya • Tomoe</td>
+</tr>
+<tr>
+<th rowspan="8">Terrorists</th>
+<th>Easy</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Fair</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Normal</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Tough</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Hard</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Very Hard</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Expert</th>
+<td>bot list</td>
+</tr>
+<tr>
+<th>Elite</th>
+<td>bot list</td>
 </tr>
 </tbody>
 </table>
