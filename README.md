@@ -23,6 +23,8 @@ The Terrorists will oppose your way. They will plant the bomb at one of the bomb
 
 When the player gains reputation points, the amount of enemies on maps within the same tour of duty will increase to balance out the player's increased amount and power of teammates.
 
+For the list of Terrorist (with custom) bots and their individual statistics, see here.
+
 ## B. About Custom BOT Nickname for Tour of Duty</b>
 The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
 
@@ -97,35 +99,35 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <tr>
 <th rowspan="8">Terrorists</th>
 <th>Easy</th>
-<td>bot list</td>
+<td>Weasel • Lunatic • Crackpot • Outcast • <i>Creeper</i> • <i>Yasha</i></td>
 </tr>
 <tr>
 <th>Fair</th>
-<td>bot list</td>
+<td>Madman • Rat • Screech • Worm • Splinter • <i>Ash</i></td>
 </tr>
 <tr>
 <th>Normal</th>
-<td>bot list</td>
+<td>Freak • Maniac • Psycho • <i>Galods</i></td>
 </tr>
 <tr>
 <th>Tough</th>
-<td>bot list</td>
+<td>Rebel • Fiend • Vandal • <i>Crack</i></td>
 </tr>
 <tr>
 <th>Hard</th>
-<td>bot list</td>
+<td>Razor • Bandit • Raider • Blade • <i>Hornet</i> <i>Kon</i> • <i>Vermouth</i></td>
 </tr>
 <tr>
 <th>Very Hard</th>
-<td>bot list</td>
+<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Gin</i> • <i>Kier</i> • <i>Vodka</i></td>
 </tr>
 <tr>
 <th>Expert</th>
-<td>bot list</td>
+<td>Hyena • Wolfhound • Panther • Crow • <i>Cobra</i> • <i>Centipede</i> • <i>Frost</i></td>
 </tr>
 <tr>
 <th>Elite</th>
-<td>bot list</td>
+<td>Jackal • Hawk • Spider • Snake • <i>Ferret</i> • <i>Raiden</i> • <i>Tiger</i></td>
 </tr>
 </tbody>
 </table>
