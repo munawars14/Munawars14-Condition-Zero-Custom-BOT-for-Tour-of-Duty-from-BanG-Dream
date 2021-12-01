@@ -38,13 +38,13 @@ They are always unlocked, regardless of Reputation Point level or difficulty. On
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Mori Fumika</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>SEAL Team 6</th>
 </Tr>
 <Tr>
@@ -79,13 +79,13 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Nijikki Hinako</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GIGN</th>
 </Tr>
 <Tr>
@@ -122,13 +122,13 @@ Her voice pitch is 113, which means she has a high voice pitch.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Umino Natsuki</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GIGN</th>
 </Tr>
 <Tr>
@@ -165,13 +165,13 @@ Her voice pitch is set to 106, slightly higher than standard.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Taiko Satomi</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>SAS</th>
 </Tr>
 <Tr>
@@ -210,13 +210,13 @@ Her voice pitch is set to 107, slightly higher than standard.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Toyama Asuka</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>Spetsnaz</th>
 </Tr>
 <Tr>
@@ -265,13 +265,13 @@ Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Wanibe Nanana</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>SAS</th>
 </Tr>
 <Tr>
@@ -306,13 +306,13 @@ Her voice pitch is 105, slightly higher than standard.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Uzawa Rii</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GSG-9</th>
 </Tr>
 <Tr>
@@ -347,13 +347,13 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Ushigome Yuri</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>SEAL Team 6</th>
 </Tr>
 <Tr>
@@ -388,13 +388,13 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Tsukishima Marina</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>Spetsnaz</th>
 </Tr>
 <Tr>
