@@ -111,7 +111,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 <tr>
 <th>Tough</th>
-<td>Rebel • Fiend • Vandal • <i>Creeper</i></td>
+<td>Rebel • Fiend • Vandal • <i>Creeper</i> • <i>Albacore</i></td>
 </tr>
 <tr>
 <th>Hard</th>
@@ -123,11 +123,11 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 <tr>
 <th>Expert</th>
-<td>Hyena • Wolfhound • Panther • Crow • <i>Cobra</i> • <i>Frost</i></td>
+<td>Hyena • Wolfhound • Panther • Crow • <i>Bat</i> • <i>Lizard</i></td>
 </tr>
 <tr>
 <th>Elite</th>
-<td>Jackal • Hawk • Spider • Snake • <i>Ferret</i> • <i>Raiden</i> • <i>Tiger</i></td>
+<td>Jackal • Hawk • Spider • Snake • <i>Ferret</i> • <i>Raiden</i> • <i>Frost</i></td>
 </tr>
 </tbody>
 </table>
