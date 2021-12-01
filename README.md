@@ -123,7 +123,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 <tr>
 <th>Expert</th>
-<td>Hyena • Wolfhound • Panther • Crow • <i>Cobra</i> • <i>Centipede</i> • <i>Frost</i></td>
+<td>Hyena • Wolfhound • Panther • Crow • <i>Cobra</i> • <i>Frost</i></td>
 </tr>
 <tr>
 <th>Elite</th>
