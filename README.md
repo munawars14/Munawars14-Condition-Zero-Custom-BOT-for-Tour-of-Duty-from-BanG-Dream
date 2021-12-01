@@ -99,23 +99,23 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <tr>
 <th rowspan="8">Terrorists</th>
 <th>Easy</th>
-<td>Weasel • Lunatic • Crackpot • Outcast • <i>Creeper</i> • <i>Yasha</i></td>
+<td>Weasel • Lunatic • Crackpot • Outcast • <i>Yasha</i></td>
 </tr>
 <tr>
 <th>Fair</th>
-<td>Madman • Rat • Screech • Worm • Splinter • <i>Ash</i></td>
+<td>Madman • Rat • Screech • Worm • Splinter • <i>Galods</i></td>
 </tr>
 <tr>
 <th>Normal</th>
-<td>Freak • Maniac • Psycho • <i>Galods</i></td>
+<td>Freak • Maniac • Psycho • <i>Ash</i></td>
 </tr>
 <tr>
 <th>Tough</th>
-<td>Rebel • Fiend • Vandal • <i>Crack</i></td>
+<td>Rebel • Fiend • Vandal • <i>Creeper</i></td>
 </tr>
 <tr>
 <th>Hard</th>
-<td>Razor • Bandit • Raider • Blade • <i>Hornet</i> <i>Kon</i> • <i>Vermouth</i></td>
+<td>Razor • Bandit • Raider • Blade • <i>Hornet</i> • <i>Leech</i> • <i>Vermouth</i></td>
 </tr>
 <tr>
 <th>Very Hard</th>
