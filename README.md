@@ -23,7 +23,7 @@ The Terrorists will oppose your way. They will plant the bomb at one of the bomb
 
 When the player gains reputation points, the amount of enemies on maps within the same tour of duty will increase to balance out the player's increased amount and power of teammates.
 
-For the list of Terrorist (with custom) bots and their individual statistics, see here.
+For the list of Terrorist (with custom) bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md">see here</a>.
 
 ## B. About Custom BOT Nickname for Tour of Duty</b>
 The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
