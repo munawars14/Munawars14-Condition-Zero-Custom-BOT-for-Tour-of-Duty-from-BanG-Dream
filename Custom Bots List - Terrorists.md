@@ -513,7 +513,8 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </tbody>
 </table>
 
+## Trivia
+- Attributes in <i>italics</i> are exclusive statistic.
 
-
-
-
+## See Also
+- <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a>
