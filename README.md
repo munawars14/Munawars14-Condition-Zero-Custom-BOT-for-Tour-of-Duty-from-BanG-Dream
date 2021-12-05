@@ -115,11 +115,11 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 <tr>
 <th>Hard</th>
-<td>Razor • Bandit • Raider • Blade • <i>Hornet</i> • <i>Leech</i> • <i>Vermouth</i></td>
+<td>Razor • Bandit • Raider • Blade • <i>Hornet</i> • <i>Leech</i></td>
 </tr>
 <tr>
 <th>Very Hard</th>
-<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Gin</i> • <i>Kier</i> • <i>Vodka</i></td>
+<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Vodka</i></td>
 </tr>
 <tr>
 <th>Expert</th>
