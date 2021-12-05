@@ -34,13 +34,13 @@ On Easy and Normal difficulty, they are unlocked after the player finished 4 map
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2">Unknown Avatar</td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Wakabata Mayu</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GSG-9</th>
 </Tr>
 <Tr>
@@ -56,8 +56,12 @@ On Easy and Normal difficulty, they are unlocked after the player finished 4 map
 <Th>Bad</th>
 </Tr>
 <Tr>
-<Th colspan="2">Schmidt Scout</th>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/scout.png" /></td>
 </Tr>
+<Tr>
+<Th>Sec. Weapon</th>
+<Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" /></td>
 </Tbody>
 </Table>
 
@@ -78,13 +82,13 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Toko" src="https://i.bandori.party/u/i/m/32Kirigaya-Touko-roXDxC.png"></td></td>
+<Td colspan="2"><img alt="Toko" width="64px" height="64px" src="https://i.bandori.party/u/i/m/32Kirigaya-Touko-roXDxC.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Kirigaya Toko</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GSG-9</th>
 </Tr>
 <Tr>
@@ -100,7 +104,9 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th colspan="2">Schmidt Machine Pistol</th>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mac10.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" /></td>
 </Tr>
 </Tbody>
 </Table>
@@ -122,13 +128,13 @@ Her voice pitch is 111, slightly higher than the basic voice.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Arisa" src="https://i.bandori.party/u/i/m/10Arisa-Ichigaya-OhdoPc.png"></td>
+<Td colspan="2"><img alt="Arisa" width="64px" height="64px"src="https://i.bandori.party/u/i/m/10Arisa-Ichigaya-OhdoPc.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Ichigaya Arisa</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GIGN</th>
 </Tr>
 <Tr>
@@ -144,7 +150,8 @@ Her voice pitch is 111, slightly higher than the basic voice.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th colspan="2">Maverick M4A1 Carbine</th>
+<Th>Prim. Weapon</th>
+<Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
 </Table>
@@ -166,13 +173,13 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Himari" src="https://i.bandori.party/u/i/m/13Himari-Uehara-w2nYPj.png"></td>
+<Td colspan="2"><img width="64px" height="64px" alt="Himari" src="https://i.bandori.party/u/i/m/13Himari-Uehara-w2nYPj.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Uehara Himari</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>SAS</th>
 </Tr>
 <Tr>
@@ -188,7 +195,14 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th colspan="2">KM Submachine Gun</th>
+<Th>Prim. Weapon</th>
+<Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
+<img width=75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /></td>
+</Tr>
+<tr>
+<Th>Sec. Weapon</th>
+<Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/fn57.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" /></td>
 </Tr>
 </Tbody>
 </Table>
@@ -208,13 +222,13 @@ His voice pitch is 114, which means she has a high voice pitch.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Rui" src="https://i.bandori.party/u/i/m/35Rui-Yashio-VY7tDV.png"></td>
+<Td colspan="2"><img alt="Rui" width="64px" height="64px" src="https://i.bandori.party/u/i/m/35Rui-Yashio-VY7tDV.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Yashio Rui</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>Spetsnaz</th>
 </Tr>
 <Tr>
@@ -230,7 +244,11 @@ His voice pitch is 114, which means she has a high voice pitch.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th colspan="2">Clarion 5.56</th>
+<Th>Prim. Weapon</th>
+<Td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /><br>
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" />
+</td>
 </Tr>
 </Tbody>
 </Table>
@@ -255,13 +273,14 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Mashiro" src="https://i.bandori.party/u/i/m/31Mashiro-Kurata-5theuT.png"></td>
+<Td colspan="2"><img alt="Mashiro" width="64px" height="64px" src="https://i.bandori.party/u/i/m/31Mashiro-Kurata-5theuT.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" />
+</td>
 </Tr>
 <Tr>
 <Th colspan="2">Kurata Mashiro</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GIGN</th>
 </Tr>
 <Tr>
@@ -277,7 +296,8 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 <Th>Low</th>
 </Tr>
 <Tr>
-<Th colspan="2">ES C90</th>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
 </Tr>
 </Tbody>
 </Table>
@@ -302,13 +322,13 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Hagumi" src="https://i.bandori.party/u/i/m/18Hagumi-Kitazawa-A21E3r.png"></td>
+<Td colspan="2"><img alt="Hagumi" width="64px" height="64px" src="https://i.bandori.party/u/i/m/18Hagumi-Kitazawa-A21E3r.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Kitazawa Hagumi</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>Spetsnaz</th>
 </Tr>
 <Tr>
@@ -324,7 +344,14 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th colspan="2">KM UMP45</th>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" />
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ump45.png" />
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /></td>
+</Tr>
+<tr>
+<th>Sec. Weapon</th>
+<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/glock.png" /></td>
 </Tr>
 </Tbody>
 </Table>
@@ -347,13 +374,14 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Lock" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png"></td>
+<Td colspan="2"><img alt="Lock" width"64px" height="64px" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" />
+</td>
 </Tr>
 <Tr>
 <Th colspan="2">Asahi Rokka</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
+<Th>Faction</th>
 <Th>GSG-9</th>
 </Tr>
 <Tr>
@@ -369,7 +397,9 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th colspan="2">Bullpup</th>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" />
+</td>
 </Tr>
 </Tbody>
 </Table>
