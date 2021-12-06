@@ -26,6 +26,8 @@ There are 10 Tour of Duty CT bots under Cost 2 category.
 
 On Easy and Normal difficulty, they are unlocked after the player finished 4 maps (at 6 reputation points), while on Hard and Expert they are available from the beginning. Two reputation points are needed to hire each of them. Their skill level are set to 50 (Ok) or 60 (Ok).
 
+The order of the top weapons on the list becomes the bot's top priority.
+
 ### Members
 #### Mayu
 <Table border="1">
