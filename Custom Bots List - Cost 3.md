@@ -23,8 +23,23 @@
 <li><a href="#kanons-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
 <Li><a href="#masuki-aka-masking">Masuki (aka MASKING)</a></li>
+<ul>
+<li><a href="#masukis-background">Background</a></li>
+<li><a href="#masukis-personality">Personality</a></li>
+<li><a href="#masukis-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#saaya">Saaya</a></li>
+<ul>
+<li><a href="#saayas-background">Background</a></li>
+<li><a href="#saayas-personality">Personality</a></li>
+<li><a href="#saayas-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#tae">Tae</a></li>
+<ul>
+<li><a href="#taes-background">Background</a></li>
+<li><a href="#taes-personality">Personality</a></li>
+<li><a href="#taes-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#aya">Aya</a></li>
 <Li><a href="#lisa">Lisa</a></li>
 <Li><a href="#rimi">Rimi</a></li>
@@ -218,3 +233,211 @@ She has 85 (Good) points of teamwork and 50 (Ok) points of bravery. She will alw
 Kanon uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Carbine, but will swap it for an CV-47 if she finds one dropped by a Terrorist. 
 
 Her voice pitch is 113, which means she has a high voice pitch.
+
+### Masuki (aka MASKING)
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Masking" src="https://i.bandori.party/u/i/m/38MASKING-p5C4rr.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Satou Masuki</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>RAISE A SUILEN</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+#### Masuki's Background
+Satou Masuki is a second-year high school student at Shirayuki Private Academy, an all-girls' Catholic school, which she has attended ever since kindergarten.
+
+She goes by the stage name MASKING (マスキング) and is the drummer for the band RAISE A SUILEN. Her longing to become such a drummer like her father made her start playing the drums.
+
+#### Masuki's Personality
+Despite her sharp gaze and rough, delinquent-like appearance, Masuki likes cute things and is skilled at baking cakes. She is a straightforward but enthusiastic girl with a passionate heart, and values her friendship with the other RAISE A SUILEN members. She can be quite playful with her bandmates, and especially likes teasing Chiyu. She loves cooking, as well as talking about it, and even works part-time at a ramen store called "Ramen Ginga".
+
+She is a very skilled drummer, however, when she gets too immersed, she tends to fluster the other band members with her difficult improvisation performances, which made it difficult for her to join a band previously. Because of her violent and impulsive playstyle, she is called a mad dog (狂犬).
+
+Masuki admires Maya a lot and even knew of her before she became Pastel Palettes' drummer. She even tends to mimic Maya's speaking style when she speaks with her. Likewise, Maya also admires Masuki and calls her "King".
+
+#### Masuki's Custom Tour of Duty
+Masuki is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+Her teamwork and bravery are set to 75 each. She has good teamwork. She frequently follows the player's commands and always stay together with teammates. She is quite aggressive. While she will not retreat after spotting some Terrorists, she will fall back after spotting a large group of enemies. Then, she'll wait for several seconds to strike back.
+
+Masuki uses Power weapon preference template.
+
+Same as Kaoru, her voice pitch is set to 100.
+
+### Saaya
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Saaya" src="https://i.bandori.party/u/i/m/9Saaya-Yamabuki-7JDbNa.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Yamabuki Saaya</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Poppin Party</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+#### Saaya's Background
+Yamabuki Saaya is a second-year student at Hanasakigawa Girls' High School and the drummer of Poppin'Party. She became good friends with her classmate Kasumi during their high school entrance ceremony, and since then they eat lunch together every day.
+
+She is also good friends with Tomoe because they're both older sisters and drummers, and with Moca due to her being the self-proclaimed number #1 fan of Yamabuki Bakery. She and Rimi are also classmates with Kokoro.
+
+Saaya is the oldest of three children in her family; she has a younger brother named Jun, and a younger sister named Sana. Saaya's family owns the Yamabuki Bakery, at which she helps out, even during the school term.
+
+Saaya used to play in a girls' band called CHiSPA when she was in middle school, but quit because she didn't want to burden her bandmates and her family due to an incident that happened before an important performance. But thanks to Kasumi, who never gave up on her, and her mother's support, she regained her passion for music and her desire to perform in a band, thus became the last member of Poppin'Party to join.
+
+#### Saaya's Personality
+A kind, empathetic and hardworking person who cares deeply about her friends and family, Saaya often lends an ear to the people around her. She is generally level-headed and easygoing, and is like an "older sister" to the other girls, always willing to help them out in hard times. In addition to this, Saaya is the most mature member of Poppin'Party, and good at dealing with kids. Because of her kind nature, she has a hard time saying "no" to her friends or their requests, such as helping Hagumi to study.
+
+#### Saaya's Custom Tour of Duty
+Saaya is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+Same as Masuki, her teamwork and bravery are also set to 75 each. 
+
+Saaya uses Power weapon preference template.
+
+Her voice pitch is 115, which means she has a high voice pitch.
+
+### Tae
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Tae" src="https://i.bandori.party/u/i/m/7Tae-Hanazono-5ctAXt.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Hanazono Tae</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Poppin Party</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+#### Tae's Background
+Hanazono Tae is a second-year student at Hanasakigawa Girls' High School and the lead guitarist of Poppin'Party. The other members call her O-Tae.
+
+She is a huge lover of music and used to work part-time at SPACE before it shut down after the final live, which Poppin'Party also played in.
+
+Tae lives with her parents and 20 rabbits. She has considerable skill with the guitar, since she started playing it when she was in elementary school.
+
+One day, when Tae had to finish her home economics assignment with Kasumi after school, she started interacting with her and taught her how to play the basic guitar chords.
+
+Tae at first doubted Kasumi's idea to audition at SPACE when she told her about it, because the band needed a considerable skill level to pass. But when Kasumi performed for the first time in front of their friends and family with Arisa, Rimi, and Tae herself, Tae realized how much fun she had performing with them, which led to her joining Kasumi's Poppin'Party as its fourth member. Adding to this, Tae was impressed by their own performance and believed in their potential.
+
+#### Tae's Personality
+A relaxed individual who lives at her own pace, Tae sometimes surprises the people around her with her keen observations and understanding of music. She carries a sense of knowing in her discussions with others, while always keeping an optimistic outlook on a situation. However, she is also slightly airheaded like her mother, and tends to make or say weird remarks befitting to the situation at hand.
+
+Tae loves both rabbits and hamburg steaks and is constantly thinking about them, sometimes to the point of daydreaming and losing focus during a conversation. She loves rabbits so much to the point where she started doing imitations of her rabbits during the New Year party's talent show. In addition to this, Tae has compared other people, such as Rimi and Arisa to rabbits (Rimi because of her overall nature, and Arisa because her twin tails remind Tae of a rabbit's ears). She affectionately refers to one of her rabbits, Odd-Eye (nicknamed Occhan in Japanese and Oddie in the localized version), as her boyfriend.
+
+#### Tae's Custom Tour of Duty
+Tae is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+Same as Masuki and Saaya, her teamwork and bravery are also set to 75 each. 
+
+Tae uses the Punch template, which means her top priority weapon is the Bullpup. She does not use the low-power scope like other bots using the Bullpup.
+
+Her voice pitch is set to 104, slightly higher than the standard voice.
+
+### Aya
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Aya" src="https://i.bandori.party/u/i/m/21Aya-Maruyama-Zm0u9A.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Maruyama Aya</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Pastel Palettes</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
