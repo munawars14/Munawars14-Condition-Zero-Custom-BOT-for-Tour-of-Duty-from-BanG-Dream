@@ -120,7 +120,7 @@
 </Table>
 
 <B>Cost 2</b><br>
-<I>Main article : List of Tour of Duty CT Custom Bots/Cost 2</i><br>
+<I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md">List of Tour of Duty CT Custom Bots/Cost 2</a></i><br>
 <table border="1">
 <tbody align="center">
 <Tr>
