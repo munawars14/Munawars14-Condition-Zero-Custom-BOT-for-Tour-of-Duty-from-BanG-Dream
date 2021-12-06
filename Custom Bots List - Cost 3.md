@@ -12,7 +12,10 @@
 </ul>
 <Li><a href="#ako">Ako</a></li>
 <ul>
-<li><a href="#ba
+<li><a href="#">Background</a></li>
+<li><a href="#">Personality</a></li>
+<li><a href="#">Tour of Duty</a></li>
+</ul>
 <Li><a href="#kanon">Kanon</a></li>
 <Li><a href="#masuki-aka-masking">Masuki (aka MASKING)</a></li>
 <Li><a href="#saaya">Saaya</a></li>
