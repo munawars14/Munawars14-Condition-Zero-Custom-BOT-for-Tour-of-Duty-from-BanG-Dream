@@ -43,7 +43,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GSG-9</th>
+<Th>CHiSPA</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -91,7 +91,7 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GSG-9</th>
+<Th>Morfonica</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -137,7 +137,7 @@ Her voice pitch is 111, slightly higher than the basic voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GIGN</th>
+<Th>Poppin Party</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -182,7 +182,7 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>SAS</th>
+<Th>Afterglow</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -231,7 +231,7 @@ His voice pitch is 114, which means she has a high voice pitch.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Spetsnaz</th>
+<Th>Morfonica</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -283,7 +283,7 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GIGN</th>
+<Th>Morfonica</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -331,7 +331,7 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Spetsnaz</th>
+<Th>Hello Happy World</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -384,7 +384,7 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GSG-9</th>
+<Th>RAISE A SUILEN</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -424,14 +424,14 @@ Her voice pitch is set to 118, which means she has a higher pitch.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Nanami" src="https://i.bandori.party/u/i/m/33Nanami-Hiromachi-6p9s2u.png"></td>
+<Td colspan="2"><img alt="Nanami" width="64px" height="64px" src="https://i.bandori.party/u/i/m/33Nanami-Hiromachi-6p9s2u.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Hiromachi Nanami</th>
 </Tr>
 <Tr>
 <Th>Skin</th>
-<Th>SEAL Team 6</th>
+<Th>Morfonica</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -446,7 +446,8 @@ Her voice pitch is set to 118, which means she has a higher pitch.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th colspan="2">Leone YG1265 Auto Shotgun</th>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/xm1014.png" /></td>
 </Tr>
 </Tbody>
 </Table>
@@ -467,14 +468,14 @@ Same as Mayu, her voice pitch is set to 109.
 <Th colspan="2">Cost 2</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Pareo" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png"></td>
+<Td colspan="2"><img alt="Pareo" width="64px" height="64px" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Nyubara Reona</th>
 </Tr>
 <Tr>
-<Th>Skin</th>
-<Th>GIGN</th>
+<Th>Faction</th>
+<Th>RAISE A SUILEN</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -489,8 +490,13 @@ Same as Mayu, her voice pitch is set to 109.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th colspan="2">Clarion 5.56</th>
+<th>Prim. Weapon</th>
+<Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /></td>
 </Tr>
+<tr>
+<th>Sec. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/fn57.png" /></td>
+</tr>
 </Tbody>
 </Table>
 
