@@ -32,10 +32,29 @@ All bot names are taken based on all members of each band : <b>Poppin Party</b>,
 
 For the list of custom bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">see here</a>.
 
-## C. Download Link
+## C. Features
+<ul>
+<li>All custom CT bot names are taken from the <b>BanG Dream!</b> series and game.</li>
+<li>Some custom Terrorist bots will use weapons that were <i>not used</i> on the original Tour of Duty (ex : SG552, G3SG1, Galil, etc.).</li>
+<li>Some custom Terrorist bots will use skin of a Midwest Militia.</li>
+<li>Added new custom bot for Terrorists.</li>
+<ul>
+<li><b>Easy</b> : Yasha</li>
+<li><b>Fair</b> : Galods</li>
+<li><b>Normal</b> : Ash</li>
+<li><b>Tough</b> : Creeper and Albacore</li>
+<li><b>Hard</b> : Hornet and Leech</li>
+<li><b>Very Hard</b> : Vodka</li>
+<li><b>Expert</b> : Bat and Lizard</li>
+<li><b>Elite</b> : Ferret, Raiden, and Frost</li>
+</ul>
+<li>Tour of Duty for all difficulties increased.</li>
+</ul>
+
+## D. Download Link
 - Waiting ...
 
-## D. Tours
+## E. Tours
 ### 1. Tour of Duty 1
 - Dust
 - Office
