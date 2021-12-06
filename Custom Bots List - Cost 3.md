@@ -14,7 +14,7 @@
 <ul>
 <li><a href="#akos-background">Background</a></li>
 <li><a href="#akos-personality">Personality</a></li>
-<li><a href="#akos-tour-of-duty">Tour of Duty</a></li>
+<li><a href="#akos-custom-tour-of-duty">Tour of Duty</a></li>
 </ul>
 <Li><a href="#kanon">Kanon</a></li>
 <Li><a href="#masuki-aka-masking">Masuki (aka MASKING)</a></li>
@@ -148,7 +148,7 @@ Ako is a cheerful and noisy girl. Although she's only two years younger than the
 
 Ako often wonders how she can be a "cooler" person, and sometimes feels inadequate compared to her other bandmates; however, as the story goes on, she becomes more confident and both Yukina and Sayo, who initially scoffed or ignored her ideas sometimes, also come to understand her more and get used to her chuunibyou side.
 
-#### Ako's Tour of Duty
+#### Ako's Custom Tour of Duty
 Ako is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
 
 Ako's teamwork is 50%, which in the OK category. She rarely follows the player's commands and always stays away from teammates. She only regroups if he has low money in reserve.
