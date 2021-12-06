@@ -47,7 +47,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>SEAL Team 6</th>
+<Th>CHiSPA</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -89,7 +89,7 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GIGN</th>
+<Th>Glitter Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -137,7 +137,7 @@ Her voice pitch is 113, which means she has a high voice pitch.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GIGN</th>
+<Th>CHiSPA</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -185,7 +185,7 @@ Her voice pitch is set to 106, slightly higher than standard.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>SAS</th>
+<Th>CHiSPA</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -231,7 +231,7 @@ Her voice pitch is set to 107, slightly higher than standard.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Spetsnaz</th>
+<Th>N/A</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -295,7 +295,7 @@ Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>SAS</th>
+<Th>Glitter Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -337,7 +337,7 @@ Her voice pitch is 105, slightly higher than standard.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>GSG-9</th>
+<Th>Glitter Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -386,7 +386,7 @@ Her voice pitch is set to 108, slightly higher than standard.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>SEAL Team 6</th>
+<Th>Glitter Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -439,7 +439,7 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Spetsnaz</th>
+<Th>N/A</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
