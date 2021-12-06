@@ -14,9 +14,14 @@
 <ul>
 <li><a href="#akos-background">Background</a></li>
 <li><a href="#akos-personality">Personality</a></li>
-<li><a href="#akos-custom-tour-of-duty">Tour of Duty</a></li>
+<li><a href="#akos-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
 <Li><a href="#kanon">Kanon</a></li>
+<ul>
+<li><a href="#kanons-background">Background</a></li>
+<li><a href="#kanons-personality">Personality</a></li>
+<li><a href="#kanons-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#masuki-aka-masking">Masuki (aka MASKING)</a></li>
 <Li><a href="#saaya">Saaya</a></li>
 <Li><a href="#tae">Tae</a></li>
@@ -159,3 +164,57 @@ Ako uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Car
 
 Her voice pitch is set to 119, the highest level.
 
+### Kanon
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img alt="Kanon" width="64px" height="64px" src="https://i.bandori.party/u/i/m/19Kanon-Matsubara-gUFIXE.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Matsubara Kanon</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Hello Happy World</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+#### Kanon's Background
+Matsubara Kanon is a third-year student at Hanasakigawa Girls' High School and was the first to be roped in by Kokoro to become the drummer for Hello, Happy World! She is very clumsy, quick to burst into tears, and has a bad sense of direction.
+
+Outside of the band, she is good friends with Chisato, whom she has known ever since middle school. She also works part-time at the fast food store together with Aya.
+
+#### Kanon's Personality
+Sensible and responsible, Kanon is one of the members within Hello, Happy World! that manages to keep the band running smoothly, although she is likely to space out and start thinking about jellyfish. She is fairly shy and easily flustered, and can become a nervous wreck at the drop of a hat and start crying if she feels overwhelmed. Whenever she gets nervous or overwhelmed she tends to say "fuee."
+
+However, she is also shown to have moments where she is determined and takes matters into her own hands. She is also very caring and kind, as well as hardworking.
+
+#### Kanon's Custom Tour of Duty
+Kanon is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+She has 85 (Good) points of teamwork and 50 (Ok) points of bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will wait for assailants to approach. In bomb defusal maps, she prefers to camp at a bombsite if she lacks money.
+
+Kanon uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Carbine, but will swap it for an CV-47 if she finds one dropped by a Terrorist. 
+
+Her voice pitch is 113, which means she has a high voice pitch.
