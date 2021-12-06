@@ -6,15 +6,15 @@
 <Ul>
 <Li><a href="#kaoru">Kaoru</a></li>
 <ul>
-<li><a href="#background">Background</a></li>
-<li><a href="#personality">Personality</a></li>
-<li><a href="#custom-tour-of-duty">Custom Tour of Duty</a></li>
+<li><a href="#kaorus-background">Background</a></li>
+<li><a href="#kaorus-personality">Personality</a></li>
+<li><a href="#kaorus-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
 <Li><a href="#ako">Ako</a></li>
 <ul>
-<li><a href="#">Background</a></li>
-<li><a href="#">Personality</a></li>
-<li><a href="#">Tour of Duty</a></li>
+<li><a href="#akos-background">Background</a></li>
+<li><a href="#akos-personality">Personality</a></li>
+<li><a href="#akos-tour-of-duty">Tour of Duty</a></li>
 </ul>
 <Li><a href="#kanon">Kanon</a></li>
 <Li><a href="#masuki-aka-masking">Masuki (aka MASKING)</a></li>
@@ -157,5 +157,5 @@ Ako is a quite aggressive bot. She will not retreat after spotting some enemies 
 
 Ako uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Carbine, but will swap it for an CV-47 if she finds one dropped by a Terrorist. 
 
-
+Her voice pitch is set to 119, the highest level.
 
