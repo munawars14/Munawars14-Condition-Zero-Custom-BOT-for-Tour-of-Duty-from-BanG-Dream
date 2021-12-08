@@ -306,7 +306,7 @@ Masuki is a hard bot, which means her skill point is set to 75. She is 75% accur
 
 Her teamwork and bravery are set to 75 each. She has good teamwork. She frequently follows the player's commands and always stay together with teammates. She is quite aggressive. While she will not retreat after spotting some Terrorists, she will fall back after spotting a large group of enemies. Then, she'll wait for several seconds to strike back.
 
-Masuki uses Power weapon preference template.
+Masuki uses Power weapon preference template, she prefers to purchase the M249.
 
 Same as Kaoru, her voice pitch is set to 100.
 
@@ -655,4 +655,22 @@ Same as Lisa and Rimi, she has 100 (High) points of teamwork and 50 (Ok) points 
 She uses Shotgun template.
 
 Her voice pitch is 111, slightly higher than the basic voice.
+
+# Tactics
+<ul>
+<li>When hiring cost 3 bots, hire 1 or more bots below first because they have better skill (80 instead of 75).</li>
+<ul>
+<li>Seta Kaoru or Matsubara Kanon, they can be deployed to firing enemies in medium or long range.</li>
+<li>Yamabuki Saaya, she uses M249.</li>
+<li>Hanazono Tae, she uses Bullpup.</li>
+<li>Maruyama Aya, she uses ES C90. So it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
+</ul>
+<li>In Chateau, there is a challenge that require player to eliminate enemies using M249. If the player struggle to purchase expensive M249, using Saaya or Masuki as teammate might be a good idea. Follow her, and when she dies, pick up her M249 for free.
+<ul>
+<li>It's best to hire Saaya or Masuki only maps with close quarter combat as bots with the M249 will fire in full auto regardless of it's range; limiting their accuracy to first few shots at long range.</li>
+</ul>
+</ul>
+
+
+
 
