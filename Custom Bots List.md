@@ -363,7 +363,7 @@
 <Td>Good</td>
 <Td>High</td>
 <Td>Ok</td>
-<Td></td>
+<Td>118</td>
 </Tr>
 <Tr>
 <Td>Rinko</td>
