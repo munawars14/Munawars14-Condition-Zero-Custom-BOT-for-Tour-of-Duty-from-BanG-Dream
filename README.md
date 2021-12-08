@@ -36,7 +36,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <ul>
 <li>All custom CT bot names are taken from the <b>BanG Dream!</b> series and game.</li>
 <li>Some custom Terrorist bots will use weapons that were <i>not used</i> on the original Tour of Duty (ex : SG552, G3SG1, Galil, etc.).</li>
-<li>Some custom Terrorist bots will use skin of a Midwest Militia.</li>
+<li>Some custom Terrorist and CT bots will use skin of a Midwest Militia and Spetsnaz.</li>
 <li>Added new custom bot for Terrorists.</li>
 <ul>
 <li><b>Easy</b> : Yasha</li>
@@ -51,48 +51,49 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <li>Tour of Duty for all difficulties increased.</li>
 </ul>
 
-## D. Download Link
-- Waiting ...
-
-## E. Tours
-### 1. Tour of Duty 1
-- Dust
-- Office
-- Prodigy
-
-### 2. Tour of Duty 2
-- Tides
-- Italy
-- Inferno
-
-### 3. Tour of Duty 3
-- Dust II
-- Militia
-- Stadium
-
-### 4. Tour of Duty 4
-- Chateau
-- Havana
-- Cobble
-
-### 5. Tour of Duty 5
-- Aztec
-- Downed
-- Airstrip
-
-### 6. Tour of Duty 6
-- Piranesi
-- Fastline
-- Torn
-
-## Preferences
-- About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
-- <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">CSCZ Custom BOT Nickname from BanG Dream! (Classic BOT)</a>
-
+## D. List
+### 1. Map
 <table border="1">
 <tbody>
 <tr>
-<th colspan="3" align="center">Custom Tour of Duty</th>
+<th colspan="2">Maps List in Tour of Duty</th>
+</tr>
+<tr>
+<th>Tour of Duty 1</th>
+<td>Dust • Office • Prodigy</td>
+</tr>
+<tr>
+<th>Tour of Duty 2</th>
+<td>Tides • Italy • Inferno</td>
+</tr>
+<tr>
+<th>Tour of Duty 3</th>
+<td>Dust 2 • Militia • Stadium</td>
+</tr>
+<tr>
+<th>Tour of Duty 4</th>
+<td>Chateau • Havana • Cobble</td>
+</tr>
+<tr>
+<th>Tour of Duty 5</th>
+<td>Aztec • Downed • Airstrip</td>
+</tr>
+<tr>
+<th>Tour of Duty 6</th>
+<td>Piranesi • Fastline • Torn</td>
+</tr>
+<tr>
+<th>Tour of Duty 7 [Not Ready]</th>
+<td>Sierra • Corruption • Vostok</td>
+</tr>
+</tbody>
+</table>
+
+### 2. Bot
+<table border="1">
+<tbody>
+<tr>
+<th colspan="3" align="center">Custom Bots List in Tour of Duty</th>
 </tr>
 <tr>
 <th rowspan="5">Counter-Terrorists</th>
@@ -150,6 +151,16 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 </tbody>
 </table>
+
+## E. Changelog
+- Waiting ...
+
+## F. Download Link
+- Waiting ...
+
+## Preferences
+- About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
+- <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">CSCZ Custom BOT Nickname from BanG Dream! (Classic BOT)</a>
 
 ## Special Thanks
 - Bang Dream! Project
