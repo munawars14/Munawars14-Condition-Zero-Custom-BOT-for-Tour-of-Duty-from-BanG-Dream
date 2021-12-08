@@ -250,7 +250,7 @@
 </Table>
 
 <B>Cost 3</b><br>
-<I>Main article : List of Tour of Duty CT Custom Bots/Cost 3</i><br>
+<I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md">List of Tour of Duty CT Custom Bots/Cost 3</a></i><br>
 <table border="1">
 <tbody align="center">
 <Tr>
@@ -380,7 +380,7 @@
 <Table>
 
 <B>Cost 4</b><br>
-<I>Main article : List of Tour of Duty CT Custom Bots/Cost 4</i><br>
+<I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md">List of Tour of Duty CT Custom Bots/Cost 4</a></i><br>
 <table border="1">
 <tbody align="center">
 <Tr>
@@ -510,7 +510,7 @@
 </Table>
 
 <B>Cost 5</b><br>
-<I>Main article : List of Tour of Duty CT Custom Bots/Cost 5</i><br>
+<I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md">List of Tour of Duty CT Custom Bots/Cost 5</a></i><br>
 <table border="1">
 <tbody align="center">
 <Tr>
