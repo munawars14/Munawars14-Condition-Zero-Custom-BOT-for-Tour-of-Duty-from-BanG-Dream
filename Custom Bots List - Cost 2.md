@@ -113,7 +113,11 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
-Toko is the lead guitarist of the band member Morfonica, Toko is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+Kirigaya Toko is a first-year student at Tsukinomori Girls' Academy, and the lead guitarist of Morfonica. She handles the band's costumes and like Lisa, follows gyaru fashion.
+
+Outside of the band she is friends with Sayo and Kaoru, and is also classmates with Nanami.
+
+Toko is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 Her co-op is set to 50 (Ok). Toko has moderate teamwork. She only follows the player's commands and stays close to her teammates if the CTs lost the previous round.
 
@@ -158,7 +162,9 @@ Her voice pitch is 111, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
-Arisa is the keyboardist of the band member Poppin'Party, Arisa is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+Ichigaya Arisa is a second-year student at Hanasakigawa Girls' High School, the student council secretary and Poppin'Party's keyboardist.
+
+Arisa is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 She has 60 (Ok) points of teamwork and 85 (Good) points of bravery. Arisa has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if she lacks sufficient money.
 
@@ -209,7 +215,9 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
-Himari is the leader and bassist of the band member Afterglow, Himari is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+Uehara Himari is a second-year student at Haneoka Girls' High School and the leader and bassist of Afterglow. She is a huge fan of Kaoru's.
+
+Himari is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 Both of her teamwork and bravery are set to 75 (Good) points each. She will always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists. After several seconds, she will attack. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
@@ -255,7 +263,7 @@ His voice pitch is 114, which means she has a high voice pitch.
 </Tbody>
 </Table>
 
-Rui is a talented violinist who has played the violin ever since she was young. Rui is also a member of Tsukinomori Girls' Academy's student council. She initially watched Morfonica's band practices only because they needed someone from the student council to monitor their activities, before the other girls managed to convince her to join the band.
+Yashio Rui is a first-year student at Tsukinomori Girls' Academy and the violinist and composer of Morfonica. Rui is a talented violinist who has played the violin ever since she was young. Rui is also a member of Tsukinomori Girls' Academy's student council. She initially watched Morfonica's band practices only because they needed someone from the student council to monitor their activities, before the other girls managed to convince her to join the band.
 
 Rui is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
@@ -268,7 +276,6 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 
 #### Mashiro
-
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -304,20 +311,17 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 </Tbody>
 </Table>
 
-Mashiro is the vocalist of the band Morfonica, Mashiro is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+Kurata Mashiro is a first-year transfer student at Tsukinomori Girls' Academy, and the lead singer of Morfonica. She writes the lyrics for their songs. She is also classmates with Tsukushi.
+
+Mashiro is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 She has 100 teamwork points and 25 bravery points. She will always follow the player's commands and stays together with teammates. She is rather passive, and will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
-
-Mashiro is a kind but quiet, shy, and reserved girl. Though she aspired for Tsukinomori Girls' Academy and managed to get in, she was overwhelmed by the talented individuals around her. As a result, she felt depressed daily until she stumbled upon Poppin'Party's performance in CiRCLE.
-
-She's full of imagination and tends to get lost in her fantasies, especially when she's writing lyrics. Mashiro tends to think negatively quite often, and is afraid of interacting with strangers because she thinks she might give them a bad first impression of herself, as well as make them think she's strange.
 
 She prefers ES C90 as his main weapon, since she uses Spray template.
 
 Her voice pitch is set to 116, which means she has a bit high pitch.
 
 #### Hagumi
-
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -358,7 +362,11 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 </Tbody>
 </Table>
 
-Hagumi is the bassist of the band member Hello Happy World, Hagumi is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+Kitazawa Hagumi is an energetic second-year student at Hanasakigawa Girls' High School and the bassist of Hello, Happy World!
+
+Outside of the band, she is also friends with Saaya, and is also classmates with Tae and Eve.
+
+Hagumi is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
@@ -369,7 +377,6 @@ Her voice pitch is set to 117, which means she has a bit high pitch.
 Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 
 #### Rokka (aka LOCK)
-
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -406,7 +413,13 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 </Tbody>
 </Table>
 
-Rokka is the guitarist of the band member Raise A Suilen, Rokka is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+Asahi Rokka is a first-year high school student at Haneoka Girls' High School. She goes by the stage name LOCK (ロック) and is the guitarist for RAISE A SUILEN.
+
+She is from Gifu Prefecture. She is in the same class as Asuka and Ako, and studies at Haneoka instead of Hanasakigawa due to a scholarship program.
+
+Rokka works part-time at Live House Galaxy, where she was appointed as the acting representative for events. She also works and lives at Asahi Bathhouse, which is owned by her relatives.
+
+Rokka is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 Her co-op level is set to 100 (High) points and bravery level is set to 75 (Good) points, which means he will almost always follow player's command and stick together with teammates.
 
@@ -417,7 +430,6 @@ Rokka uses the Punch template, which means her top priority weapon is Bullpup. S
 Her voice pitch is set to 118, which means she has a higher pitch.
 
 #### Nanami
-
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -452,7 +464,9 @@ Her voice pitch is set to 118, which means she has a higher pitch.
 </Tbody>
 </Table>
 
-Nanami is the bassist of the band member Morfonica, Nanami is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
+Hiromachi Nanami is a first-year student at Tsukinomori Girls' Academy and the bassist of Morfonica. She is also classmates with Touko.
+
+Nanami is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 Her co-op level is set to 100 (High) points and bravery level is set to 85 (Good) points, which means he will almost always follow player's command and stick together with teammates. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
@@ -461,7 +475,6 @@ She uses Shotgun template, which means her top priority weapon is Leone YG1265 A
 Same as Mayu, her voice pitch is set to 109.
 
 #### Reona (aka PAREO)
-
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -500,7 +513,11 @@ Same as Mayu, her voice pitch is set to 109.
 </Tbody>
 </Table>
 
-Reona is the keyboardist and backing vocal of the band member Raise A Suilen, Reona is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
+Nyubara Reona is a second-year middle school student at Kamogawa Chuou Middle School. She goes by the stage name PAREO (パレオ) and is the keyboardist for the band RAISE A SUILEN.
+
+She adores Chiyu and has said she admires her deeply, especially because Chiyu was the one who "pulled her out of the darkness." She calls her CHU²-sama and sometimes Goshujinsama (lit. Master; translated as "Mistress" in BanG Dream! 2nd Season's English dub).
+
+Reona is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 Both of her teamwork and bravery are set to 100% points each, which in the "High" category. She will always follow the player's command and always sticks together with teammates.
 
@@ -551,11 +568,35 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
 <Ul>
 <li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Hanazono_Tae">Hanazono Tae</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a></li>
+</ul>
 <Li><a href="https://bandori.fandom.com/wiki/Afterglow">Afterglow</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Pastel*Palettes">Pastel*Palettes</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Wakamiya_Eve">Wakamiya Eve</a></li>
+</ul>
 <Li><a href="https://bandori.fandom.com/wiki/Hello,_Happy_World!">Hello Happy World</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Seta_Kaoru">Seta Kaoru</a></li>
+</ul>
+<li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Udagawa_Ako">Udagawa Ako</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Hikawa_Sayo">Hikawa Sayo</li>
+<li><a href="https://bandori.fandom.com/wiki/Imai_Lisa">Imai Lisa</li>
+</ul>
 <Li><a href="https://bandori.fandom.com/wiki/Morfonica">Morfonica</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Futaba_Tsukushi">Futaba Tsukushi</li>
+</ul>
 <li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Tamade_Chiyu">Tamade Chiyu</a></li>
+</ul>
 <Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Toyama_Asuka">Toyama Asuka</a></li>
 </Ul>
 </Ul>
 
