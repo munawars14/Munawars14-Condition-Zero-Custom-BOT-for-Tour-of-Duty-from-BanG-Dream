@@ -41,9 +41,29 @@
 <li><a href="#taes-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
 <Li><a href="#aya">Aya</a></li>
+<ul>
+<li><a href="#ayas-background">Background</a></li>
+<li><a href="#ayas-personality">Personality</a></li>
+<li><a href="#ayas-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#lisa">Lisa</a></li>
+<ul>
+<li><a href="#lisas-background">Background</a></li>
+<li><a href="#lisas-personality">Personality</a></li>
+<li><a href="#lisas-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#rimi">Rimi</a></li>
+<ul>
+<li><a href="#rimis-background">Background</a></li>
+<li><a href="#rimis-personality">Personality</a></li>
+<li><a href="#rimis-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#rinko">Rinko</a></li>
+<ul>
+<li><a href="#rinkos-background">Background</a></li>
+<li><a href="#rinkos-personality">Personality</a></li>
+<li><a href="#rinkos-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 </Ul>
 <Li><a href="#tactics">Tactics</a></li>
 <Li><a href="#trivia">Trivia</a></li>
@@ -440,4 +460,199 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 </Tr>
 </Tbody>
 </Table>
+
+#### Aya's Background
+Maruyama Aya is a third-year student at Hanasakigawa Girls' High School and the leader and vocalist of Pastel*Palettes. She also works part-time at the fast-food store with Kanon.
+
+Aya has always admired idols ever since she was young, and the reason she wanted to become an idol was because of the idol group Marmalade's lead, Ayumi. Aya then spent three years being a trainee idol before she was chosen to become the lead singer for Pastel*Palettes.
+
+#### Aya's Personality
+On the outside, Aya is very cheerful, high-spirited, and bubbly. She is also very nice and has always been in love with idols. She is unselfish in her pursuits, helping others for the sake of being kind.
+
+Deep down, however, she is a sensitive girl who suffers from a complex stemming from her desire to be noticed. Adding to this, she does not wear her disguise outside because she wants to get noticed and even looks up constantly what people think of her on the internet. She gets worked up easily and tends to cry a lot, thus her improvisation skills are poor and she tends to mess up during her MC duties. She also has a senpai-kouhai relationship with Kasumi and often frets over it, trying her best to look and act like an "admirable, reliable senpai".
+
+Aya works hard in order to become an idol she can be proud of and is very determined about her goal and passion despite her shortcomings. She is also very knowledgeable about certain things, such as taking the perfect selfie, and is shown to constantly practice this. She also likes coming up with different "idol poses" which she's usually proud of, despite the fact that people tease her for them (or misunderstand them, just like in Eve's case).
+
+#### Aya's Custom Tour of Duty
+Aya is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+Her teamwork is set to 85 (Good). She frequently follows the player's commands and usually stays together with teammates. Her bravery is set to high, at 100 points. She will never retreat even when spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
+
+Aya uses the Spray template.
+
+Same as Saaya, her voice pitch is 115.
+
+### Lisa
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Lisa" src="https://i.bandori.party/u/i/m/28Lisa-Imai-NSapWM.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Imai Lisa</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Roselia</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+#### Lisa's Background
+Imai Lisa is a third-year student at Haneoka Girls' High School and Roselia's bassist.
+
+She follows gyaru fashion, but keeps her interest in amigurumi secret, since it does not match her image. She is a proficient bassist, wowing the other Roselia members in her audition, and is a great cook as well as a baker[2].
+
+She is best friends and next-door neighbors with Yukina, and has known her ever since they were little. Outside of the band, she is also friends with Moca, who is her coworker at her part-time job at the convenience store.
+
+#### Lisa's Personality
+Lisa is a friendly and lively girl who appears mature and calm. Despite her appearance, Lisa acts as the mediator in tense situations, and takes care of everyone well. It's because of her that Roselia is able to continue to stick together despite the contrasting members personalities and disagreements at times. She often chides the others if she feels necessary, bringing balance to the group.
+
+Lisa is very caring in nature, and is able to notice when a friend is troubled, usually being the first to try and help. She does her best to do what she can, sometimes to a fault, where she'll put her all into something regardless of her own feelings. Adding to her caring nature, she sometimes calls herself an "onee-san", but the other characters have also compared her to a mother at times.
+
+Despite her skills and proficiency as a bassist Lisa believes she is the least skilled member of Roselia, and can get quite sentimental at times as well. She easily cries when her friends, or especially Yukina, reaffirm just how much she is needed in the band or in general. However as time goes on, she becomes more confident and is able to call herself a proud member of Roselia.
+
+#### Lisa's Custom Tour of Duty
+Lisa is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
+
+Lisa uses the Punch template.
+
+Same as Saaya and Aya, her voice pitch is 115.
+
+### Rimi
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Rimi" src="https://i.bandori.party/u/i/m/8Rimi-Ushigome-gMEIOR.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Ushigome Rimi</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Poppin Party</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+Ushigome Rimi is a second-year student at Hanasakigawa Girls' High School and the bassist and composer for Poppin'Party. The other band members call her both Rimi and Rimi-rin.
+
+Outside of the band, she is friends with Misaki, and similarly to Himari, one of Kaoru's fangirls. She is also a huge fan of the Yamabuki Bakery, and especially loves their chocolate cornets.
+
+#### Rimi's Background
+Rimi's pink bass guitar is a hand-me-down from her older sister Yuri, who is two years older than her and also the lead vocalist of the band Glitter*Green.
+
+During Rimi's high school entrance ceremony, she heard Kasumi's self-introduction that was filled with boundless optimism, and this sparked her interest in her. Though Rimi wanted to change her cowardly and shy personality, she had initially been unable to do anything about it.
+
+At first, Rimi declined Kasumi's invitation to become a member of the band Poppin'Party because of her stage fright, but everything changed when she became inspired by Kasumi who sang onstage at SPACE until Glitter*Green, who were late because of the storm, arrived. She eventually found her confidence to overcome her stage fright and managed to perform with Kasumi and Arisa. After the show, she finally decided to join Kasumi's band as its third member and bassist.
+
+#### Rimi's Personality
+Rimi is a shy and reserved girl who admires her older sister and often gushes over her. She tends to compare herself to the others frequently, and wishes she could be more confident and be able to "speak up" more often. Rimi is cute and sweet-natured, and often blushes when flustered, but at times can be very determined and strong as well.
+
+As Rimi used to live in the Kansai region, her Kansai dialect sometimes slips into her speech when she stumbles on her sentences or is very nervous; she is a bit embarrassed of this.
+
+#### Rimi's Custom Tour of Duty
+Rimi is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+Same as Lisa, she has 100 (High) points of teamwork and 50 (Ok) points of bravery.
+
+Rimi uses Rifle template.
+
+Her voice pitch is set to 118, the high level.
+
+### Rinko
+<Table border="1">
+<Tbody align="center">
+<Tr>
+<Th colspan="2">Cost 3</th>
+</Tr>
+<Tr>
+<Td colspan="2"><img width="64px" height="64px" alt="Rinko" src="https://i.bandori.party/u/i/m/30Rinko-Shirokane-S5HF59.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" /></td>
+</Tr>
+<Tr>
+<Th colspan="2">Shirokane Rinko</th>
+</Tr>
+<Tr>
+<Th>Faction</th>
+<Th>Roselia</th>
+</Tr>
+<Tr>
+<Th>Skill</th>
+<Th>Good</th>
+</Tr>
+<Tr>
+<Th>Co-op</th>
+<Th>High</th>
+</Tr>
+<Tr>
+<Th>Bravery</th>
+<Th>Ok</th>
+</Tr>
+<Tr>
+<Th>Prim. Weapon</th>
+<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/xm1014.png" /></td>
+</Tr>
+</Tbody>
+</Table>
+
+#### Rinko's Background
+Shirokane Rinko is a third-year student and the student council president of Hanasakigawa Girls' High School, as well as the last member to join Roselia as their keyboardist. She is a very talented keyboardist who has played the piano ever since she was 5-years-old, and prior to joining Roselia, had even won a music contest.
+
+She is very shy, and is at first scared of the idea of performing in a live concert. She is also the band's costume designer and sews their outfits all by herself.
+
+Her hobbies are reading and playing online games, the latter through which she met her best friend, Ako, who also calls her "Rin-rin".
+
+#### Rinko's Personality
+Socially awkward, Rinko is a shy and asocial girl who was initially too frightened to speak in front of others, let alone perform before them. She has a tendency to stammer when speaking, and usually keeps quiet until she feels comfortable.
+
+When she is set on or passionate about something, she does so with conviction, like piano or online games. Rinko also tends to get very excited about her passions, to the point where when she was explaining how Neo Fantasy Online worked to the other Roselia members, she was speaking in an alarming speed.
+
+#### Rinko's Custom Tour of Duty
+Rimi is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
+Same as Lisa and Rimi, she has 100 (High) points of teamwork and 50 (Ok) points of bravery.
+
+She uses Shotgun template.
+
+Her voice pitch is 111, slightly higher than the basic voice.
 
