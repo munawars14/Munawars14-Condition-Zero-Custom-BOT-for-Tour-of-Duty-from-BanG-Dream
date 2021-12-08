@@ -161,7 +161,7 @@ Her voice pitch is 113, which means she has a high voice pitch.
 </Tr>
 </Tbody>
 </Table><br>
-Natsuki is the vocalist and lead guitarist of the band CHiSPA and is friends with Yamabuki Saaya, who used to be CHiSPA's drummer in middle school. She was in the same class with Ichigaya Arisa during their first year.
+Natsuki is the vocalist and lead guitarist of the band CHiSPA and is friends with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#saaya">Yamabuki Saaya</a>, who used to be CHiSPA's drummer in middle school. She was in the same class with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#arisa">Ichigaya Arisa</a> during their first year.
 <Br><br>
 Natsuki is an Easy bot. Natsuki's skill type is bad, which means she is not accurate when firing, she cannot detect footsteps.
 <Br><br>
@@ -263,9 +263,9 @@ Asuka lives together with her parents and Kasumi, whom she simply refers to as "
 
 #### Storyline in Anime
 
-In the 1st season, she was a third-year junior student at Hanasakigawa Girls' Junior High School and in the same swimming club with Yuri.
+In the 1st season, she was a third-year junior student at Hanasakigawa Girls' Junior High School and in the same swimming club with <a href="#yuri">Yuri</a>.
 <Br><br>
-In the 2nd season, Rokka had invited her to form a band with her but she declined. However, she promised to keep an eye for Rokka for possible band members.
+In the 2nd season, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rokka-aka-lock">Rokka</a> had invited her to form a band with her but she declined. However, she promised to keep an eye for Rokka for possible band members.
 <Br><br>
 In the 3rd season, Rokka finally met her "fated band members" and Asuka's role of watching over her ended. She then volunteered as a staff for the event "BanG Dream! Girls Band Challenge!", and watched Poppin'Party, Roselia, and RAISE A SUILEN perform together at the Budokan.
 
@@ -417,9 +417,9 @@ Her voice pitch is set to 108, slightly higher than standard.
 </tr>
 </Tbody>
 </Table><br>
-Yuri is the lead vocalist and guitarist of Glitter Green, and Rimi's older sister. Yuri is a Fair bot. Yuri's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
+Yuri is the lead vocalist and guitarist of Glitter Green, and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rimi">Rimi</a>'s older sister. Yuri is a Fair bot. Yuri's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
 <Br><br>
-She has 100 (High) points of teamwork and 25 (Low) points of Bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, he will find another way to strike from behind. In bomb defusal maps, he prefers to camp at a bombsite.
+She has 100 (High) points of teamwork and 25 (Low) points of Bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
 <Br><br>
 Yuri prefers Clarion 5.56 as her main weapon, followed by KM Submachine Gun and Schmidt Machine Pistol. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Yuri never utilize burst-fire mode.
 <Br><br>
@@ -511,14 +511,14 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
 <Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
 <Ul><li>Toyama Kasumi (<a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Fandom</a> | Tour of Duty)</li>
-<li>Ichigaya Arisa (<a href="https://bandori.fandom.com/wiki/Ichigaya_Arisa">Fandom</a> | Tour of Duty)</li>
-<li>Yamabuki Saaya (<a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Fandom</a> | Tour of Duty)</li></ul>
+<li><a href="https://bandori.fandom.com/wiki/Ichigaya_Arisa">Ichigaya Arisa</a> (via Fandom)</li>
+<li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a> (via Fandom)</li></ul>
 <Li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
 <li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
-<Ul><Li>Asahi Rokka (<a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Fandom</a> | Tour of Duty)</li></ul>
+<Ul><Li><a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Asahi Rokka</a> (via Fandom)</li></ul>
 <li><a href="https://bandori.fandom.com/wiki/Glitter*Green">Glitter Green</a></li>
 <Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
-<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Tsukishima Marina</a></li></ul>
+<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Tsukishima Marina</a> (via Fandom)</li></ul>
 </Ul>
 
 
