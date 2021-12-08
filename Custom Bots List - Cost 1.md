@@ -259,13 +259,16 @@ Her voice pitch is set to 107, slightly higher than standard.
 </tr>
 </Tbody>
 </Table><br>
+
+Toyama Asuka (戸山明日香) is Kasumi's younger sister. She is a first-year high school student at Haneoka Girls' High School. She is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rokka-aka-lock">Rokka</a>.
+
 Asuka lives together with her parents and Kasumi, whom she simply refers to as "onee-chan" - however, it's not always clear who is more responsible out of the two. She is a year younger than Kasumi. She is much calmer than her sister and tends to be sarcastic, and is bad at showing her affection towards Kasumi. According to Kasumi, they used to fight all the time when they were in elementary school, but nowadays they get along well; Saaya even says that they're like good friends and she is a bit jealous about it.
 
 #### Storyline in Anime
 
 In the 1st season, she was a third-year junior student at Hanasakigawa Girls' Junior High School and in the same swimming club with <a href="#yuri">Yuri</a>.
 <Br><br>
-In the 2nd season, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rokka-aka-lock">Rokka</a> had invited her to form a band with her but she declined. However, she promised to keep an eye for Rokka for possible band members.
+In the 2nd season, Rokka had invited her to form a band with her but she declined. However, she promised to keep an eye for Rokka for possible band members.
 <Br><br>
 In the 3rd season, Rokka finally met her "fated band members" and Asuka's role of watching over her ended. She then volunteered as a staff for the event "BanG Dream! Girls Band Challenge!", and watched Poppin'Party, Roselia, and RAISE A SUILEN perform together at the Budokan.
 
@@ -510,15 +513,16 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
 <Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
-<Ul><li>Toyama Kasumi (<a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Fandom</a> | Tour of Duty)</li>
-<li><a href="https://bandori.fandom.com/wiki/Ichigaya_Arisa">Ichigaya Arisa</a> (via Fandom)</li>
-<li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a> (via Fandom)</li></ul>
+<Ul><li><a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Toyama Kasumi</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Ichigaya_Arisa">Ichigaya Arisa</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a></li></ul>
 <Li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
+<Ul><Li><a href="https://bandori.fandom.com/wiki/Udagawa_Ako">Udagawa Ako</a></li></ul>
 <li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
-<Ul><Li><a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Asahi Rokka</a> (via Fandom)</li></ul>
+<Ul><Li><a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Asahi Rokka</a></li></ul>
 <li><a href="https://bandori.fandom.com/wiki/Glitter*Green">Glitter Green</a></li>
 <Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
-<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Tsukishima Marina</a> (via Fandom)</li></ul>
+<Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Tsukishima Marina</a></li></ul>
 </Ul>
 
 
