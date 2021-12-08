@@ -113,9 +113,9 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
-Kirigaya Toko is a first-year student at Tsukinomori Girls' Academy, and the lead guitarist of Morfonica. She handles the band's costumes and like Lisa, follows gyaru fashion.
+Kirigaya Toko is a first-year student at Tsukinomori Girls' Academy, and the lead guitarist of Morfonica. She handles the band's costumes and like <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#lisa">Lisa</a>, follows gyaru fashion.
 
-Outside of the band she is friends with Sayo and Kaoru, and is also classmates with Nanami.
+Outside of the band she is friends with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#sayo">Sayo</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#kaoru">Kaoru</a>, and is also classmates with <a href="#nanami">Nanami</a>.
 
 Toko is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
@@ -311,7 +311,7 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 </Tbody>
 </Table>
 
-Kurata Mashiro is a first-year transfer student at Tsukinomori Girls' Academy, and the lead singer of Morfonica. She writes the lyrics for their songs. She is also classmates with Tsukushi.
+Kurata Mashiro is a first-year transfer student at Tsukinomori Girls' Academy, and the lead singer of Morfonica. She writes the lyrics for their songs. She is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#tsukushi">Tsukushi</a>.
 
 Mashiro is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
@@ -362,9 +362,9 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 </Tbody>
 </Table>
 
-Kitazawa Hagumi is an energetic second-year student at Hanasakigawa Girls' High School and the bassist of Hello, Happy World!
+Kitazawa Hagumi is an energetic second-year student at Hanasakigawa Girls' High School and the bassist of Hello, Happy World!.
 
-Outside of the band, she is also friends with Saaya, and is also classmates with Tae and Eve.
+Outside of the band, she is also friends with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#saaya">Saaya</a>, and is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#tae">Tae</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#eve">Eve</a>.
 
 Hagumi is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
@@ -415,7 +415,7 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 
 Asahi Rokka is a first-year high school student at Haneoka Girls' High School. She goes by the stage name LOCK (ロック) and is the guitarist for RAISE A SUILEN.
 
-She is from Gifu Prefecture. She is in the same class as Asuka and Ako, and studies at Haneoka instead of Hanasakigawa due to a scholarship program.
+She is from Gifu Prefecture. She is in the same class as <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#asuka">Asuka</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a>, and studies at Haneoka instead of Hanasakigawa due to a scholarship program.
 
 Rokka works part-time at Live House Galaxy, where she was appointed as the acting representative for events. She also works and lives at Asahi Bathhouse, which is owned by her relatives.
 
@@ -464,7 +464,7 @@ Her voice pitch is set to 118, which means she has a higher pitch.
 </Tbody>
 </Table>
 
-Hiromachi Nanami is a first-year student at Tsukinomori Girls' Academy and the bassist of Morfonica. She is also classmates with Touko.
+Hiromachi Nanami is a first-year student at Tsukinomori Girls' Academy and the bassist of Morfonica. She is also classmates with <a href="#toko">Toko</a>.
 
 Nanami is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
@@ -515,7 +515,7 @@ Same as Mayu, her voice pitch is set to 109.
 
 Nyubara Reona is a second-year middle school student at Kamogawa Chuou Middle School. She goes by the stage name PAREO (パレオ) and is the keyboardist for the band RAISE A SUILEN.
 
-She adores Chiyu and has said she admires her deeply, especially because Chiyu was the one who "pulled her out of the darkness." She calls her CHU²-sama and sometimes Goshujinsama (lit. Master; translated as "Mistress" in BanG Dream! 2nd Season's English dub).
+She adores <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chiyu-aka-chu2">Chiyu</a> and has said she admires her deeply, especially because Chiyu was the one who "pulled her out of the darkness." She calls her CHU²-sama and sometimes Goshujinsama (lit. Master; translated as "Mistress" in BanG Dream! 2nd Season's English dub).
 
 Reona is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
