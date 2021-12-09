@@ -85,7 +85,7 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Glitter Green</th>
+<Th>Glitter*Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -110,7 +110,7 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 </Tbody>
 </Table>
 
-Hinako is the drummer of the band member Glitter Green and an inventory worker at Edogawa Music. Hinako is an Easy bot. Hinako's skill is bad which means she is not accurate when firing, she cannot detect footsteps.
+Hinako is the drummer of the band member Glitter*Green and an inventory worker at Edogawa Music. Hinako is an Easy bot. Hinako's skill is bad which means she is not accurate when firing, she cannot detect footsteps.
 
 Her co-op level is set to 50 (Ok). Sometimes, Hinako will not follow the player's commands. She likes to group with other teammates if the Counter-Terrorists lost the previous round.
 
@@ -285,7 +285,7 @@ Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Glitter Green</th>
+<Th>Glitter*Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -306,7 +306,7 @@ Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 </Tbody>
 </Table>
 
-Nanana is the keyboardist of the band member Glitter Green. Nanana is a Fair bot. Nanana's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
+Nanana is the keyboardist of the band member Glitter*Green. Nanana is a Fair bot. Nanana's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
 
 Both of her co-op and bravery are set to 75 (Good) each, Nanana has good teamwork. She frequently follows the player's commands and stays close to teammates, Nanana is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
 
@@ -328,7 +328,7 @@ Her voice pitch is 105, slightly higher than standard.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Glitter Green</th>
+<Th>Glitter*Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -356,7 +356,7 @@ Her voice pitch is 105, slightly higher than standard.
 </Tbody>
 </Table>
 
-Rii is the bassist of the band member Glitter Green, Rii is a Fair bot. Rii's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps. She is good for close quarter combat when assisted with teammates, but lacks sufficient firepower when she is alone due to the severe limitations of the Leone 12 Gauge Super shotgun that she wields. As such, it is rare for Rii to quickly kill an assailant and will struggle when fighting enemies armed with rifles. Sometimes however, Rii may get lucky by killing a Terrorist at medium ranges with her pistol.
+Rii is the bassist of the band member Glitter*Green, Rii is a Fair bot. Rii's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps. She is good for close quarter combat when assisted with teammates, but lacks sufficient firepower when she is alone due to the severe limitations of the Leone 12 Gauge Super shotgun that she wields. As such, it is rare for Rii to quickly kill an assailant and will struggle when fighting enemies armed with rifles. Sometimes however, Rii may get lucky by killing a Terrorist at medium ranges with her pistol.
 
 Like Nanana, her co-op and bravery are set to 75 (Good) each, Rii has good teamwork. She frequently follows the player's commands and stays close to teammates, Rii is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
 
@@ -378,7 +378,7 @@ Her voice pitch is set to 108, slightly higher than standard.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Glitter Green</th>
+<Th>Glitter*Green</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -410,7 +410,7 @@ Her voice pitch is set to 108, slightly higher than standard.
 </Tbody>
 </Table>
 
-Yuri is the lead vocalist and guitarist of Glitter Green, and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rimi">Rimi</a>'s older sister. Yuri is a Fair bot. Yuri's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
+Yuri is the lead vocalist and guitarist of Glitter*Green, and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rimi">Rimi</a>'s older sister. Yuri is a Fair bot. Yuri's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
 
 She has 100 (High) points of teamwork and 25 (Low) points of Bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
 
@@ -512,7 +512,7 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Ul><Li><a href="https://bandori.fandom.com/wiki/Udagawa_Ako">Udagawa Ako</a></li></ul>
 <li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
 <Ul><Li><a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Asahi Rokka</a></li></ul>
-<li><a href="https://bandori.fandom.com/wiki/Glitter*Green">Glitter Green</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Glitter*Green">Glitter*Green</a></li>
 <Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
 <Li><a href="https://bandori.fandom.com/wiki/Tsukishima_Marina">Tsukishima Marina</a></li></ul>
 </Ul>
