@@ -109,10 +109,10 @@ Shirokane Rinko is a third-year student and the student council president of Han
 
 She is very shy, and is at first scared of the idea of performing in a live concert. She is also the band's costume designer and sews their outfits all by herself.
 
-Her hobbies are reading and playing online games, the latter through which she met her best friend, Ako, who also calls her "Rin-rin".
+Her hobbies are reading and playing online games, the latter through which she met her best friend, <a href="#ako">Ako</a>, who also calls her "Rin-rin".
 
 #### Rinko's Custom Tour of Duty
-Rinko is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+Rinko is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
 
 She has 25 points of teamwork and 0 points of bravery. Rinko rarely follows the player's commands, she likes to stay alone. Rinko is a very passive bot. When she sees a teammate dead in his view, she will retreat and traverse another pathway. She also gets nervous when facing a couple of enemies at once. She will switch to a pistol and run away. In bomb defusal maps, she likes to guard a bombsite. In hostage rescue maps, she is rarely seen rescuing the hostages, unless she is the last woman standing.
 
@@ -157,9 +157,9 @@ Her voice pitch is 111, slightly higher than the basic voice.
 
 #### Kaoru's Background
 Seta Kaoru is a third-year student at Haneoka Girls' High School and the guitarist of Hello, Happy World!
-She is very popular with ladies, whom she dubs her "little kittens" (子猫ーちゃん, koneko-chan). Himari and Rimi in particular have a tendency of blushing in her presence.
+She is very popular with ladies, whom she dubs her "little kittens" (子猫ーちゃん, koneko-chan). <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#himari">Himari</a> and <a href="#rimi">Rimi</a> in particular have a tendency of blushing in her presence.
 
-Outside of the band, she is also Chisato's childhood friend, and their parents are good friends as well.
+Outside of the band, she is also <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chisato">Chisato</a>'s childhood friend, and their parents are good friends as well.
 
 #### Kaoru's Custom Tour of Duty
 She has 50 (Ok) points of teamwork and 75 (Good) points of bravery. Kaoru has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if he lacks sufficient money.
@@ -209,7 +209,7 @@ Her voice pitch is set to the standard 100.
 #### Ako's Background
 Udagawa Ako is a first-year student at Haneoka Girls' High School and the drummer for Roselia.
 
-She admires Yukina and her older sister Tomoe, and is best friends with Rinko, whom she calls "Rin-rin". She is also classmates with both Asuka and Rokka.
+She admires <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#yukina">Yukina</a> and her older sister <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#tomoe">Tomoe</a>, and is best friends with <a href="#rinko">Rinko</a>, whom she calls "Rin-rin". She is also classmates with both <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#asuka">Asuka</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rokka-aka-lock">Rokka</a>.
 
 #### Ako's Custom Tour of Duty
 Ako is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
@@ -259,9 +259,9 @@ Her voice pitch is set to 119, the highest level.
 </Table>
 
 #### Kanon's Background
-Matsubara Kanon is a third-year student at Hanasakigawa Girls' High School and was the first to be roped in by Kokoro to become the drummer for Hello, Happy World! She is very clumsy, quick to burst into tears, and has a bad sense of direction.
+Matsubara Kanon is a third-year student at Hanasakigawa Girls' High School and was the first to be roped in by <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kokoro">Kokoro</a> to become the drummer for Hello, Happy World! She is very clumsy, quick to burst into tears, and has a bad sense of direction.
 
-Outside of the band, she is good friends with Chisato, whom she has known ever since middle school. She also works part-time at the fast food store together with Aya.
+Outside of the band, she is good friends with Chisato, whom she has known ever since middle school. She also works part-time at the fast food store together with <a href="#aya">Aya</a>.
 
 #### Kanon's Custom Tour of Duty
 Kanon is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
@@ -357,9 +357,9 @@ Same as Kaoru, her voice pitch is set to 100.
 </Table>
 
 #### Saaya's Background
-Yamabuki Saaya is a second-year student at Hanasakigawa Girls' High School and the drummer of Poppin'Party. She became good friends with her classmate Kasumi during their high school entrance ceremony, and since then they eat lunch together every day.
+Yamabuki Saaya is a second-year student at Hanasakigawa Girls' High School and the drummer of Poppin'Party. She became good friends with her classmate <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#himari">Kasumi</a> during their high school entrance ceremony, and since then they eat lunch together every day.
 
-She is also good friends with Tomoe because they're both older sisters and drummers, and with Moca due to her being the self-proclaimed number #1 fan of Yamabuki Bakery. She and Rimi are also classmates with Kokoro.
+She is also good friends with Tomoe because they're both older sisters and drummers, and with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#moca">Moca</a> due to her being the self-proclaimed number #1 fan of Yamabuki Bakery. She and Rimi are also classmates with Kokoro.
 
 #### Saaya's Custom Tour of Duty
 Saaya is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
@@ -455,7 +455,7 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 </Table>
 
 #### Aya's Background
-Maruyama Aya is a third-year student at Hanasakigawa Girls' High School and the leader and vocalist of Pastel*Palettes. She also works part-time at the fast-food store with Kanon.
+Maruyama Aya is a third-year student at Hanasakigawa Girls' High School and the leader and vocalist of Pastel*Palettes. She also works part-time at the fast-food store with <a href="#kanon">Kanon</a>.
 
 Aya has always admired idols ever since she was young, and the reason she wanted to become an idol was because of the idol group Marmalade's lead, Ayumi. Aya then spent three years being a trainee idol before she was chosen to become the lead singer for Pastel*Palettes.
 
@@ -557,7 +557,7 @@ Same as Saaya and Aya, her voice pitch is 115.
 #### Rimi's Background
 Ushigome Rimi is a second-year student at Hanasakigawa Girls' High School and the bassist and composer for Poppin'Party. The other band members call her both Rimi and Rimi-rin.
 
-Outside of the band, she is friends with Misaki, and similarly to Himari, one of Kaoru's fangirls. She is also a huge fan of the Yamabuki Bakery, and especially loves their chocolate cornets.
+Outside of the band, she is friends with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#misaki">Misaki</a>, and similarly to Himari, one of <a href="#kaoru">Kaoru</a>'s fangirls. She is also a huge fan of the Yamabuki Bakery, and especially loves their chocolate cornets.
 
 #### Rimi's Custom Tour of Duty
 Rimi is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
@@ -572,17 +572,68 @@ Her voice pitch is set to 118, the high level.
 <ul>
 <li>When hiring cost 3 bots, hire 1 or more bots below first because they have better skill (80 instead of 75).</li>
 <ul>
+<li>Shirokane Rinko, she might be a good choice in large maps such as Cobblestone and Aztec in lower difficulties.</li>
 <li>Seta Kaoru or Matsubara Kanon, they can be deployed to firing enemies in medium or long range.</li>
-<li>Yamabuki Saaya, she uses M249.</li>
-<li>Hanazono Tae, she uses Bullpup.</li>
-<li>Maruyama Aya, she uses ES C90. So it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
-</ul>
-<li>In Chateau, there is a challenge that require player to eliminate enemies using M249. If the player struggle to purchase expensive M249, using Saaya or Masuki as teammate might be a good idea. Follow her, and when she dies, pick up her M249 for free.
+<li>Yamabuki Saaya</li>
 <ul>
-<li>It's best to hire Saaya or Masuki only maps with close quarter combat as bots with the M249 will fire in full auto regardless of it's range; limiting their accuracy to first few shots at long range.</li>
+<li>In Chateau, there is a challenge that require player to eliminate enemies using M249. If the player struggle to purchase expensive M249, using Saaya as teammate might be a good idea. Follow her, and when she dies, pick up her M249 for free.
+<ul>
+<li>It's best to hire Saaya only maps with close quarter combat as bots with the M249 will fire in full auto regardless of it's range; limiting their accuracy to first few shots at long range.</li>
+</ul>
+</ul>
+<li>Hanazono Tae, she can be deployed to firing enemies in medium and melee range.</li>
+<li>Maruyama Aya, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
 </ul>
 </ul>
 
+# Trivia
+<ul>
+<li>Unlike the original Tour of Duty, none of the bots use Tactical Shield and stats of bots like <a href="https://counterstrike.fandom.com/wiki/Maverick">Maverick</a>.</li>
+<li>Udagawa Ako has the highest pitch among all Tour of Duty bots.</li>
+</ul> 
 
+# Preferences
+<ul>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a></li>
+<Ul>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md">Cost 1</a></li></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md">Cost 2</a></li>
+<li><b>Cost 3</b></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md">Cost 4</a></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md">Cost 5</a></li>
+</ul>
+</ul>
 
-
+# External Link
+<Ul>
+<Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
+<Li>BanG Dream!'s Band Members in Fandom website.</li>
+<Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
+<Ul><li><a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Toyama Kasumi</a></li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Afterglow">Afterglow</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Aoba_Moca">Aoba Moca</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Uehara_Himari">Uehara Himari</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Udagawa_Tomoe">Udagawa Tomoe</a></li>
+</ul>
+<li><a href="https://bandori.fandom.com/wiki/Pastel*Palettes">Pastel*Palettes</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Shirasagi_Chisato">Shirasagi Chisato</a></li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Hello,_Happy_World!">Hello Happy World</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Tsurumaki_Kokoro">Tsurumaki Kokoro</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Okusawa_Misaki">Okusawa Misaki</a> (<a href="https://bandori.fandom.com/wiki/Michelle">Michelle</a>)</li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
+<Ul>
+<Li><a href="https://bandori.fandom.com/wiki/Minato_Yukina">Minato Yukina</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Udagawa_Ako">Udagawa Ako</a></li></ul>
+<li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
+<Ul>
+<Li><a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Asahi Rokka</a></li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Toyama_Asuka">Toyama Asuka</a></li></ul>
+</Ul>
