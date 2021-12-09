@@ -142,7 +142,7 @@
 <Td>2</td>
 <Td>Schmidt Scout</td>
 <Td>-</td>
-<Td>Low</td>
+<Td>Ok</td>
 <Td>Low</td>
 <Td>Bad</td>
 <Td>109</td>
