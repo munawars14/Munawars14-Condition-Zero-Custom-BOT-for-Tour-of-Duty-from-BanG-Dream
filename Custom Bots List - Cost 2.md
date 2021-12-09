@@ -542,7 +542,6 @@ Her voice pitch is set to 108, slightly higher than standard.
 </Ul>
 
 ## Trivia
-
 <Ul>
 <Li>Sometimes bots don't use secondary weapons that match their map territory, especially Arisa, Nanami, Rokka, and Mashiro because they use secondary weapons randomly.</li>
 <Li>Only Hagumi and Rui use the exclusive character, Spetsnaz.</li>
@@ -556,9 +555,9 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Ul>
 <li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md">Cost 1</a></li>
 <li><b>Cost 2</b></li>
-<li>Cost 3</li>
-<li>Cost 4</li>
-<li>Cost 5</li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md">Cost 3</a></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md">Cost 4</a></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md">Cost 5</a></li>
 </ul>
 </Ul>
 
