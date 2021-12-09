@@ -28,7 +28,7 @@ For the list of Terrorist (with custom) bots and their individual statistics, <a
 ## B. About Custom BOT Nickname for Tour of Duty</b>
 The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
 
-All bot names are taken based on all members of each band : <b>Poppin Party</b>, <b>Afterglow</b>, <b>Pastel Palettes</b>, <b>Hello Happy World</b>, <b>Roselia</b>, <b>Morfonica</b>, <b>Raise A Suilen</b>, <b>Glitter Green</b>, and <b>CHiSPA</b>. They will use different weapons and be placed at different costs.
+<p>All bot names are taken based on all members of each band : <b>Poppin'Party</b>, <b>Afterglow</b>, <b>Pastel*Palettes</b>, <b>Hello, Happy World!</b>, <b>Roselia</b>, <b>Morfonica</b>, <b>RAISE A SUILEN</b>, <b>Glitter*Green</b>, and <b>CHiSPA</b>. They will use different weapons and be placed at different costs.</p>
 
 For the list of custom bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">see here</a>.
 
