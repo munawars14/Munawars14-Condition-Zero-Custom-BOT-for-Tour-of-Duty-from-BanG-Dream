@@ -30,7 +30,7 @@
 </Tr>
 <Tr>
 <Td>Hinako</td>
-<Td>Glitter Green</td>
+<Td>Glitter*Green</td>
 <Td>4</td>
 <Td>KM UMP45</td>
 <Td>228 Compact</td>
@@ -63,7 +63,7 @@
 </Tr>
 <Tr>
 <Td>Asuka</td>
-<Td>-</td>
+<Td>N/A</td>
 <Td>5</td>
 <Td>KM Submachine Gun</td>
 <Td>ES Five-Seven</td>
@@ -74,7 +74,7 @@
 </Tr>
 <Tr>
 <Td>Nanana</td>
-<Td>Glitter Green</td>
+<Td>Glitter*Green</td>
 <Td>3</td>
 <Td>ES C90</td>
 <Td>-</td>
@@ -85,7 +85,7 @@
 </Tr>
 <Tr>
 <Td>Rii</td>
-<Td>Glitter Green</td>
+<Td>Glitter*Green</td>
 <Td>2</td>
 <Td>Leone 12 Gauge Super</td>
 <Td>Nighthawk 55C</td>
@@ -96,7 +96,7 @@
 </Tr>
 <Tr>
 <Td>Yuri</td>
-<Td>Glitter Green</td>
+<Td>Glitter*Green</td>
 <Td>1</td>
 <Td>Clarion 5.56</td>
 <Td>-</td>
@@ -215,7 +215,7 @@
 </Tr>
 <Tr>
 <Td>Lock</td>
-<Td>Raise A Suilen</td>
+<Td>RAISE A SUILEN</td>
 <Td>2</td>
 <Td>Bullpup</td>
 <Td>-</td>
@@ -237,7 +237,7 @@
 </Tr>
 <Tr>
 <Td>Pareo</td>
-<Td>Raise A Suilen</td>
+<Td>RAISE A SUILEN</td>
 <Td>4</td>
 <Td>Clarion 5.56</td>
 <Td>-</td>
@@ -312,7 +312,7 @@
 </Tr>
 <Tr>
 <Td>Masking</td>
-<Td>Raise A Suilen</td>
+<Td>RAISE A SUILEN</td>
 <Td>3</td>
 <Td>Leone YG1265 Auto Shotgun</td>
 <Td>-</td>
@@ -325,7 +325,7 @@
 <Td>Saaya</td>
 <Td>Poppin Party</td>
 <Td>5</td>
-<Td>FN M249</td>
+<Td>M249</td>
 <Td>-</td>
 <Td>Good</td>
 <Td>Good</td>
@@ -345,7 +345,7 @@
 </Tr>
 <Tr>
 <Td>Aya</td>
-<Td>Pastel Palettes</td>
+<Td>Pastel*Palettes</td>
 <Td>1</td>
 <Td>ES C90</td>
 <Td>-</td>
@@ -398,24 +398,46 @@
 <Tr>
 <Td rowspan="15">4</td>
 <Td>Layer</td>
-<Td>Raise A Suilen</td>
+<Td>RAISE A SUILEN</td>
 <Td>1</td>
 <Td>Magnum Sniper Rifle</td>
 <Td>-</td>
 <Td>Good</td>
 <Td>Good</td>
-<Td>Ok</td>
+<Td>Low</td>
 <Td>110</td>
 </Tr>
 <Tr>
-<Td>Chisato</td>
-<Td>Pastel Palettes</td>
+<Td>Chu2</td>
+<Td>RAISE A SUILEN</td>
 <Td>5</td>
-<Td>Leone YG1265 Auto Shotgun</td>
+<Td>ES C90</td>
 <Td>-</td>
-<Td>Good</td>
-<Td>Good</td>
 <Td>High</td>
+<Td>Ok</td>
+<Td>Ok</td>
+<Td>115</td>
+</Tr>
+<Tr>
+<Td>Tsukushi</td>
+<Td>Morfonica</td>
+<Td>3</td>
+<Td>M249</td>
+<Td>-</td>
+<Td>High</td>
+<Td>Ok</td>
+<Td>High</td>
+<Td>112</td>
+</Tr>
+<Tr>
+<Td>Chisato</td>
+<Td>Pastel*Palettes</td>
+<Td>5</td>
+<Td>Maverick M4A1 Carbine</td>
+<Td>-</td>
+<Td>High</td>
+<Td>Good</td>
+<Td>Ok</td>
 <Td>110</td>
 </Tr>
 <Tr>
@@ -430,28 +452,6 @@
 <Td>115</td>
 </Tr>
 <Tr>
-<Td>Tsukushi</td>
-<Td>Morfonica</td>
-<Td>3</td>
-<Td>Magnum Sniper Rifle</td>
-<Td>-</td>
-<Td>High</td>
-<Td>Good</td>
-<Td>Good</td>
-<Td>112</td>
-</Tr>
-<Tr>
-<Td>Chu2</td>
-<Td>Raise A Suilen</td>
-<Td>5</td>
-<Td>ES C90</td>
-<Td>-</td>
-<Td>High</td>
-<Td>Good</td>
-<Td>High</td>
-<Td>115</td>
-</Tr>
-<Tr>
 <Td>Moca</td>
 <Td>Afterglow</td>
 <Td>2</td>
@@ -459,7 +459,7 @@
 <Td>-</td>
 <Td>High</td>
 <Td>Good</td>
-<Td>High</td>
+<Td>Good</td>
 <Td>107</td>
 </Tr>
 <Tr>
@@ -497,9 +497,9 @@
 </Tr>
 <Tr>
 <Td>Eve</td>
-<Td>Pastel Palettes</td>
+<Td>Pastel*Palettes</td>
 <Td>3</td>
-<Td>FN M249</td>
+<Td>M249</td>
 <Td>-</td>
 <Td>High</td>
 <Td>High</td>
@@ -539,7 +539,7 @@
 </Tr>
 <Tr>
 <Td>Hina</td>
-<Td>Pastel Palettes</td>
+<Td>Pastel*Palettes</td>
 <Td>2</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
@@ -572,7 +572,7 @@
 </Tr>
 <Tr>
 <Td>Maya</td>
-<Td>Pastel Palettes</td>
+<Td>Pastel*Palettes</td>
 <Td>4</td>
 <Td>Bullpup</td>
 <Td>-</td>
@@ -585,7 +585,7 @@
 <Td>Tomoe</td>
 <Td>Afterglow</td>
 <Td>5</td>
-<Td>FN M249</td>
+<Td>M249</td>
 <Td>-</td>
 <Td>High</td>
 <Td>High</td>
