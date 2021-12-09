@@ -1,6 +1,5 @@
 # List of Tour of Duty CT Custom Bots
-
-<B>Cost 1</b><br>
+## Cost 1
 <I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md">List of Tour of Duty CT Custom Bots/Cost 1</a></i><br>
 <table border="1">
 <tbody align="center">
@@ -119,7 +118,7 @@
 </Tbody>
 </Table>
 
-<B>Cost 2</b><br>
+## Cost 2
 <I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md">List of Tour of Duty CT Custom Bots/Cost 2</a></i><br>
 <table border="1">
 <tbody align="center">
@@ -249,7 +248,7 @@
 </Tbody>
 </Table>
 
-<B>Cost 3</b><br>
+## Cost 3
 <I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md">List of Tour of Duty CT Custom Bots/Cost 3</a></i><br>
 <table border="1">
 <tbody align="center">
@@ -379,7 +378,7 @@
 <Tbody>
 <Table>
 
-<B>Cost 4</b><br>
+## Cost 4
 <I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md">List of Tour of Duty CT Custom Bots/Cost 4</a></i><br>
 <table border="1">
 <tbody align="center">
@@ -509,7 +508,7 @@
 </Tbody>
 </Table>
 
-<B>Cost 5</b><br>
+## Cost 5
 <I>Main article : <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md">List of Tour of Duty CT Custom Bots/Cost 5</a></i><br>
 <table border="1">
 <tbody align="center">
@@ -594,3 +593,14 @@
 </Tr>
 </Tbody>
 </Table>
+
+# Preferences
+- <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a>
+- <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md">List of Tour of Duty Terrorist Custom Bots</a>
+
+# Special Thanks
+- Bang Dream! Project
+- Craft Egg Inc.
+- Bushiroad
+- Turtle Rock Studios
+- Valve Corporation
