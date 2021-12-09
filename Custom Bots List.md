@@ -267,6 +267,17 @@
 </Tr>
 <Tr>
 <Td rowspan="15">3</td>
+<Td>Rinko</td>
+<Td>Roselia</td>
+<Td>4</td>
+<Td>Magnum Sniper Rifle</td>
+<Td>-</td>
+<Td>Good</td>
+<Td>Low</td>
+<Td>Bad</td>
+<Td>111</td>
+</Tr>
+<Tr>
 <Td>Kaoru</td>
 <Td>Hello Happy World</td>
 <Td>2</td>
@@ -303,7 +314,7 @@
 <Td>Masking</td>
 <Td>Raise A Suilen</td>
 <Td>3</td>
-<Td>FN M249</td>
+<Td>Leone YG1265 Auto Shotgun</td>
 <Td>-</td>
 <Td>Good</td>
 <Td>Good</td>
@@ -364,17 +375,6 @@
 <Td>High</td>
 <Td>Ok</td>
 <Td>118</td>
-</Tr>
-<Tr>
-<Td>Rinko</td>
-<Td>Roselia</td>
-<Td>4</td>
-<Td>Leone YG1265 Auto Shotgun</td>
-<Td>-</td>
-<Td>Good</td>
-<Td>High</td>
-<Td>Ok</td>
-<Td>111</td>
 </Tr>
 <Tbody>
 <Table>
