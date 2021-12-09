@@ -222,6 +222,8 @@ Ako uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Car
 
 Her voice pitch is set to 119, the highest level.
 
+Ako is an exclusive bot in Cost 3 because she uses the Spetsnaz character.
+
 ### Kanon
 <Table border="1">
 <Tbody align="center">
@@ -369,6 +371,8 @@ Same as Masuki, her teamwork and bravery are also set to 75 each.
 Saaya uses Power weapon preference template.
 
 Her voice pitch is 115, which means she has a high voice pitch.
+
+Same as Ako, Saaya is also an exclusive bot in Cost 3 because she uses the Spetsnaz character.
 
 ### Tae
 <Table border="1">
@@ -590,6 +594,7 @@ Her voice pitch is set to 118, the high level.
 <ul>
 <li>Unlike the original Tour of Duty, none of the bots use Tactical Shield and stats of bots like <a href="https://counterstrike.fandom.com/wiki/Maverick">Maverick</a>.</li>
 <li>Udagawa Ako has the highest pitch among all Tour of Duty bots.</li>
+<Li>Only Ako and Saaya use the exclusive character, Spetsnaz.
 </ul> 
 
 # Preferences
