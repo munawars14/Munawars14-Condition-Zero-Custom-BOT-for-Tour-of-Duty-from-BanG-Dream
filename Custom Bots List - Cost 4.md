@@ -113,7 +113,7 @@ Rei's skill type is very hard, which means she is 80% accurate when firing. Her 
 
 Rei's teamwork is 85%, which is in the "good" category. She always follow the player's commands and sticks together with teammates.
 
-Her bravery is 25%. When she sees a teammate dead in his view, she will retreat and traverse another pathway. She also gets nervous when facing a couple of enemies at once. She will switch to a pistol and run away. In bomb defusal maps, she likes to guard a bombsite. In hostage rescue maps, she is rarely seen rescuing the hostages, unless she is the last woman standing.
+Her bravery is 25%. When she sees a teammate dead in her view, she will retreat and traverse another pathway. She also gets nervous when facing a couple of enemies at once. She will switch to a pistol and run away. In bomb defusal maps, she likes to guard a bombsite. In hostage rescue maps, she is rarely seen rescuing the hostages, unless she is the last woman standing.
 
 She uses Sniper weapon preference template, she prefers to purchase the Magnum Sniper Rifle.
 
@@ -426,7 +426,7 @@ Her teamwork is set to 75 (Good). She frequently follows the player's commands a
 
 Her bravery is set to High, at 100 points. She will never retreat even when spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
 
-Ran uses Rifle template, which means his top priority weapon is Maverick M4A1 Carbine.
+Ran uses Rifle template, which means her top priority weapon is Maverick M4A1 Carbine.
 
 Her voice pitch is 105, slightly higher than standard.
 
