@@ -162,7 +162,7 @@ She is very popular with ladies, whom she dubs her "little kittens" (子猫ー�
 Outside of the band, she is also <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chisato">Chisato</a>'s childhood friend, and their parents are good friends as well.
 
 #### Kaoru's Custom Tour of Duty
-She has 50 (Ok) points of teamwork and 75 (Good) points of bravery. Kaoru has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if he lacks sufficient money.
+She has 50 (Ok) points of teamwork and 75 (Good) points of bravery. Kaoru has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if she lacks sufficient money.
 
 Kaoru is an aggressive bot. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
@@ -214,7 +214,7 @@ She admires <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Cus
 #### Ako's Custom Tour of Duty
 Ako is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
 
-Ako's teamwork is 50%, which in the OK category. She rarely follows the player's commands and always stays away from teammates. She only regroups if he has low money in reserve.
+Ako's teamwork is 50%, which in the OK category. She rarely follows the player's commands and always stays away from teammates. She only regroups if she has low money in reserve.
 
 Ako is a quite aggressive bot. She will not retreat after spotting some enemies but retreats after spotting a large group of assailants. After several seconds, she will strike back.
 
