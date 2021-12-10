@@ -69,9 +69,9 @@ The order of the top weapons on the list becomes the bot's top priority.
 
 Mayu is the keyboardist of the band member CHiSPA, Mayu is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
-She is a good choice for open spaced maps on lower difficulties when she encounters a lone Terrorist due to her low skill and the fact he only wields the Schmidt Scout. She will struggle to fight enemies at medium ranges or when the enemy force is in a group. Due to these setbacks, Mayu is best used in defending some important areas like bombsites.
+She is a good choice for open spaced maps on lower difficulties when she encounters a lone Terrorist due to her low skill and the fact she only wields the Schmidt Scout. She will struggle to fight enemies at medium ranges or when the enemy force is in a group. Due to these setbacks, Mayu is best used in defending some important areas like bombsites.
 
-However, her co-op have been set to 25 (Low) and bravery have been set to 0 (Bad). Mayu has passive teamwork, she will not follow the player's commands except in the first round. She also likes to stay alone. Mayu is a very passive bot. She will retreat after spotting some enemies. In bomb defusal maps, he prefers to camp at a bombsite.
+However, her co-op have been set to 25 (Low) and bravery have been set to 0 (Bad). Mayu has passive teamwork, she will not follow the player's commands except in the first round. She also likes to stay alone. Mayu is a very passive bot. She will retreat after spotting some enemies. In bomb defusal maps, she prefers to camp at a bombsite.
 
 Mayu prefers Schmidt Scout as her main weapon. When having sufficient money, she will buy Nighthawk 55C as her secondary. She does not buy or pick up other weapon.
 
@@ -421,7 +421,7 @@ Rokka works part-time at Live House Galaxy, where she was appointed as the actin
 
 Rokka is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
-Her co-op level is set to 100 (High) points and bravery level is set to 75 (Good) points, which means he will almost always follow player's command and stick together with teammates.
+Her co-op level is set to 100 (High) points and bravery level is set to 75 (Good) points, which means she will almost always follow player's command and stick together with teammates.
 
 Rokka is an aggressive bot. When she sees a teammate dead in her view, she will go towards the killer and start firing. Small amount of enemies do not make her afraid unless a large group is present. After several seconds, she will strike back. In the bomb defusal maps, she likes to scatter around the map while in hostage rescue maps, she likes to strike first and rescue the hostages.
 
@@ -468,7 +468,7 @@ Hiromachi Nanami is a first-year student at Tsukinomori Girls' Academy and the b
 
 Nanami is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
-Her co-op level is set to 100 (High) points and bravery level is set to 85 (Good) points, which means he will almost always follow player's command and stick together with teammates. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
+Her co-op level is set to 100 (High) points and bravery level is set to 85 (Good) points, which means she will almost always follow player's command and stick together with teammates. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
 She uses Shotgun template, which means her top priority weapon is Leone YG1265 Auto Shotgun.
 
