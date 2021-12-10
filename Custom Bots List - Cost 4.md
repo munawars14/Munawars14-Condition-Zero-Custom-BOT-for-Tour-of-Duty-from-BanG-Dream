@@ -120,6 +120,6 @@ She uses Sniper weapon preference template, she prefers to purchase the Magnum S
 
 Her voice pitch is set to 110, slightly higher than the basic voice.
 
-### Chiyu aka CHU²
+### Chiyu aka CHU<sup>2</sup>
 
 
