@@ -223,7 +223,7 @@ Both of her teamwork and bravery are set to 75 (Good) points each. She will alwa
 
 Her preferred main weapons are KM Submachine Gun. Actually, the main weapon used in the database is the CV-47. She will take it if she finds the weapon. Her secondary weapons are ES Five-Seven, followed by 228 Compact.
 
-His voice pitch is 114, which means she has a high voice pitch.
+Her voice pitch is 114, which means she has a high voice pitch.
 
 #### Rui
 <Table border="1">
