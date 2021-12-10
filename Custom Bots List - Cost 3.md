@@ -114,7 +114,7 @@ Her hobbies are reading and playing online games, the latter through which she m
 #### Rinko's Custom Tour of Duty
 Rinko is a hard bot, which means her skill point is set to 75. She is 75% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
 
-She has 25 points of teamwork and 0 points of bravery. Rinko rarely follows the player's commands, she likes to stay alone. Rinko is a very passive bot. When she sees a teammate dead in his view, she will retreat and traverse another pathway. She also gets nervous when facing a couple of enemies at once. She will switch to a pistol and run away. In bomb defusal maps, she likes to guard a bombsite. In hostage rescue maps, she is rarely seen rescuing the hostages, unless she is the last woman standing.
+She has 25 points of teamwork and 0 points of bravery. Rinko rarely follows the player's commands, she likes to stay alone. Rinko is a very passive bot. When she sees a teammate dead in her view, she will retreat and traverse another pathway. She also gets nervous when facing a couple of enemies at once. She will switch to a pistol and run away. In bomb defusal maps, she likes to guard a bombsite. In hostage rescue maps, she is rarely seen rescuing the hostages, unless she is the last woman standing.
 
 She uses Sniper weapon preference template, she prefers to purchase the Magnum Sniper Rifle.
 
@@ -166,7 +166,7 @@ She has 50 (Ok) points of teamwork and 75 (Good) points of bravery. Kaoru has mo
 
 Kaoru is an aggressive bot. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
-Kaoru uses Rifle template, which means his top priority weapon is Maverick M4A1 Carbine.
+Kaoru uses Rifle template, which means her top priority weapon is Maverick M4A1 Carbine.
 
 Her voice pitch is set to the standard 100.
 
