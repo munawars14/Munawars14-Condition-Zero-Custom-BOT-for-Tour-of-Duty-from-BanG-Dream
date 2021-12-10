@@ -317,7 +317,7 @@ Mashiro is a normal bot, which means she has 50 skill point. She is 50% accurate
 
 She has 100 teamwork points and 25 bravery points. She will always follow the player's commands and stays together with teammates. She is rather passive, and will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
 
-She prefers ES C90 as his main weapon, since she uses Spray template.
+She prefers ES C90 as her main weapon, since she uses Spray template.
 
 Her voice pitch is set to 116, which means she has a bit high pitch.
 
@@ -423,7 +423,7 @@ Rokka is a normal bot, which means she has 50 skill point. She is 50% accurate w
 
 Her co-op level is set to 100 (High) points and bravery level is set to 75 (Good) points, which means he will almost always follow player's command and stick together with teammates.
 
-Rokka is an aggressive bot. When she sees a teammate dead in his view, she will go towards the killer and start firing. Small amount of enemies do not make her afraid unless a large group is present. After several seconds, she will strike back. In the bomb defusal maps, she likes to scatter around the map while in hostage rescue maps, she likes to strike first and rescue the hostages.
+Rokka is an aggressive bot. When she sees a teammate dead in her view, she will go towards the killer and start firing. Small amount of enemies do not make her afraid unless a large group is present. After several seconds, she will strike back. In the bomb defusal maps, she likes to scatter around the map while in hostage rescue maps, she likes to strike first and rescue the hostages.
 
 Rokka uses the Punch template, which means her top priority weapon is Bullpup. She does not use the low-power scope like other bots using the Bullpup.
 
