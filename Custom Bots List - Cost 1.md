@@ -263,7 +263,7 @@ Toyama Asuka (戸山明日香) is Kasumi's younger sister. She is a first-year h
 
 Asuka is a Fair bot. Asuka's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
 
-He has 75 (Good) points of teamwork and no change in points on bravery (using default points which is 30 (Low)). She will follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will wait for assailants to approach. In bomb defusal maps, she prefers to camp at a bombsite if she lacks money.
+She has 75 (Good) points of teamwork and no change in points on bravery (using default points which is 30 (Low)). She will follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will wait for assailants to approach. In bomb defusal maps, she prefers to camp at a bombsite if she lacks money.
 
 Her preferred main weapons are KM Submachine Gun and secondary weapons are ES Five-Seven, followed by Nighthawk 55C and 228 Compact.
 
