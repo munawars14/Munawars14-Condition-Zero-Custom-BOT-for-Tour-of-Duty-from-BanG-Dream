@@ -208,7 +208,7 @@ Satomi is the drummer of the band member CHiSPA, they call her Sato-chan. She is
 
 Satomi is an Easy bot. Satomi's skill type is bad, which means she is not accurate when firing, she cannot detect footsteps.
 
-Her teamwork is set to 75. He frequently follows the player's commands and usually stays together with teammates.
+Her teamwork is set to 75. She frequently follows the player's commands and usually stays together with teammates.
 
 Her preferred main weapons are Clarion 5.56. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Satomi never utilize burst-fire mode.
 
