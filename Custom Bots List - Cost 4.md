@@ -55,7 +55,6 @@
 <li><a href="#eves-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
 </Ul>
-<Li><a href="#tactics">Tactics</a></li>
 <Li><a href="#trivia">Trivia</a></li>
 <Li><a href="#preferences">Preferences</a></li>
 <Li><a href="#external-link">External Link</a></li>
@@ -565,6 +564,71 @@ Her voice pitch is set to 115 which means she has a high pitch.
 </Table>
 
 #### Eve's Background
+<P>Wakamiya Eve is a second-year student at Hanasakigawa Girls' High School and the keytarist for Pastel*Palettes. She is in the same class as <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kasumi">Kasumi</a> and many other members of Poppin'Party. Before joining Pastel*Palettes, she was a model at the same agency, and had some skill in playing the piano.</p>
 
+Eve is half-Japanese, half-Finnish, with her father being Japanese, and her mother Finnish. She comes from Finland and finds Japanese culture exciting, often citing bushido, the code of Japanese warriors.
 
+Outside of the band, she is friends with <a href="#tsugumi">Tsugumi</a> and also works part-time at her family's cafe as a waitress.
 
+#### Eve's Custom Tour of Duty
+Tsugumi's skill type is expert, which means she is 90% accurate when firing. Her reaction time is 0.2 seconds and she is very sensitive to footsteps. She has no attack delay.
+
+Her co-op level is set to 100 (High) points and bravery level is set to 85 (Good) points, which means she will almost always follow player's command and stick together with teammates. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
+
+She uses Power template.
+
+Her voice pitch is 114, which means she has a high voice pitch.
+
+# Trivia
+<ul>
+<li>CHU<sup>2</sup> is the only custom bot that has a name combination between letters and numbers. (Example : BOT Chu2)</li>
+<li>Only CHU<sup>2</sup> and Chisato use the exclusive character, Spetsnaz.</li>
+<ul>
+<li>The bot skin named Chisato is set to 5 (Spetsnaz) because the voice actress in BanG Dream!, Uesaka Sumire can speak Russian.</li>
+</ul>
+</ul>
+
+# Preferences
+<ul>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a></li>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a></li>
+<Ul>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md">Cost 1</a></li></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md">Cost 2</a></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md">Cost 3</a></li>
+<li><b>Cost 4</b></li>
+<li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md">Cost 5</a></li>
+</ul>
+</ul>
+
+# External Link
+<Ul>
+<Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
+<Li>BanG Dream!'s Band Members in Fandom website.</li>
+<Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
+<Ul><li><a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Toyama Kasumi</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Hanazono_Tae">Hanazono Tae</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Ushigome_Rimi">Ushigome Rimi</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a></li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Afterglow">Afterglow</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Pastel*Palettes">Pastel*Palettes</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Maruyama_Aya">Maruyama Aya</a></li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Hello,_Happy_World!">Hello, Happy World!</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Tsurumaki_Kokoro">Tsurumaki Kokoro</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Seta_Kaoru">Seta Kaoru</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Matsubara_Kanon">Matsubara Kanon</a></li>
+</ul>
+<Li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
+<Ul>
+<Li><a href="https://bandori.fandom.com/wiki/Imai_Lisa">Imai Lisa</a></li>
+</ul>
+<li><a href="https://bandori.fandom.com/wiki/Morfonica">Morfonica</a></li>
+<ul>
+<li><a href="https://bandori.fandom.com/wiki/Kurata_Mashiro">Kurata Mashiro</a></li>
+</ul>
+<li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
+</Ul>
