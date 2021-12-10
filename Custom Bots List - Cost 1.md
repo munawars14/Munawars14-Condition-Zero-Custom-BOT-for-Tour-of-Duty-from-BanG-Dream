@@ -65,7 +65,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 
 Fumika is the bassist of the band member CHiSPA, she is an Easy bot. Her skill is bad, which means she is unable to detect footsteps. When she spots an enemy target, she will spray bullets continuously until she is out of ammo. She is a fairly good at close quarters but not efficient for mid or long range battles as she uses the Schmidt Machine Pistol.
 
-She has 25 (Low) points of teamwork, and 100 (High) points of bravery. She always ignores the player's commands and prefers to strike the Terrorists by himself. She is a very aggressive bot. She will never retreat even when after spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
+She has 25 (Low) points of teamwork, and 100 (High) points of bravery. She always ignores the player's commands and prefers to strike the Terrorists by herself. She is a very aggressive bot. She will never retreat even when after spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
 
 She buy Schmidt Machine Pistol as her weapons. She will not buy or pick up another weapons.
 
