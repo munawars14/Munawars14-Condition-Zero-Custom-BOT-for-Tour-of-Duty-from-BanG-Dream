@@ -344,7 +344,7 @@ Tomoe is an exclusive bot in Cost 5 because she uses the Spetsnaz character.
 <li>Yamato Maya is the same as <a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_CT_Bots/Cost_5#Duke">Duke</a>.</li>
 <li>Udagawa Tomoe is the same as <a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_CT_Bots/Cost_5#Bear">Bear</a>.</li>
 </ul>
-<li>Among all CT sniper bots, Sayo is the only Magnum Sniper Rifle user to not have his skill point decreased. All of the other Magnum Sniper Rifle user have lower skill points than most of their teammates at same cost.</li>
+<li>Among all CT sniper bots, Sayo is the only Magnum Sniper Rifle user to not have her skill point decreased. All of the other Magnum Sniper Rifle user have lower skill points than most of their teammates at same cost.</li>
 <li>Sayo and Hina use the same skin (GSG-9) because they are both twins.</li>
 <li>Only Tomoe use the exclusive character, Spetsnaz.</li>
 <ul>
