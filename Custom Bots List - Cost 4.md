@@ -67,6 +67,8 @@ On Easy and Normal difficulty, they are unlocked after the player finished 13 ma
 
 4 reputation points are needed to hire each of them.
 
+The order of the top weapons on the list becomes the bot's top priority.
+
 ## Members
 ### Rei (aka LAYER)
 <Table border="1">
