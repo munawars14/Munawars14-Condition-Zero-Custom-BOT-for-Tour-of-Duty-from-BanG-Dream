@@ -2,9 +2,9 @@
 
 All of their Co-op teammate statistic on Easy to Expert difficulties is set to 75.
 
-## Easy
-*Main article : List of Tour of Duty Terrorist Bots/Easy*
+For articles on all custom terrorist bots, see here.
 
+## Easy
 <table border="1">
 <tbody align="center">
 <tr>
@@ -61,9 +61,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Fair
-
-*Main article : List of Tour of Duty Terrorist Bots/Fair*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -128,9 +125,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Normal
-
-*Main article : List of Tour of Duty Terrorist Bots/Normal*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -179,9 +173,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Tough
-
-*Main article : List of Tour of Duty Terrorist Bots/Tough*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -238,9 +229,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Hard
-
-*Main article : List of Tour of Duty Terrorist Bots/Hard*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -305,9 +293,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Very Hard
-
-*Main article : List of Tour of Duty Terrorist Bots/Very Hard*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -372,9 +357,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Expert
-
-*Main article : List of Tour of Duty Terrorist Bots/Expert*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -439,9 +421,6 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 </table>
 
 ## Elite
-
-*Main article : List of Tour of Duty Terrorist Bots/Elite*
-
 <table border="1">
 <tbody align="center">
 <tr>
@@ -518,3 +497,23 @@ All of their Co-op teammate statistic on Easy to Expert difficulties is set to 7
 
 ## See Also
 - <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">List of Tour of Duty CT Custom Bots</a>
+
+## Preferences
+- <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream">About Custom Tour of Duty from BanG Dream!</a>
+
+## External Link
+All preferences below are taken from the Fandom website.
+<ul>
+<Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots">List of Original Terrorist Bots in Tour of Duty</a></li>
+<ul>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Easy">Easy</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Fair">Fair</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Normal">Normal</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Tough">Tough</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Hard">Hard</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Very_Hard">Very Hard</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Expert">Expert</a></li>
+<li><a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_Terrorist_Bots/Elite">Elite</a></li>
+</ul>
+</ul>
