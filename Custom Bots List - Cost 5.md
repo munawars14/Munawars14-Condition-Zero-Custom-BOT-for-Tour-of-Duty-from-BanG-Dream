@@ -132,7 +132,7 @@ Hikawa Hina is a third-year student and the student council president at Haneoka
 
 She has a habit of describing things with unusual ideophones such as run' (るん) or pipitsu (ピピツ).
 
-Hina started playing the guitar after seeing Sayo do it, and then became a member of Pastel*Palettes after she passed an audition. At first Hina claimed to be in the band only to kill time, but after spending time with the other members (and thanks to <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#aya">Aya</a>'s efforts) she got more invested in it.
+Hina started playing the guitar after seeing Sayo do it, and then became a member of Pastel*Palettes after she passed an audition. At first Hina claimed to be in the band only to kill time, but after spending time with the other members (and thanks to <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#aya">Aya</a>'s efforts) she got more invested in it.
 
 #### Hina's Custom Tour of Duty
 Hina uses Rifle weapon template, she prefers using Maverick M4A1 Carbine.
