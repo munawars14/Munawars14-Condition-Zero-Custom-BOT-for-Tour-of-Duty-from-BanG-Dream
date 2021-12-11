@@ -19,6 +19,11 @@
 <li><a href="#kasumis-background">Background</a></li>
 <li><a href="#kasumis-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
+<Li><a href="#kokoro">Kokoro</a></li>
+<ul>
+<li><a href="#kokoros-background">Background</a></li>
+<li><a href="#kokoros-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#maya">Maya</a></li>
 <ul>
 <li><a href="#mayas-background">Background</a></li>
