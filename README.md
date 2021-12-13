@@ -1,7 +1,7 @@
 # Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream
 
 ## A. About Tour of Duty
-<img alt="Counter-Strike Condition Zero - Tour of Duty" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail.jpg" />
+<p align="center"><img alt="Counter-Strike Condition Zero - Tour of Duty" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail.jpg" /></p>
 
 According to <b>Jess Cliffe</b>, Tour of Duty was partly inspired by sports games.
 
@@ -168,6 +168,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <li>In Hostage Rescue maps. Hostages are considered as "saved" by the game challenge as long the round ends with hostages that are still following the player.</li>
 <Li>If the console command "bot_kill" is inputted, the player would always win the round unless if the bomb has been planted in Bomb Defusal maps.</li>
 <Li>All members of every band from the BanG Dream! on custom CT bots are separated from different Cost categories.</li>
+<Li>All custom bot of the band RAISE A SUILEN will use a stage name.</li>
 <li>Terrorists custom bots have different type of name meanings depends on the difficulty :</li>
 <ul>
 <li>Yasha and Galods are people's names.</li>
