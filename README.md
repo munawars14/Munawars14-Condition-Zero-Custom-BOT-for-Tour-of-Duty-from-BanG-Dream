@@ -1,6 +1,8 @@
 # Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream
 
 ## A. About Tour of Duty
+<img alt="Counter-Strike Condition Zero - Tour of Duty" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail.jpg" />
+
 According to <b>Jess Cliffe</b>, Tour of Duty was partly inspired by sports games.
 
 There are 6 tours of duty in this game mode and each tour of duty consists of 3 different maps (all maps use their Condition Zero games versions). Completing one tour of duty unlocks the next tour of duty.
@@ -84,7 +86,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 <tr>
 <th>Tour of Duty 7 [Not Ready]</th>
-<td>Sierra • Corruption • Vostok</td>
+<td>Truth • Corruption • Vostok</td>
 </tr>
 </tbody>
 </table>
@@ -158,8 +160,35 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 ## F. Download Link
 - Waiting ...
 
+## G. Trivia
+<ul>
+<li>The basis of Tour of Duty was carried on to <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Global_Offensive">Counter-Strike Global Offensive</li> <a href="https://counterstrike.fandom.com/wiki/Operations">operation missions</a>.</li>
+<li>The player is referred to as the Commander.</li>
+<li>In some rare cases, a glitch occurs in the first round where one or more CT or Terrorists will die but no death count is given, especially in <a href="https://counterstrike.fandom.com/wiki/Fastline">Fastline</a>.</li>
+<li>In Hostage Rescue maps. Hostages are considered as "saved" by the game challenge as long the round ends with hostages that are still following the player.</li>
+<Li>All members of every band from the BanG Dream! on custom CT bots are separated from different Cost categories.</li>
+<li>Terrorists custom bots have different type of name meanings depends on the difficulty :</li>
+<ul>
+<li>Yasha and Galods are people's names.</li>
+<li>Custom bots named Ash is taken from one of the characters <a href="https://rainbowsixsiege-archive.fandom.com/wiki/Ash">Rainbow Six : Siege</a>.</li>
+<li>Albacore is the name of a submarine from the <a href="https://en.m.wikipedia.org/wiki/USS_Albacore_(SS-218)">United States</a>.</li>
+<li>Creeper is a term for a transformation in plants.</li>
+<li>Vodka is a liquor product. The name Vodka is also used as the name of the Black Organization members character in the Detective Conan series.</li>
+<li>Frost is a thin layer of ice on a solid surface that is easily brittle.</li>
+<Li>Raiden comes from Japanese which means lightning.</li>
+<li>Animal Name :
+<ul>
+<li>Hornet is a large stinging wasp that typically nests in hollow trees.</li>
+<li>Leech is an aquatic or terrestrial annelid worm species.</li>
+<Li>Bat are nocturnal mammals that can fly with both forelegs that develop into wings.</li>
+<Li>Lizard is a reptile animal.</li>
+<li>Same like the original Tour of Duty bot, Weasel. Ferret is also rodent names.</li>
+</ul>
+<li>For more trivia of original Tour of Duty, <a href="https://counterstrike.fandom.com/wiki/Tour_of_Dutya#Trivia">see here</a>.</li>
+</ul>
+
 ## Preferences
-- About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
+- About <a href="https://counterstrike.fandom.com/wiki/Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
 - <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">CSCZ Custom BOT Nickname from BanG Dream! (Classic BOT)</a>
 
 ## Special Thanks
