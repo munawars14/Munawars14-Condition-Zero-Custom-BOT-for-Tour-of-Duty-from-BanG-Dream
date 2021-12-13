@@ -166,6 +166,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <li>The player is referred to as the Commander.</li>
 <li>In some rare cases, a glitch occurs in the first round where one or more CT or Terrorists will die but no death count is given, especially in <a href="https://counterstrike.fandom.com/wiki/Fastline">Fastline</a>.</li>
 <li>In Hostage Rescue maps. Hostages are considered as "saved" by the game challenge as long the round ends with hostages that are still following the player.</li>
+<Li>If the console command "bot_kill" is inputted, the player would always win the round unless if the bomb has been planted in Bomb Defusal maps.</li>
 <Li>All members of every band from the BanG Dream! on custom CT bots are separated from different Cost categories.</li>
 <li>Terrorists custom bots have different type of name meanings depends on the difficulty :</li>
 <ul>
@@ -183,6 +184,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <Li>Bat are nocturnal mammals that can fly with both forelegs that develop into wings.</li>
 <Li>Lizard is a reptile animal.</li>
 <li>Same like the original Tour of Duty bot, Weasel. Ferret is also rodent names.</li>
+</ul>
 </ul>
 <li>For more trivia of original Tour of Duty, <a href="https://counterstrike.fandom.com/wiki/Tour_of_Dutya#Trivia">see here</a>.</li>
 </ul>
