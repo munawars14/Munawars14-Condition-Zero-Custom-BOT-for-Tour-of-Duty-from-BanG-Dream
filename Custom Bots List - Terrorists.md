@@ -2,7 +2,7 @@
 
 All of their Co-op teammate statistic on Easy to Expert difficulties is set to 75.
 
-For articles on all custom terrorist bots, see here.
+For articles on all custom terrorist bots, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorist%20Articles.md">see here</a>.
 
 ## Easy
 <table border="1">
