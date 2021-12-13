@@ -228,19 +228,248 @@ He uses exclusive skin, Midwest Militia.
 
 ## Hard
 ### Hornet
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Hornet</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Ok</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/g3sg1.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
+
 ### Leech
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Leech</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/xm1014.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
 
 ## Very Hard
 ### Vodka
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Vodka</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
 
 ## Expert
 ### Bat
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/Terror.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Bat</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>High</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Low</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses Phoenix Connexion skin.
+
 ### Lizard
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Lizard</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>High</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
 
 ## Elite
 ### Frost
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Frost</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>High</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Ok</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
+
 ### Raiden
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Raiden</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>High</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Good</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
+
 ### Ferret
+<table border="1">
+<tbody align="center">
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/militia.png" /></td>
+</tr>
+<tr>
+<th colspan="2">Ferret</th>
+</Tr>
+<tr>
+<th>Skill</th>
+<th>High</th>
+</Tr>
+<tr>
+<th>Co-op</th>
+<th>High</th>
+</Tr>
+<tr>
+<th>Bravery</th>
+<th>Ok</th>
+</Tr>
+<tr>
+<th>Primary Wepaon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /></th>
+</Tr>
+</tbody>
+</table>
+
+He uses exclusive skin, Midwest Militia.
 
 # Trivia
 
