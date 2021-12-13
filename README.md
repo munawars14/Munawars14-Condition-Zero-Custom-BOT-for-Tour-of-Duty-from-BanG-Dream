@@ -162,7 +162,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 
 ## G. Trivia
 <ul>
-<li>The basis of Tour of Duty was carried on to <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Global_Offensive">Counter-Strike Global Offensive</li> <a href="https://counterstrike.fandom.com/wiki/Operations">operation missions</a>.</li>
+<li>The basis of Tour of Duty was carried on to <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Global_Offensive">Counter-Strike Global Offensive</a> <a href="https://counterstrike.fandom.com/wiki/Operations">operation missions</a>.</li>
 <li>The player is referred to as the Commander.</li>
 <li>In some rare cases, a glitch occurs in the first round where one or more CT or Terrorists will die but no death count is given, especially in <a href="https://counterstrike.fandom.com/wiki/Fastline">Fastline</a>.</li>
 <li>In Hostage Rescue maps. Hostages are considered as "saved" by the game challenge as long the round ends with hostages that are still following the player.</li>
