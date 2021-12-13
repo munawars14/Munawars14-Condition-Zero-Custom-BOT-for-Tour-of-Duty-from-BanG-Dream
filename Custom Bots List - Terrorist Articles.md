@@ -53,6 +53,8 @@ All of the articles below are descriptions of custom terrorist bots on custom To
 
 Some custom bots will use skins and weapons that *weren't used* in the original Tour of Duty.
 
+The order of the top weapons on the list becomes the bot's top priority.
+
 # Difficulty
 ## Easy
 All Easy bot skills are 0 (Bad) points, means they are not accurate when firing. They are unable to detect footsteps. When the bot spots an enemy target, bot will spray bullets continuously until bot is out of ammo.
@@ -154,7 +156,8 @@ Bot's reaction time is 0.4 seconds and bot has an attack delay of 0.7 seconds.
 </Tr>
 <tr>
 <th>Primary Wepaon</th>
-<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
 </Tr>
 </tbody>
 </table>
@@ -227,6 +230,10 @@ He uses Phoenix Connexion skin.
 He uses exclusive skin, Midwest Militia.
 
 ## Hard
+All Hard bot skills are 75 (Good) points, means they are 75% accurate when firing. They are sensitive to footsteps and weapon sound direction. They aim for the head in close battle, the chest in medium range, and crouches at long range. They will switch to their pistol when their primary weapon runs out of ammo.
+
+Bot's reaction time is 0.25 seconds and no attack delay.
+
 ### Hornet
 <table border="1">
 <tbody align="center">
@@ -250,8 +257,17 @@ He uses exclusive skin, Midwest Militia.
 </Tr>
 <tr>
 <th>Primary Wepaon</th>
-<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/g3sg1.png" /></th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg550.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/g3sg1.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/galil.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /></th>
 </Tr>
+<tr>
+<th>Secondary Weapon</th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" /></th>
+</tr>
 </tbody>
 </table>
 
@@ -288,6 +304,10 @@ He uses exclusive skin, Midwest Militia.
 He uses exclusive skin, Midwest Militia.
 
 ## Very Hard
+All Very Hard bot skills are 80 (Good) points, means they are 80% accurate when firing. They are sensitive to footsteps and weapon sound direction. They aim for the head in close battle, the chest in medium range, and crouches at long range. They will switch to their pistol when their primary weapon runs out of ammo.
+
+Bot's reaction time is 0.25 seconds and no attack delay.
+
 ### Vodka
 <table border="1">
 <tbody align="center">
@@ -311,7 +331,8 @@ He uses exclusive skin, Midwest Militia.
 </Tr>
 <tr>
 <th>Primary Wepaon</th>
-<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
 </Tr>
 </tbody>
 </table>
@@ -319,6 +340,10 @@ He uses exclusive skin, Midwest Militia.
 He uses exclusive skin, Midwest Militia.
 
 ## Expert
+All Expert bot skills are 90 (High) points, means they are 90% accurate when firing. They are very sensitive to footsteps and weapon sound direction. They aim for the head in close battle, the chest in medium range, and crouches at long range. They will switch to their pistol when their primary weapon runs out of ammo.
+
+Bot's reaction time is 0.2 seconds and no attack delay.
+
 ### Bat
 <table border="1">
 <tbody align="center">
@@ -342,7 +367,8 @@ He uses exclusive skin, Midwest Militia.
 </Tr>
 <tr>
 <th>Primary Wepaon</th>
-<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
 </Tr>
 </tbody>
 </table>
@@ -372,7 +398,8 @@ He uses Phoenix Connexion skin.
 </Tr>
 <tr>
 <th>Primary Wepaon</th>
-<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
 </Tr>
 </tbody>
 </table>
@@ -380,6 +407,10 @@ He uses Phoenix Connexion skin.
 He uses exclusive skin, Midwest Militia.
 
 ## Elite
+All Elite bot skills are 100 (High) points, means they are 100% accurate when firing. They are very sensitive to footsteps and weapon sound direction. They aim for the head in close battle, the chest in medium range, and crouches at long range. They will switch to their pistol when their primary weapon runs out of ammo.
+
+Bot's reaction time is 0.2 seconds and no attack delay.
+
 ### Frost
 <table border="1">
 <tbody align="center">
@@ -433,7 +464,8 @@ He uses exclusive skin, Midwest Militia.
 </Tr>
 <tr>
 <th>Primary Wepaon</th>
-<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
+<th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" /></th>
 </Tr>
 </tbody>
 </table>
