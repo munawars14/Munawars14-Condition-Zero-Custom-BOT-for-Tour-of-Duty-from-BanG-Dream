@@ -186,7 +186,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <li>Same like the original Tour of Duty bot, Weasel. Ferret is also rodent names.</li>
 </ul>
 </ul>
-<li>For more trivia of original Tour of Duty, <a href="https://counterstrike.fandom.com/wiki/Tour_of_Dutya#Trivia">see here</a>.</li>
+<li>For more trivia of original Tour of Duty, <a href="https://counterstrike.fandom.com/wiki/Tour_of_Duty#Trivia">see here</a>.</li>
 </ul>
 
 ## Preferences
