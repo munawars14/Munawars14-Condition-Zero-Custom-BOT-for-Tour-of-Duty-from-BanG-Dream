@@ -11,9 +11,7 @@
 <Li><a href="#rui">Rui</a></li>
 <Li><a href="#mashiro">Mashiro</a></li>
 <Li><a href="#hagumi">Hagumi</a></li>
-<Li><a href="#rokka-aka-lock">Rokka (aka LOCK)</a></li>
 <Li><a href="#nanami">Nanami</a></li>
-<Li><a href="#reona-aka-pareo">Reona (aka PAREO)</a></li>
 </Ul>
 <Li><a href="#tactics">Tactics</a></li>
 <Li><a href="#trivia">Trivia</a></li>
@@ -376,59 +374,6 @@ Her voice pitch is set to 117, which means she has a bit high pitch.
 
 Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 
-#### Rokka (aka LOCK)
-<Table border="1">
-<Tbody align="center">
-<Tr>
-<Th colspan="2">Cost 2</th>
-</Tr>
-<Tr>
-<Td colspan="2"><img alt="Lock" width"64px" height="64px" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" />
-</td>
-</Tr>
-<Tr>
-<Th colspan="2">Asahi Rokka</th>
-</Tr>
-<Tr>
-<Th>Faction</th>
-<Th>RAISE A SUILEN</th>
-</Tr>
-<Tr>
-<Th>Skill</th>
-<Th>Ok</th>
-</Tr>
-<Tr>
-<Th>Co-op</th>
-<Th>High</th>
-</Tr>
-<Tr>
-<Th>Bravery</th>
-<Th>Good</th>
-</Tr>
-<Tr>
-<Th>Prim. Weapon</th>
-<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" />
-</td>
-</Tr>
-</Tbody>
-</Table>
-
-Asahi Rokka is a first-year high school student at Haneoka Girls' High School. She goes by the stage name LOCK (ロック) and is the guitarist for RAISE A SUILEN.
-
-She is from Gifu Prefecture. She is in the same class as <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#asuka">Asuka</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a>, and studies at Haneoka instead of Hanasakigawa due to a scholarship program.
-
-Rokka works part-time at Live House Galaxy, where she was appointed as the acting representative for events. She also works and lives at Asahi Bathhouse, which is owned by her relatives.
-
-Rokka is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
-
-Her co-op level is set to 100 (High) points and bravery level is set to 75 (Good) points, which means she will almost always follow player's command and stick together with teammates.
-
-Rokka is an aggressive bot. When she sees a teammate dead in her view, she will go towards the killer and start firing. Small amount of enemies do not make her afraid unless a large group is present. After several seconds, she will strike back. In the bomb defusal maps, she likes to scatter around the map while in hostage rescue maps, she likes to strike first and rescue the hostages.
-
-Rokka uses the Punch template, which means her top priority weapon is Bullpup. She does not use the low-power scope like other bots using the Bullpup.
-
-Her voice pitch is set to 118, which means she has a higher pitch.
-
 #### Nanami
 <Table border="1">
 <Tbody align="center">
@@ -474,59 +419,6 @@ She uses Shotgun template, which means her top priority weapon is Leone YG1265 A
 
 Same as Mayu, her voice pitch is set to 109.
 
-#### Reona (aka PAREO)
-<Table border="1">
-<Tbody align="center">
-<Tr>
-<Th colspan="2">Cost 2</th>
-</Tr>
-<Tr>
-<Td colspan="2"><img alt="Pareo" width="64px" height="64px" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" /></td>
-</Tr>
-<Tr>
-<Th colspan="2">Nyubara Reona</th>
-</Tr>
-<Tr>
-<Th>Faction</th>
-<Th>RAISE A SUILEN</th>
-</Tr>
-<Tr>
-<Th>Skill</th>
-<Th>Ok</th>
-</Tr>
-<Tr>
-<Th>Co-op</th>
-<Th>High</th>
-</Tr>
-<Tr>
-<Th>Bravery</th>
-<Th>High</th>
-</Tr>
-<Tr>
-<th>Prim. Weapon</th>
-<Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /></td>
-</Tr>
-<tr>
-<th>Sec. Weapon</th>
-<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/fn57.png" /></td>
-</tr>
-</Tbody>
-</Table>
-
-Nyubara Reona is a second-year middle school student at Kamogawa Chuou Middle School. She goes by the stage name PAREO (パレオ) and is the keyboardist for the band RAISE A SUILEN.
-
-She adores <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chiyu-aka-chu2">Chiyu</a> and has said she admires her deeply, especially because Chiyu was the one who "pulled her out of the darkness." She calls her CHU²-sama and sometimes Goshujinsama (lit. Master; translated as "Mistress" in BanG Dream! 2nd Season's English dub).
-
-Reona is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
-
-Both of her teamwork and bravery are set to 100% points each, which in the "High" category. She will always follow the player's command and always sticks together with teammates.
-
-Reona is a very aggressive bot. She will never retreat even spotting a large group of enemies.
-
-Reona prefers Clarion 5.56 as her main weapon and secondary weapon are ES Five-Seven. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, she never utilize burst-fire mode.
-
-Her voice pitch is set to 108, slightly higher than standard.
-
 ## Tactics
 
 <Ul>
@@ -546,7 +438,6 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Li>Sometimes bots don't use secondary weapons that match their map territory, especially Arisa, Nanami, Rokka, and Mashiro because they use secondary weapons randomly.</li>
 <Li>Only Hagumi and Rui use the exclusive character, Spetsnaz.</li>
 </Ul>
-
 
 ## Preferences
 <Ul>
