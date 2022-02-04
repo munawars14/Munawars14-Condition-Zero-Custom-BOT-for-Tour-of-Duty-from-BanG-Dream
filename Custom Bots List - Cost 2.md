@@ -20,7 +20,7 @@
 </Ol></b>
 
 ## Overview
-There are 10 Tour of Duty CT bots under Cost 2 category.
+There are 8 Tour of Duty CT bots under Cost 2 category.
 
 On Easy and Normal difficulty, they are unlocked after the player finished 4 maps (at 6 reputation points), while on Hard and Expert they are available from the beginning. Two reputation points are needed to hire each of them. Their skill level are set to 50 (Ok) or 60 (Ok).
 
@@ -56,11 +56,11 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th>Bad</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/scout.png" /></td>
 </Tr>
 <Tr>
-<Th>Sec. Weapon</th>
+<Th>Secondary Weapon</th>
 <Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" /></td>
 </Tbody>
 </Table>
@@ -71,7 +71,7 @@ She is a good choice for open spaced maps on lower difficulties when she encount
 
 However, her co-op have been set to 25 (Low) and bravery have been set to 0 (Bad). Mayu has passive teamwork, she will not follow the player's commands except in the first round. She also likes to stay alone. Mayu is a very passive bot. She will retreat after spotting some enemies. In bomb defusal maps, she prefers to camp at a bombsite.
 
-Mayu prefers Schmidt Scout as her main weapon. When having sufficient money, she will buy Nighthawk 55C as her secondary. She does not buy or pick up other weapon.
+Mayu prefers Schmidt Scout as her main weapon. When having sufficient money, she will buy Nighthawk 50C as her secondary. She does not buy or pick up other weapon.
 
 Her voice pitch is set to 109, slightly higher than the basic voice.
 
@@ -104,8 +104,10 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
-<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mac10.png" /><br>
+<Th>Primary Weapon</th>
+<td>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ump45.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" /></td>
 </Tr>
 </Tbody>
@@ -121,7 +123,7 @@ Her co-op is set to 50 (Ok). Toko has moderate teamwork. She only follows the pl
 
 Her bravery is set to 50 (Ok). Toko is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait for several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
 
-Her preferred main weapons are Schmidt Machine Pistol. Actually, the main weapon used in the database is the Ingram MAC-10. She will take it if she finds the weapon.
+Toko prefers KM UMP45 as her main weapon, followed by KM Submachine Gun and Schmidt Machine Pistol. She does not buy or pick up other weapons. 
 
 Her voice pitch is 111, slightly higher than the basic voice.
 
@@ -139,7 +141,7 @@ Her voice pitch is 111, slightly higher than the basic voice.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Poppin Party</th>
+<Th>Poppin'Party</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -154,7 +156,7 @@ Her voice pitch is 111, slightly higher than the basic voice.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
@@ -201,12 +203,12 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width=75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /></td>
 </Tr>
 <tr>
-<Th>Sec. Weapon</th>
+<Th>Secondary Weapon</th>
 <Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/fn57.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" /></td>
 </Tr>
@@ -252,7 +254,7 @@ Her voice pitch is 114, which means she has a high voice pitch.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <Td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /><br>
 <img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
 <img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" />
@@ -303,7 +305,7 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 <Th>Low</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
 </Tr>
 </Tbody>
@@ -348,13 +350,14 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
-<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" />
-<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ump45.png" />
-<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /></td>
+<Th>Primary Weapon</th>
+<td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/galil.png" /><br>
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mac10.png" /><br>
+<img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" /></td>
 </Tr>
 <tr>
-<th>Sec. Weapon</th>
+<th>Secondary Weapon</th>
 <td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/glock.png" /></td>
 </Tr>
 </Tbody>
@@ -368,7 +371,7 @@ Hagumi is a tough bot, which means she has 60 skill point. She is 60% accurate w
 
 She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
 
-Her preferred main weapons are KM UMP45, followed by KM Submachine Gun. Same as Himari, the main weapon used in the database is the CV-47. She will take it if she finds the weapon. Her secondary weapon preference are 9x19mm Sidearm, the only Terrorist exclusive weapon used by bot teammates CT.
+Her preferred main weapons are Schmidt Machine Pistol. Same as Himari, the main weapon used in the database is the CV-47. She will take it if she finds the weapon. Her secondary weapon preference are 9x19mm Sidearm, the only Terrorist exclusive weapon used by bot teammates CT.
 
 Her voice pitch is set to 117, which means she has a bit high pitch.
 
@@ -403,7 +406,7 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/xm1014.png" /></td>
 </Tr>
 </Tbody>
@@ -420,22 +423,20 @@ She uses Shotgun template, which means her top priority weapon is Leone YG1265 A
 Same as Mayu, her voice pitch is set to 109.
 
 ## Tactics
-
 <Ul>
-<Li>When hiring cost 2 bots, hire Arisa first because she have better skill (60 instead of 50) and preferred main weapons (Maverick M4A1 Carbine). You can also hire Rokka after Arisa, because she have stronger preferred main weapons (Bullpup).</li>
-<Ul>
-<Li>You can change your teammate with Reona if one of the two suggestions doesn't match your preference or you can use them as their best companion.</li>
-</Ul>
+<Li>When hiring cost 2 bots, hire Arisa first because she have better skill (60 instead of 50) and preferred main weapons (Maverick M4A1 Carbine).</li>
 <Li>When using Mayu in bomb defusal mission, she will camp at a bombsite. Therefore, she might be a good choice in defending open spaced bombsite (e.g. Aztec) on lower difficulties.</li>
-<Li>Unless you have a lot of points to spend or have no more suitable candidate to join your team, it is best not to hire Hagumi, although her overall value looks higher than other mercenaries, but in fact the weapon she uses is the worst weapon of all cost 2 mercenaries: KM UMP45 and the 9x19mm Sidearm pistol. KM UMP45 is not suitable for close range, 9x19mm Sidearm is also not suitable for longer range even though she use Tough template skill, which is completely incomparable with the powerful rivals of P90, AK47, AWP or M249.
+<Li>Unless you have a lot of points to spend or have no more suitable candidate to join your team, it is best not to hire Hagumi, although her overall value looks higher than other mercenaries, but in fact the weapon she uses is the worst weapon of all cost 2 mercenaries: Schmidt Machine Pistol and the 9x19 Sidearm pistol, which is extremely bad weapons even though she use Tough template skill, which is completely incomparable with the powerful rivals of P90, AK47, AWP or M249.
 <Ul>
+<li>Even if she got a IDF Defender or CV-47, it might be difficult if she was hired on Normal difficulty and above.</li>
 <Li>If a SMG wielding teammates is really needed, consider hiring Himari instead even though she use Normal template skill and she uses the MP5 and is a all rounder decent weapon good for both medium and close ranged maps. Or hiring Mashiro who uses the ES C90 for close quarter combat for far better weapon.</li>
 </Ul>
 </Ul>
 
 ## Trivia
 <Ul>
-<Li>Sometimes bots don't use secondary weapons that match their map territory, especially Arisa, Nanami, Rokka, and Mashiro because they use secondary weapons randomly.</li>
+<Li>Sometimes bots don't use secondary weapons that match their map territory, especially Arisa, Nanami, and Mashiro because they use secondary weapons randomly.</li>
+<li>In the BETA Phase, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rokka-aka-lock">Rokka</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#reona-aka-pareo">Reona</a> were in the Cost 2 category before they were promoted to the <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md">Cost 3</a> category.</li>
 <Li>Only Hagumi and Rui use the exclusive character, Spetsnaz.</li>
 </Ul>
 
@@ -457,7 +458,7 @@ Same as Mayu, her voice pitch is set to 109.
 <Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
 <Ul>
-<li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
+<li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a></li>
 <ul>
 <li><a href="https://bandori.fandom.com/wiki/Hanazono_Tae">Hanazono Tae</a></li>
 <li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a></li>
@@ -480,10 +481,6 @@ Same as Mayu, her voice pitch is set to 109.
 <Li><a href="https://bandori.fandom.com/wiki/Morfonica">Morfonica</a></li>
 <ul>
 <li><a href="https://bandori.fandom.com/wiki/Futaba_Tsukushi">Futaba Tsukushi</li>
-</ul>
-<li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
-<ul>
-<li><a href="https://bandori.fandom.com/wiki/Tamade_Chiyu">Tamade Chiyu</a></li>
 </ul>
 <Li><a href="https://bandori.fandom.com/wiki/CHiSPA">CHiSPA</a></li>
 <li><a href="https://bandori.fandom.com/wiki/Toyama_Asuka">Toyama Asuka</a></li>
