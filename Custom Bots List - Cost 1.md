@@ -57,7 +57,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" /></th>
 </Tr>
 </Tbody>
@@ -100,11 +100,11 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ump45.png" /></th>
 </Tr>
 <tr>
-<th>Sec. Weapon</th>
+<th>Secondary Weapon</th>
 <th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" /></th>
 </tr>
 </Tbody>
@@ -149,7 +149,7 @@ Her voice pitch is 113, which means she has a high voice pitch.
 <Th>Low</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
@@ -198,7 +198,7 @@ Her voice pitch is set to 106, slightly higher than standard.
 <Th>High</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ump45.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" />
@@ -248,11 +248,11 @@ Her voice pitch is set to 107, slightly higher than standard.
 <Th>Low</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /></th>
 </Tr>
 <tr>
-<th>Sec. Weapon</th>
+<th>Secondary Weapon</th>
 <th>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" />
@@ -300,7 +300,7 @@ Her voice pitch is 112, which means she has a high voice pitch.
 <Th>Good</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></th>
 </Tr>
 </Tbody>
@@ -343,14 +343,14 @@ Her voice pitch is 105, slightly higher than standard.
 <Th>Good</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m3.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" />
 </th>
 </Tr>
 <tr>
-<th>Sec. Weapon</th>
+<th>Secondary Weapon</th>
 <th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" /></th>
 </tr>
 </Tbody>
@@ -393,13 +393,13 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Th>Low</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" />
 </th>
 </Tr>
 <tr>
-<th>Sec. Weapon</th>
+<th>Secondary Weapon</th>
 <Th>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/fn57.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" />
@@ -445,7 +445,7 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Th>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" />
@@ -460,11 +460,11 @@ Marina is a Fair bot. Marina's skill type is Low, which means she is 25% accurat
 
 She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite. Like in the game and anime BanG Dream!, she really cares about anyone, both friends and rivals in anime.
 
-Marina uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Carbine (and uses its silencer), but will swap it for an CV-47 if she finds one dropped by a Terrorist. She buys a random pistol as a secondary weapon.
+Marina uses RifleT weapon preference. She prefers to purchase the Maverick M4A1 Carbine, but will swap it for an CV-47 if she finds one dropped by a Terrorist. She buys a random pistol as a secondary weapon.
 
 Her voice pitch is set to 110, same with Yuri.
 
-Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Spetsnaz character.
+Marina is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 
 ## Tactics
 <Ul>
