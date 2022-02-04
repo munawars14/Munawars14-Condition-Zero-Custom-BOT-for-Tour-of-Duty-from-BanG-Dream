@@ -150,7 +150,7 @@
 <Td>Toko</td>
 <Td>Morfonica</td>
 <Td>2</td>
-<Td>Schmidt Machine Pistol</td>
+<Td>KM UMP45</td>
 <Td>-</td>
 <Td>Ok</td>
 <Td>Ok</td>
@@ -205,7 +205,7 @@
 <Td>Hagumi</td>
 <Td>Hello,Happy World!</td>
 <Td>5</td>
-<Td>KM UMP45</td>
+<Td>Schmidt Machine Pistol</td>
 <Td>9x19mm Sidearm</td>
 <Td>Ok</td>
 <Td>High</td>
