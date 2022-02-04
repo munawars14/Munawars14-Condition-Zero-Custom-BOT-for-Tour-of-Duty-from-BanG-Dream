@@ -199,7 +199,10 @@ Her voice pitch is set to 106, slightly higher than standard.
 </Tr>
 <Tr>
 <th>Prim. Weapon</th>
-<Th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /></th>
+<Th><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ump45.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" />
+</th>
 </Tr>
 </Tbody>
 </Table>
@@ -210,7 +213,7 @@ Satomi is an Easy bot. Satomi's skill type is bad, which means she is not accura
 
 Her teamwork is set to 75. She frequently follows the player's commands and usually stays together with teammates.
 
-Her preferred main weapons are Clarion 5.56. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Satomi never utilize burst-fire mode.
+Her preferred main weapons are KM UMP45, followed by KM Submachine Gun and Schmidt Machine Pistol.
 
 Her bravery is set to high, at 100 points. She will never retreat even when spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
 
@@ -223,7 +226,7 @@ Her voice pitch is set to 107, slightly higher than standard.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Toyama Asuka</th>
@@ -251,25 +254,22 @@ Her voice pitch is set to 107, slightly higher than standard.
 <tr>
 <th>Sec. Weapon</th>
 <th>
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/fn57.png" />
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" />
+<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/deagle.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p228.png" />
 </th>
 </tr>
 </Tbody>
 </Table>
 
-Toyama Asuka (戸山明日香) is Kasumi's younger sister. She is a first-year high school student at Haneoka Girls' High School. She is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rokka-aka-lock">Rokka</a>.
+Toyama Asuka (戸山明日香) is <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kasumi">Kasumi</a>'s younger sister. She is a first-year high school student at Haneoka Girls' High School. She is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rokka-aka-lock">Rokka</a>.
 
 Asuka is a Fair bot. Asuka's skill type is Low, which means she is 25% accurate when firing and she can detect footsteps.
 
 She has 75 (Good) points of teamwork and no change in points on bravery (using default points which is 30 (Low)). She will follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will wait for assailants to approach. In bomb defusal maps, she prefers to camp at a bombsite if she lacks money.
 
-Her preferred main weapons are KM Submachine Gun and secondary weapons are ES Five-Seven, followed by Nighthawk 55C and 228 Compact.
+Her preferred main weapons are KM Submachine Gun and secondary weapons are Nighthawk 50C, followed by 228 Compact.
 
 Her voice pitch is 112, which means she has a high voice pitch.
-
-Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 
 ### Nanana
 <Table border="1">
@@ -278,7 +278,7 @@ Asuka is an exclusive bot in Cost 1 because she uses the Spetsnaz character.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Wanibe Nanana</th>
@@ -360,7 +360,7 @@ Rii is the bassist of the band member Glitter*Green, Rii is a Fair bot. Rii's sk
 
 Like Nanana, her co-op and bravery are set to 75 (Good) each, Rii has good teamwork. She frequently follows the player's commands and stays close to teammates, Rii is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
 
-She prefers Leone 12 Gauge Super as her main weapon. If she can't purchase the shotgun, she will buy KM Submachine Gun. Her pistol preferences are Nighthawk 55C. She does not buy or pick up other weapons.
+She prefers Leone 12 Gauge Super as her main weapon. If she can't purchase the shotgun, she will buy KM Submachine Gun. Her pistol preferences are Nighthawk 50C. She does not buy or pick up other weapons.
 
 Her voice pitch is set to 108, slightly higher than standard.
 
@@ -371,7 +371,7 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Th colspan="2">Cost 1</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
+<Td colspan="2"><img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Ushigome Yuri</th>
@@ -395,8 +395,6 @@ Her voice pitch is set to 108, slightly higher than standard.
 <Tr>
 <th>Prim. Weapon</th>
 <Th>
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/famas.png" /><br>
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mp5.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tmp.png" />
 </th>
 </Tr>
@@ -414,7 +412,7 @@ Yuri is the lead vocalist and guitarist of Glitter*Green, and <a href="https://g
 
 She has 100 (High) points of teamwork and 25 (Low) points of Bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
 
-Yuri prefers Clarion 5.56 as her main weapon, followed by KM Submachine Gun and Schmidt Machine Pistol. She does not buy or pick up other weapons. Like other bots that uses the Clarion 5.56, Yuri never utilize burst-fire mode.
+Yuri prefers Schmidt Machine Pistol as her main weapon. She does not buy or pick up other weapons. 
 
 Her voice pitch is set to 110, slightly higher than the basic voice.
 
@@ -471,7 +469,7 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 ## Tactics
 <Ul>
 <Li>When hiring Cost 1 CT bot(s), hire Fair bot(s) first because they have better skill level.</li>
-<li>On maps with large open space, bots with the M4A1, Famas, UMP45, and the MP5 should be hired as they have better accuracy at longer ranges. Meanwhile at close ranged maps, bots with the M3, P90, TMP and the MP5 should be hired while the UMP-45 should be avoided.</li>
+<li>On maps with large open space, bots with the M4A1, UMP45, and the MP5 should be hired as they have better accuracy at longer ranges. Meanwhile at close ranged maps, bots with the M3, P90, TMP and the MP5 should be hired while the UMP-45 should be avoided.</li>
 <Li>Rii is the only Cost 1 teammates who uses Leone 12 Gauge Super, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
 <Li>Prioritize Marina as your teammate, she's the only one using M4A1.</li>
 <Ul><Li>But will swap it for an CV-47 if she finds one dropped by a Terrorist, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.) even though the shooting accuracy is low.</li></ul>
@@ -483,7 +481,8 @@ Same as Asuka, Marina is also an exclusive bot in Cost 1 because she uses the Sp
 <Ul><li>Other bots use Leone 12 Gauge Super when they can't buy XM1014.</li></ul>
 <Li>Only Marina uses the M4A1.</li>
 <Ul><li>She will use Famas if she can't buy M4A1.</li></ul>
-<Li>Only Marina and Asuka use the exclusive character, Spetsnaz.</li>
+<Li>Only Marina use the exclusive character, Spetsnaz.</li>
+<ul><li>In the BETA Phase, Asuka's skin was originally was "Spetsnaz" before changing into "SEAL Team 6".</li></ul>
 <Li>Some CT bots have voice pitch higher than 110.</li>
 </Ul>
 
