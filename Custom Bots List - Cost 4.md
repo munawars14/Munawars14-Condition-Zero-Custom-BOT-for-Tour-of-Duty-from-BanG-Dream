@@ -121,59 +121,6 @@ She uses Sniper weapon preference template, she prefers to purchase the Magnum S
 
 Her voice pitch is set to 110, slightly higher than the basic voice.
 
-### Chiyu aka CHU<sup>2</sup>
-<Table border="1">
-<Tbody align="center">
-<Tr>
-<Th colspan="2">Cost 4</th>
-</Tr>
-<Tr>
-<Td colspan="2"><img width="64px" height="64px" alt="Chu2" src="https://i.bandori.party/u/i/m/40CHU%C2%B2-OuDbvK.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/spetsnaz.png" /></td>
-</Tr>
-<Tr>
-<Th colspan="2">Tamade Chiyu</th>
-</Tr>
-<Tr>
-<Th>Faction</th>
-<Th>RAISE A SUILEN</th>
-</Tr>
-<Tr>
-<Th>Skill</th>
-<Th>High</th>
-</Tr>
-<Tr>
-<Th>Co-op</th>
-<Th>Ok</th>
-</Tr>
-<Tr>
-<Th>Bravery</th>
-<Th>Ok</th>
-</Tr>
-<Tr>
-<Th>Prim. Weapon</th>
-<td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
-</Tr>
-</Tbody>
-</Table>
-
-#### Chiyu's Background
-Tamade Chiyu is a returnee who attends Celosia Girls' Academy, which is an international school. She is 14 years old, but due to her excellent grades, she is a second-year high school student.
-
-She goes by the stage name CHU<sup>2</sup> (チュチュ), read as CHUCHU) and is the leader, producer and DJ for the band RAISE A SUILEN. She uses DTM (Desktop Music) to compose music.
-
-Similarly to <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kokoro">Kokoro</a>, she is very rich and lives in a penthouse, where the band also practices at.
-
-#### Chiyu's Custom Tour of Duty
-CHU<sup>2</sup>'s skill type is expert, which means she is 90% accurate when firing. Her reaction time is 0.2 seconds and she is very sensitive to footsteps. She has no attack delay.
-
-Her co-op is set to 50 (Ok). CHU<sup>2</sup> has moderate teamwork. She only follows the player's commands and stays close to her teammates if the CTs lost the previous round.
-
-Her bravery is set to 50 (Ok). CHU<sup>2</sup> is a moderate aggressive bot. She will retreat after spotting a large group of Terrorists. Then, she will wait for several seconds to strike back. In bomb defusal maps, she prefers to camp at a bombsite if the CTs lost the previous round.
-
-Her voice pitch is set to 115 which means she has a high pitch.
-
-CHU<sup>2</sup> is an exclusive bot in Cost 4 because she uses the Spetsnaz character.
-
 ### Tsukushi
 <Table border="1">
 <Tbody align="center">
