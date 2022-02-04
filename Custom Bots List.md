@@ -53,7 +53,7 @@
 <Td>Satomi</td>
 <Td>CHiSPA</td>
 <Td>3</td>
-<Td>Clarion 5.56</td>
+<Td>KM UMP45</td>
 <Td>-</td>
 <Td>Bad</td>
 <Td>Good</td>
@@ -63,9 +63,9 @@
 <Tr>
 <Td>Asuka</td>
 <Td>N/A</td>
-<Td>5</td>
+<Td>1</td>
 <Td>KM Submachine Gun</td>
-<Td>ES Five-Seven</td>
+<Td>Nighthawk 50C</td>
 <Td>Low</td>
 <Td>Good</td>
 <Td>Low</td>
@@ -74,7 +74,7 @@
 <Tr>
 <Td>Nanana</td>
 <Td>Glitter*Green</td>
-<Td>3</td>
+<Td>1</td>
 <Td>ES C90</td>
 <Td>-</td>
 <Td>Low</td>
@@ -87,7 +87,7 @@
 <Td>Glitter*Green</td>
 <Td>2</td>
 <Td>Leone 12 Gauge Super</td>
-<Td>Nighthawk 55C</td>
+<Td>Nighthawk 50C</td>
 <Td>Low</td>
 <Td>Good</td>
 <Td>Good</td>
@@ -96,9 +96,9 @@
 <Tr>
 <Td>Yuri</td>
 <Td>Glitter*Green</td>
-<Td>1</td>
-<Td>Clarion 5.56</td>
-<Td>-</td>
+<Td>3</td>
+<Td>Schmidt Machine Pistol</td>
+<Td>ES Five-Seven</td>
 <Td>Low</td>
 <Td>High</td>
 <Td>Low</td>
@@ -159,7 +159,7 @@
 </Tr>
 <Tr>
 <Td>Arisa</td>
-<Td>Poppin Party</td>
+<Td>Poppin'Party</td>
 <Td>4</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
@@ -203,7 +203,7 @@
 </Tr>
 <Tr>
 <Td>Hagumi</td>
-<Td>Hello Happy World</td>
+<Td>Hello,Happy World!</td>
 <Td>5</td>
 <Td>KM UMP45</td>
 <Td>9x19mm Sidearm</td>
@@ -211,17 +211,6 @@
 <Td>High</td>
 <Td>Ok</td>
 <Td>117</td>
-</Tr>
-<Tr>
-<Td>Lock</td>
-<Td>RAISE A SUILEN</td>
-<Td>2</td>
-<Td>Bullpup</td>
-<Td>-</td>
-<Td>Ok</td>
-<Td>High</td>
-<Td>Good</td>
-<Td>118</td>
 </Tr>
 <Tr>
 <Td>Nanami</td>
@@ -233,17 +222,6 @@
 <Td>High</td>
 <Td>Good</td>
 <Td>109</td>
-</Tr>
-<Tr>
-<Td>Pareo</td>
-<Td>RAISE A SUILEN</td>
-<Td>4</td>
-<Td>Clarion 5.56</td>
-<Td>-</td>
-<Td>Ok</td>
-<Td>High</td>
-<Td>High</td>
-<Td>108</td>
 </Tr>
 </Tbody>
 </Table>
@@ -277,8 +255,19 @@
 <Td>111</td>
 </Tr>
 <Tr>
+<Td>Chu2</td>
+<Td>RAISE A SUILEN</td>
+<Td>5</td>
+<Td>ES C90</td>
+<Td>-</td>
+<Td>Good</td>
+<Td>Ok</td>
+<Td>Ok</td>
+<Td>115</td>
+</Tr>
+<Tr>
 <Td>Kaoru</td>
-<Td>Hello Happy World</td>
+<Td>Hello,Happy World!</td>
 <Td>2</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
@@ -300,7 +289,7 @@
 </Tr>
 <Tr>
 <Td>Kanon</td>
-<Td>Hello Happy World</td>
+<Td>Hello, Happy World!</td>
 <Td>1</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
@@ -312,7 +301,7 @@
 <Tr>
 <Td>Masking</td>
 <Td>RAISE A SUILEN</td>
-<Td>3</td>
+<Td>1</td>
 <Td>Leone YG1265 Auto Shotgun</td>
 <Td>-</td>
 <Td>Good</td>
@@ -322,7 +311,7 @@
 </Tr>
 <Tr>
 <Td>Saaya</td>
-<Td>Poppin Party</td>
+<Td>Poppin'Party</td>
 <Td>5</td>
 <Td>M249</td>
 <Td>-</td>
@@ -333,7 +322,7 @@
 </Tr>
 <Tr>
 <Td>Tae</td>
-<Td>Poppin Party</td>
+<Td>Poppin'Party</td>
 <Td>2</td>
 <Td>Bullpup</td>
 <Td>-</td>
@@ -366,7 +355,7 @@
 </Tr>
 <Tr>
 <Td>Rimi</td>
-<Td>Poppin Party</td>
+<Td>Poppin'Party</td>
 <Td>3</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
@@ -374,6 +363,28 @@
 <Td>High</td>
 <Td>Ok</td>
 <Td>118</td>
+</Tr>
+<Tr>
+<Td>Lock</td>
+<Td>RAISE A SUILEN</td>
+<Td>2</td>
+<Td>Bullpup</td>
+<Td>-</td>
+<Td>Good</td>
+<Td>High</td>
+<Td>Good</td>
+<Td>118</td>
+</Tr>
+<Tr>
+<Td>Pareo</td>
+<Td>RAISE A SUILEN</td>
+<Td>4</td>
+<Td>Maverick M4A1 Carbine</td>
+<Td>-</td>
+<Td>Ok</td>
+<Td>High</td>
+<Td>High</td>
+<Td>108</td>
 </Tr>
 <Tbody>
 <Table>
@@ -398,24 +409,13 @@
 <Td rowspan="15">4</td>
 <Td>Layer</td>
 <Td>RAISE A SUILEN</td>
-<Td>1</td>
+<Td>3</td>
 <Td>Magnum Sniper Rifle</td>
 <Td>-</td>
 <Td>Good</td>
 <Td>Good</td>
 <Td>Low</td>
 <Td>110</td>
-</Tr>
-<Tr>
-<Td>Chu2</td>
-<Td>RAISE A SUILEN</td>
-<Td>5</td>
-<Td>ES C90</td>
-<Td>-</td>
-<Td>High</td>
-<Td>Ok</td>
-<Td>Ok</td>
-<Td>115</td>
 </Tr>
 <Tr>
 <Td>Tsukushi</td>
@@ -441,7 +441,7 @@
 </Tr>
 <Tr>
 <Td>Misaki</td>
-<Td>Hello Happy World</td>
+<Td>Hello, Happy World!</td>
 <Td>4</td>
 <Td>Bullpup</td>
 <Td>-</td>
@@ -549,7 +549,7 @@
 </Tr>
 <Tr>
 <Td>Kasumi</td>
-<Td>Poppin Party</td>
+<Td>Poppin'Party</td>
 <Td>1</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
@@ -560,7 +560,7 @@
 </Tr>
 <Tr>
 <Td>Kokoro</td>
-<Td>Hello Happy World</td>
+<Td>Hello, Happy World!</td>
 <Td>3</td>
 <Td>ES C90</td>
 <Td>-</td>
