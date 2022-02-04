@@ -381,7 +381,7 @@
 <Td>4</td>
 <Td>Maverick M4A1 Carbine</td>
 <Td>-</td>
-<Td>Ok</td>
+<Td>Good</td>
 <Td>High</td>
 <Td>High</td>
 <Td>108</td>
