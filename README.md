@@ -28,6 +28,8 @@ When the player gains reputation points, the amount of enemies on maps within th
 For the list of Terrorist (with custom) bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md">see here</a>.
 
 ## B. About Custom BOT Nickname for Tour of Duty</b>
+<p align="center"><img alt="Counter-Strike Condition Zero - Custom Tour of Duty from BanG Dream!" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail-bandori.jpg" /></p>
+
 The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
 
 <p>All bot names are taken based on all members of each band : <b>Poppin'Party</b>, <b>Afterglow</b>, <b>Pastel*Palettes</b>, <b>Hello, Happy World!</b>, <b>Roselia</b>, <b>Morfonica</b>, <b>RAISE A SUILEN</b>, <b>Glitter*Green</b>, and <b>CHiSPA</b>. They will use different weapons and be placed at different costs.</p>
