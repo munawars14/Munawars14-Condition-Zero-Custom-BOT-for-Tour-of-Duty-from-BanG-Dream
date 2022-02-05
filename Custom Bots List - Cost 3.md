@@ -83,7 +83,7 @@
 ## Overview
 There are 13 Tour of Duty CT bots under Cost 3 category and 4 bots will switch to the terrorist team on Hard and Expert difficulties.
 
-On Easy and Normal difficulty, they are unlocked after the player finished 8 maps (at 10 reputation points), while on Hard and Expert they are available from the beginning (they technically need 6 and 1 points respectively at these levels, but the starting reputation point level covers the costs). Three reputation points are needed to hire each of them. 10 of them uses Hard and VeryHard skill templates.
+On Easy and Normal difficulty, they are unlocked after the player finished 8 maps (at 10 reputation points), while on Hard and Expert they are available from the beginning (they technically need 6 and 1 points respectively at these levels, but the starting reputation point level covers the costs). Three reputation points are needed to hire each of them. 13 of them uses Hard and VeryHard skill templates.
 
 The order of the top weapons on the list becomes the bot's top priority.
 
@@ -243,6 +243,8 @@ She is very popular with ladies, whom she dubs her "little kittens" (子猫ー�
 Outside of the band, she is also <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chisato">Chisato</a>'s childhood friend, and their parents are good friends as well.
 
 #### Kaoru's Custom Tour of Duty
+Kaoru is a very hard bot, which means her skill point is set to 80. She is 80% accurate when firing. Her reaction time is 0.25 seconds and she is more sensitive to footsteps. She has no attack delay.
+
 She has 50 (Ok) points of teamwork and 75 (Good) points of bravery. Kaoru has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if she lacks sufficient money.
 
 Kaoru is an aggressive bot. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
@@ -796,17 +798,18 @@ Reona uses the Elite Crew skin.
 <ul>
 <li>When hiring cost 3 bots, hire 1 or more bots below first because they have better skill (80 instead of 75).</li>
 <ul>
-<li>Shirokane Rinko, she might be a good choice in large maps such as Cobblestone and Aztec in lower difficulties.</li>
-<li>Seta Kaoru or Matsubara Kanon, they can be deployed to firing enemies in medium or long range.</li>
-<li>Yamabuki Saaya</li>
+<li>Rinko, she might be a good choice in large maps such as Cobblestone and Aztec in lower difficulties.</li>
+<li>Kaoru, Kanon, or Reona, they can be deployed to firing enemies in medium or long range.</li>
+<li>Saaya</li>
 <ul>
 <li>In Chateau, there is a challenge that require player to eliminate enemies using M249. If the player struggle to purchase expensive M249, using Saaya as teammate might be a good idea. Follow her, and when she dies, pick up her M249 for free.
 <ul>
 <li>It's best to hire Saaya only maps with close quarter combat as bots with the M249 will fire in full auto regardless of it's range; limiting their accuracy to first few shots at long range.</li>
 </ul>
 </ul>
-<li>Hanazono Tae, she can be deployed to firing enemies in medium and melee range.</li>
-<li>Maruyama Aya, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
+<li>Tae or Rokka, she can be deployed to firing enemies in medium and melee range.</li>
+<li>Aya or Chiyu, so it's better for players to hire her only in melee type territorial (Office, Tides, etc.).</li>
+<li>Reminder : Chiyu, Masuki, Rokka, and Reona can only be deployed on Easy and Normal difficulties.
 </ul>
 </ul>
 
@@ -814,8 +817,14 @@ Reona uses the Elite Crew skin.
 <ul>
 <li>Unlike the original Tour of Duty, none of the bots use Tactical Shield and stats of bots like <a href="https://counterstrike.fandom.com/wiki/Maverick">Maverick</a>.</li>
 <li>Udagawa Ako has the highest pitch among all Tour of Duty bots.</li>
-<Li>Only Ako and Saaya use the exclusive character, Spetsnaz.
+<Li>Only Ako, Saaya, and Chiyu use the exclusive character, Spetsnaz.</li>
+<li>In the BETA phase, there was an adjustment to the bot from the band member RAISE A SUILEN.
+<ul>
+<li>Rokka and Reona were in the <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md">Cost 2</a> category before they were promoted to the Cost 3 category.</li>
+<li>Chiyu were in the <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md">Cost 4</a> category before were demoted to the Cost 3 category.</li>
+<li>Masuki swapped skins with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#rei-aka-layer">Rei</a> before were changed to the SEAL Team 6 (Phoenix Connexion in the Terrorist Team).
 </ul> 
+</ul>
 
 # Preferences
 <ul>
