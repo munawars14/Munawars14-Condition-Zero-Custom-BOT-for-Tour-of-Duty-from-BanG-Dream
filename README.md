@@ -104,15 +104,15 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 </tr>
 <tr>
 <th align="center">Cost 2</th>
-<td>Mayu • Toko • Arisa • Himari • Rui • Mashiro • Hagumi • Lock • Nanami • Pareo</td>
+<td>Mayu • Toko • Arisa • Himari • Rui • Mashiro • Hagumi • Nanami</td>
 </tr>
 <tr>
 <th align="center">Cost 3</th>
-<td>Kaoru • Ako • Kanon • Masking • Saaya • Tae • Aya • Lisa • Rimi • Rinko</td>
+<td>Kaoru • Chu2 • Ako • Kanon • Masking • Saaya • Tae • Lock • Pareo • Aya • Lisa • Rimi • Rinko</td>
 </tr>
 <tr>
 <th align="center">Cost 4</th>
-<td>Layer • Chisato • Misaki • Tsukushi • Chu2 • Moca • Ran • Yukina • Tsugumi • Eve</td>
+<td>Layer • Chisato • Misaki • Tsukushi • Moca • Ran • Yukina • Tsugumi • Eve</td>
 </tr>
 <tr>
 <th align="center">Cost 5</th>
