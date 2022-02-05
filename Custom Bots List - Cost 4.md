@@ -8,6 +8,7 @@
 <ul>
 <li><a href="#reis-background">Background</a></li>
 <li><a href="#reis-custom-tour-of-duty">Custom Tour of Duty</a></li>
+<li><a href="#rei-on-terrorists-side">On Terrorists Side</a></li>
 </ul>
 <Li><a href="#tsukushi">Tsukushi</a></li>
 <ul>
@@ -56,7 +57,7 @@
 </Ol></b>
 
 ## Overview
-There are 10 CT bots under Cost 4 category.
+There are 9 CT bots under Cost 4 category and 1 bots will switch to the terrorist team on Hard and Expert difficulties.
 
 On Easy and Normal difficulty, they are unlocked after the player finished 13 maps (at 15 reputation points), on Hard, they are unlocked after finishing 6 maps (at 12 reputation points), and on Expert they are available from the beginning.
 
@@ -72,7 +73,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th colspan="2">Cost 4</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img width="64px" height="64px" alt="Layer" src="https://i.bandori.party/u/i/m/36LAYER-rxqBxn.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" /></td>
+<Td colspan="2"><img width="64px" height="64px" alt="Layer" src="https://i.bandori.party/u/i/m/36LAYER-rxqBxn.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/Arctic.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Wakana Rei</th>
@@ -115,6 +116,15 @@ Her bravery is 25%. When she sees a teammate dead in her view, she will retreat 
 She uses Sniper weapon preference template, she prefers to purchase the Magnum Sniper Rifle.
 
 Her voice pitch is set to 110, slightly higher than the basic voice.
+
+#### Rei on Terrorists Side
+On Hard and Expert difficulties, she will switch to the terrorist team. She is not encountered in Easy and Normal difficulties.
+
+On Hard, Rei appears in Tour of Duty [Number]. (?)She works as a reserved bot in map [Map Name].(?)
+
+On Expert, Rei appears in Tour of Duty [Number]. In Tour of Duty [Number], she only appears in maps [Map Name].
+
+Rei uses the Arctic Avengers skin.
 
 ### Tsukushi
 <Table border="1">
@@ -528,6 +538,11 @@ Her voice pitch is 114, which means she has a high voice pitch.
 <li>Only Chisato use the exclusive character, Spetsnaz.</li>
 <ul>
 <li>The bot skin named Chisato is set to 5 (Spetsnaz) because the voice actress in BanG Dream!, Uesaka Sumire can speak Russian.</li>
+</ul>
+<li>In the BETA phase, there was an adjustment to the bot from the band member RAISE A SUILEN.</li>
+<ul>
+<Li><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#chiyu-aka-chu2">Chiyu</a> were in the Cost 4 category before were demoted to the <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md">Cost 3</a> category.</li>
+<Li>Rei swapped skins with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#masuki-aka-masking">Masuki</a> before were changed to the SAS (Arctic Avengers in the Terrorist Team).</li>
 </ul>
 </ul>
 
