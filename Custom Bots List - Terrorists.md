@@ -34,6 +34,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td>50</td>
 </tr>
 <tr>
+<td><i>Striker</i></td>
+<td><i>5</i></td>
+<td><i>Leone 12 Gauge Super</i></td>
+<td>0</td>
+<td>Default</td>
+<td>75</td>
+</tr>
+<tr>
 <td><i>Yasha</i></td>
 <td>1</td>
 <td>KM Submachine Gun</td>
@@ -114,6 +122,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td>75</td>
 </tr>
 <tr>
+<td><i>Jaeger</i></td>
+<td>2</td>
+<td>KM UMP45</td>
+<td>25</td>
+<td>Default</td>
+<td>75</td>
+</tr>
+<tr>
 <td>Madman</td>
 <td>1</td>
 <td>Ingram MAC-10</td>
@@ -154,12 +170,28 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td>50</td>
 </tr>
 <tr>
+<td><i>Vespid</i></td>
+<td>2</td>
+<td>CV-47</td>
+<td>50</td>
+<td>Default</td>
+<td>50</td>
+</tr>
+<tr>
 <td><i>Ash</i></td>
 <td>1</td>
 <td><i>Krieg 552</i></td>
 <td>50</td>
 <td>Default</td>
 <td>75</td>
+</tr>
+<tr>
+<td><i>Blaze</i></td>
+<td><i>5</i></td>
+<td>CV-47</td>
+<td>50</td>
+<td>Default</td>
+<td>100</td>
 </tr>
 <tr>
 <td>Maniac</td>
@@ -197,6 +229,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td><i>Creeper</i></td>
 <td>1</td>
 <td>ES C90</td>
+<td>60</td>
+<td>Default</td>
+<td>25</td>
+</tr>
+<tr>
+<td><i>Ripper</i></td>
+<td>2</td>
+<td><i>Krieg 552</i></td>
 <td>60</td>
 <td>Default</td>
 <td>25</td>
@@ -250,6 +290,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td>0</td>
 </tr>
 <tr>
+<td><i>Aegis</i></td>
+<td>4</td>
+<td><i>Krieg 552</i></td>
+<td>75</td>
+<td>Default</td>
+<td>0</td>
+</tr>
+<tr>
 <td>Razor</td>
 <td>3</td>
 <td>Magnum Sniper Rifle</td>
@@ -284,6 +332,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <tr>
 <td>Blade</td>
 <td>2</td>
+<td>CV-47</td>
+<td>75</td>
+<td>Default</td>
+<td>100</td>
+</tr>
+<tr>
+<td><i>Brute</i></td>
+<td>1</td>
 <td>CV-47</td>
 <td>75</td>
 <td>Default</td>
@@ -353,6 +409,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td>Default</td>
 <td>100</td>
 </tr>
+<tr>
+<td><i>Hunter</i></td>
+<td><i>5</i></td>
+<td>ES C90</td>
+<td>80</td>
+<td>Default</td>
+<td>100</td>
+</tr>
 </tbody>
 </table>
 
@@ -397,6 +461,14 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <td><i>Lizard</i></td>
 <td><i>5</i></td>
 <td><i>Krieg 552</i></td>
+<td>90</td>
+<td>Default</td>
+<td>75</td>
+</tr>
+<tr>
+<td><i>Weaver</i></td>
+<td>2</td>
+<td>CV-47</td>
 <td>90</td>
 <td>Default</td>
 <td>75</td>
@@ -460,7 +532,7 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <tr>
 <td><i>Raiden</i></td>
 <td><i>5</i></td>
-<td><i>Krieg 552</i></td>
+<td>CV-47</td>
 <td>100</td>
 <td>Default</td>
 <td>75</td>
@@ -484,7 +556,7 @@ For articles on all custom terrorist bots, <a href="https://github.com/munawars1
 <tr>
 <td><i>Ferret</i></td>
 <td><i>5</i></td>
-<td>CV-47</td>
+<td><i>Krieg 552</i></td>
 <td>100</td>
 <td>100</td>
 <td>50</td>
