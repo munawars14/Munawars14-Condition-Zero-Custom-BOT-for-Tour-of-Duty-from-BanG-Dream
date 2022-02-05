@@ -43,13 +43,13 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <li>Some custom Terrorist and CT bots will use skin of a Midwest Militia and Spetsnaz.</li>
 <li>Added new custom bot for Terrorists.</li>
 <ul>
-<li><b>Easy</b> : Yasha</li>
-<li><b>Fair</b> : Galods</li>
-<li><b>Normal</b> : Ash</li>
-<li><b>Tough</b> : Creeper and Albacore</li>
-<li><b>Hard</b> : Hornet and Leech</li>
-<li><b>Very Hard</b> : Vodka</li>
-<li><b>Expert</b> : Bat and Lizard</li>
+<li><b>Easy</b> : Yasha and Striker</li>
+<li><b>Fair</b> : Galods and Jaeger</li>
+<li><b>Normal</b> : Ash, Blaze, and Vespid</li>
+<li><b>Tough</b> : Creeper, Ripper, and Albacore</li>
+<li><b>Hard</b> : Aegis, Hornet, Leech, and Brute</li>
+<li><b>Very Hard</b> : Vodka and Hunter</li>
+<li><b>Expert</b> : Bat, Lizard, and Weaver</li>
 <li><b>Elite</b> : Ferret, Raiden, and Frost</li>
 </ul>
 <li>Tour of Duty for all difficulties increased.</li>
@@ -123,31 +123,31 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <tr>
 <th rowspan="8">Terrorists</th>
 <th>Easy</th>
-<td>Weasel • Lunatic • Crackpot • Outcast • <i>Yasha</i></td>
+<td>Weasel • Lunatic • Crackpot • Outcast • <i>Yasha</i> • <i>Striker</i></td>
 </tr>
 <tr>
 <th>Fair</th>
-<td>Madman • Rat • Screech • Worm • Splinter • <i>Galods</i></td>
+<td>Madman • Rat • Screech • Worm • Splinter • <i>Galods</i> • <i>Jaeger</i></td>
 </tr>
 <tr>
 <th>Normal</th>
-<td>Freak • Maniac • Psycho • <i>Ash</i></td>
+<td>Freak • Maniac • Psycho • <i>Ash</i> • <i>Blaze</i> • <i>Vespid</i></td>
 </tr>
 <tr>
 <th>Tough</th>
-<td>Rebel • Fiend • Vandal • <i>Creeper</i> • <i>Albacore</i></td>
+<td>Rebel • Fiend • Vandal • <i>Creeper</i> • <i>Ripper</i> • <i>Albacore</i></td>
 </tr>
 <tr>
 <th>Hard</th>
-<td>Razor • Bandit • Raider • Blade • <i>Hornet</i> • <i>Leech</i></td>
+<td>Razor • Bandit • Raider • Blade • <i>Aegis</i> • <i>Brute</i> • <i>Hornet</i> • <i>Leech</i></td>
 </tr>
 <tr>
 <th>Very Hard</th>
-<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Vodka</i></td>
+<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Vodka</i> • <i>Hunter</i></td>
 </tr>
 <tr>
 <th>Expert</th>
-<td>Hyena • Wolfhound • Panther • Crow • <i>Bat</i> • <i>Lizard</i></td>
+<td>Hyena • Wolfhound • Panther • Crow • <i>Bat</i> • <i>Lizard</i> • <i>Weaver</i></td>
 </tr>
 <tr>
 <th>Elite</th>
