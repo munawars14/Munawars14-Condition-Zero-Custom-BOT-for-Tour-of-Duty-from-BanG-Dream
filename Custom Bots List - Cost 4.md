@@ -9,11 +9,6 @@
 <li><a href="#reis-background">Background</a></li>
 <li><a href="#reis-custom-tour-of-duty">Custom Tour of Duty</a></li>
 </ul>
-<Li><a href="#chiyu-aka-chu2">Chiyu (aka CHU<sup>2</sup>)</a></li>
-<ul>
-<li><a href="#chiyus-background">Background</a></li>
-<li><a href="#chiyus-custom-tour-of-duty">Custom Tour of Duty</a></li>
-</ul>
 <Li><a href="#tsukushi">Tsukushi</a></li>
 <ul>
 <li><a href="#tsukushis-background">Background</a></li>
@@ -530,8 +525,7 @@ Her voice pitch is 114, which means she has a high voice pitch.
 
 # Trivia
 <ul>
-<li>CHU<sup>2</sup> is the only custom bot that has a name combination between letters and numbers. (Example : BOT Chu2)</li>
-<li>Only CHU<sup>2</sup> and Chisato use the exclusive character, Spetsnaz.</li>
+<li>Only Chisato use the exclusive character, Spetsnaz.</li>
 <ul>
 <li>The bot skin named Chisato is set to 5 (Spetsnaz) because the voice actress in BanG Dream!, Uesaka Sumire can speak Russian.</li>
 </ul>
