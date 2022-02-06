@@ -6,12 +6,40 @@
 <Ul>
 <Li><a href="#mayu">Mayu</a></li>
 <Li><a href="#toko">Toko</a></li>
+<ul>
+<li><a href="#tokos-background">Background</a></li>
+<li><a href="#tokos-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#arisa">Arisa</a></li>
+<ul>
+<li><a href="#arisas-background">Background</a></li>
+<li><a href="#arisas-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#himari">Himari</a></li>
+<ul>
+<li><a href="#himaris-background">Background</a></li>
+<li><a href="#himaris-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#rui">Rui</a></li>
+<ul>
+<li><a href="#ruis-background">Background</a></li>
+<li><a href="#ruis-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#mashiro">Mashiro</a></li>
+<ul>
+<li><a href="#mashiros-background">Background</a></li>
+<li><a href="#mashiros-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#hagumi">Hagumi</a></li>
+<ul>
+<li><a href="#hagumis-background">Background</a></li>
+<li><a href="#hagumis-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 <Li><a href="#nanami">Nanami</a></li>
+<ul>
+<li><a href="#nanamis-background">Background</a></li>
+<li><a href="#nanamis-custom-tour-of-duty">Custom Tour of Duty</a></li>
+</ul>
 </Ul>
 <Li><a href="#tactics">Tactics</a></li>
 <Li><a href="#trivia">Trivia</a></li>
@@ -26,8 +54,8 @@ On Easy and Normal difficulty, they are unlocked after the player finished 4 map
 
 The order of the top weapons on the list becomes the bot's top priority.
 
-### Members
-#### Mayu
+## Members
+### Mayu
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -75,7 +103,7 @@ Mayu prefers Schmidt Scout as her main weapon. When having sufficient money, she
 
 Her voice pitch is set to 109, slightly higher than the basic voice.
 
-#### Toko
+### Toko
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -113,10 +141,12 @@ Her voice pitch is set to 109, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
+#### Toko's Background
 Kirigaya Toko is a first-year student at Tsukinomori Girls' Academy, and the lead guitarist of Morfonica. She handles the band's costumes and like <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#lisa">Lisa</a>, follows gyaru fashion.
 
 Outside of the band she is friends with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#sayo">Sayo</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#kaoru">Kaoru</a>, and is also classmates with <a href="#nanami">Nanami</a>.
 
+#### Toko's Custom Tour of Duty
 Toko is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 Her co-op is set to 50 (Ok). Toko has moderate teamwork. She only follows the player's commands and stays close to her teammates if the CTs lost the previous round.
@@ -127,7 +157,7 @@ Toko prefers KM UMP45 as her main weapon, followed by KM Submachine Gun and Schm
 
 Her voice pitch is 111, slightly higher than the basic voice.
 
-#### Arisa
+### Arisa
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -162,8 +192,14 @@ Her voice pitch is 111, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
+#### Arisa's Background
 Ichigaya Arisa is a second-year student at Hanasakigawa Girls' High School, the student council secretary and Poppin'Party's keyboardist.
 
+Arisa's grandparents run a pawnshop called Ryuuseidou, and she lives in a big and traditional house, which includes a basement where Poppin'Party practices and hangs out at most of the time. Ryuuseidou is also the place where Kasumi found her guitar, Random Star, from.
+
+When she was younger, Arisa picked up to learn the piano but then quit it halfway through because she didn't have any motivation to continue, and because she had to study for middle school exams - when she befriended <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kasumi">Kasumi</a> and heard about her plans to start a band, she picked it up again.
+
+#### Arisa's Custom Tour of Duty
 Arisa is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 She has 60 (Ok) points of teamwork and 85 (Good) points of bravery. Arisa has moderate teamwork. She sometimes follows the player's commands. She groups with teammates if she lacks sufficient money.
@@ -174,7 +210,7 @@ Arisa uses Rifle template, which means her top priority weapon is Maverick M4A1 
 
 Her voice pitch is set to 110, slightly higher than the basic voice.
 
-#### Himari
+### Himari
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -215,8 +251,10 @@ Her voice pitch is set to 110, slightly higher than the basic voice.
 </Tbody>
 </Table>
 
+#### Himari's Background
 Uehara Himari is a second-year student at Haneoka Girls' High School and the leader and bassist of Afterglow. She is a huge fan of Kaoru's.
 
+#### Himari's Custom Tour of Duty
 Himari is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 Both of her teamwork and bravery are set to 75 (Good) points each. She will always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists. After several seconds, she will attack. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
@@ -225,7 +263,7 @@ Her preferred main weapons are KM Submachine Gun. Actually, the main weapon used
 
 Her voice pitch is 114, which means she has a high voice pitch.
 
-#### Rui
+### Rui
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -263,8 +301,10 @@ Her voice pitch is 114, which means she has a high voice pitch.
 </Tbody>
 </Table>
 
+#### Rui's Background
 Yashio Rui is a first-year student at Tsukinomori Girls' Academy and the violinist and composer of Morfonica. Rui is a talented violinist who has played the violin ever since she was young. Rui is also a member of Tsukinomori Girls' Academy's student council. She initially watched Morfonica's band practices only because they needed someone from the student council to monitor their activities, before the other girls managed to convince her to join the band.
 
+#### Rui's Custom Tour of Duty
 Rui is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 Her teamwork is set to 75. She frequently follows the player's commands and usually stays together with teammates. Her bravery is set to high, at 100 points. She will never retreat even when spotting a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camp at a bombsite.
@@ -275,7 +315,7 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 
 Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 
-#### Mashiro
+### Mashiro
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -311,8 +351,10 @@ Rui is an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 </Tbody>
 </Table>
 
+#### Mashiro's Background
 Kurata Mashiro is a first-year transfer student at Tsukinomori Girls' Academy, and the lead singer of Morfonica. She writes the lyrics for their songs. She is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#tsukushi">Tsukushi</a>.
 
+#### Mashiro's Custom Tour of Duty
 Mashiro is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 She has 100 teamwork points and 25 bravery points. She will always follow the player's commands and stays together with teammates. She is rather passive, and will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
@@ -321,7 +363,7 @@ She prefers ES C90 as her main weapon, since she uses Spray template.
 
 Her voice pitch is set to 116, which means she has a bit high pitch.
 
-#### Hagumi
+### Hagumi
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -335,7 +377,7 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Hello Happy World</th>
+<Th>Hello, Happy World!</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -363,10 +405,12 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 </Tbody>
 </Table>
 
+#### Hagumi's Background
 Kitazawa Hagumi is an energetic second-year student at Hanasakigawa Girls' High School and the bassist of Hello, Happy World!.
 
 Outside of the band, she is also friends with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#saaya">Saaya</a>, and is also classmates with <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#tae">Tae</a> and <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#eve">Eve</a>.
 
+#### Hagumi's Custom Tour of Duty
 Hagumi is a tough bot, which means she has 60 skill point. She is 60% accurate when firing. Her reaction time is 0.3 seconds and she is sensitive footsteps. She holds her fire for 0.35 seconds before attacking.
 
 She has 100 (High) points of teamwork and 50 (Ok) points of bravery. She always follow the player's commands and stays close to teammates. She will retreat after spotting a large group of Terrorists and waits for them to come to her position. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
@@ -377,7 +421,7 @@ Her voice pitch is set to 117, which means she has a bit high pitch.
 
 Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spetsnaz character.
 
-#### Nanami
+### Nanami
 <Table border="1">
 <Tbody align="center">
 <Tr>
@@ -412,8 +456,10 @@ Same as Rui, Hagumi is also an exclusive bot in Cost 2 because she uses the Spet
 </Tbody>
 </Table>
 
+#### Nanami's Background
 Hiromachi Nanami is a first-year student at Tsukinomori Girls' Academy and the bassist of Morfonica. She is also classmates with <a href="#toko">Toko</a>.
 
+#### Nanami's Custom Tour of Duty
 Nanami is a normal bot, which means she has 50 skill point. She is 50% accurate when firing. Her reaction time is 0.4 seconds and she can detect footsteps. She holds her fire for 0.7 seconds before attacking.
 
 Her co-op level is set to 100 (High) points and bravery level is set to 85 (Good) points, which means she will almost always follow player's command and stick together with teammates. She will not retreat if she spots a few enemies. She only retreats after facing a large group of enemies. In bomb defusal maps, she prefers to strike the Terrorists rather than camping at a bombsite.
@@ -460,6 +506,7 @@ Same as Mayu, her voice pitch is set to 109.
 <Ul>
 <li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a></li>
 <ul>
+<li><a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Toyama Kasumi</a></li>
 <li><a href="https://bandori.fandom.com/wiki/Hanazono_Tae">Hanazono Tae</a></li>
 <li><a href="https://bandori.fandom.com/wiki/Yamabuki_Saaya">Yamabuki Saaya</a></li>
 </ul>
@@ -474,7 +521,6 @@ Same as Mayu, her voice pitch is set to 109.
 </ul>
 <li><a href="https://bandori.fandom.com/wiki/Roselia">Roselia</a></li>
 <ul>
-<li><a href="https://bandori.fandom.com/wiki/Udagawa_Ako">Udagawa Ako</a></li>
 <li><a href="https://bandori.fandom.com/wiki/Hikawa_Sayo">Hikawa Sayo</li>
 <li><a href="https://bandori.fandom.com/wiki/Imai_Lisa">Imai Lisa</li>
 </ul>
