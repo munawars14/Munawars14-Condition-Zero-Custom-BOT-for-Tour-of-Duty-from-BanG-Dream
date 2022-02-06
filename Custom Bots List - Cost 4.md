@@ -73,7 +73,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th colspan="2">Cost 4</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img width="64px" height="64px" alt="Layer" src="https://i.bandori.party/u/i/m/36LAYER-rxqBxn.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/Arctic.png" /></td>
+<Td colspan="2"><img width="64px" height="64px" alt="Layer" src="https://i.bandori.party/u/i/m/36LAYER-rxqBxn.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sas.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/arctic.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Wakana Rei</th>
