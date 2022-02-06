@@ -412,7 +412,7 @@ Yuri is the lead vocalist and guitarist of Glitter*Green, and <a href="https://g
 
 She has 100 (High) points of teamwork and 25 (Low) points of Bravery. She will always follow the player's commands and stays close to teammates. She will retreat after spotting some enemies. Then, she will find another way to strike from behind. In bomb defusal maps, she prefers to camp at a bombsite.
 
-Yuri prefers Schmidt Machine Pistol as her main weapon. She does not buy or pick up other weapons. 
+Yuri prefers Schmidt Machine Pistol as her main weapon. She does not buy or pick up other weapons. Her secondary weapon preference are ES Five-Seven, followed by 228 Compact. 
 
 Her voice pitch is set to 110, slightly higher than the basic voice.
 
