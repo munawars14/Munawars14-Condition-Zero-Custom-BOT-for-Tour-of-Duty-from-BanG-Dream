@@ -117,7 +117,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th>Bad</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/awp.png" /></td>
 </Tr>
 </Tbody>
@@ -168,7 +168,7 @@ Her voice pitch is 111, slightly higher than the basic voice.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
 </Tr>
 </Tbody>
@@ -215,7 +215,7 @@ Chiyu uses the Midwest Militia skin.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Hello Happy World</th>
+<Th>Hello, Happy World!</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -230,7 +230,7 @@ Chiyu uses the Midwest Militia skin.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
@@ -282,7 +282,7 @@ Her voice pitch is set to the standard 100.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
@@ -321,7 +321,7 @@ Ako is an exclusive bot in Cost 3 because she uses the Spetsnaz character.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Hello Happy World</th>
+<Th>Hello, Happy World!</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -336,7 +336,7 @@ Ako is an exclusive bot in Cost 3 because she uses the Spetsnaz character.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
@@ -364,7 +364,7 @@ Her voice pitch is 113, which means she has a high voice pitch.
 <Th colspan="2">Cost 3</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img width="64px" height="64px" alt="Masking" src="https://i.bandori.party/u/i/m/38MASKING-p5C4rr.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/Terror.png" /></td>
+<Td colspan="2"><img width="64px" height="64px" alt="Masking" src="https://i.bandori.party/u/i/m/38MASKING-p5C4rr.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/urban.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/terror.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Satou Masuki</th>
@@ -386,7 +386,7 @@ Her voice pitch is 113, which means she has a high voice pitch.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/xm1014.png" /></td>
 </Tr>
 </Tbody>
@@ -429,7 +429,7 @@ Masuki uses the Phoenix Connexion skin.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Poppin Party</th>
+<Th>Poppin'Party</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -444,7 +444,7 @@ Masuki uses the Phoenix Connexion skin.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></td>
 </Tr>
 </Tbody>
@@ -480,7 +480,7 @@ Same as Ako, Saaya is also an exclusive bot in Cost 3 because she uses the Spets
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Poppin Party</th>
+<Th>Poppin'Party</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -495,7 +495,7 @@ Same as Ako, Saaya is also an exclusive bot in Cost 3 because she uses the Spets
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
 </Tr>
 </Tbody>
@@ -544,7 +544,7 @@ Her voice pitch is set to 104, slightly higher than the standard voice.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
 </Tr>
 </Tbody>
@@ -593,7 +593,7 @@ Same as Saaya, her voice pitch is 115.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
 </Tr>
 </Tbody>
@@ -629,7 +629,7 @@ Same as Saaya and Aya, her voice pitch is 115.
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>Poppin Party</th>
+<Th>Poppin'Party</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
@@ -644,7 +644,7 @@ Same as Saaya and Aya, her voice pitch is 115.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
@@ -671,7 +671,7 @@ Her voice pitch is set to 118, the high level.
 <Th colspan="2">Cost 3</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Lock" width"64px" height="64px" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/Leet.png" />
+<Td colspan="2"><img alt="Lock" width"64px" height="64px" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gsg9.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/leet.png" />
 </td>
 </Tr>
 <Tr>
@@ -694,7 +694,7 @@ Her voice pitch is set to 118, the high level.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /><br>
 <img width="75%" height=75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sg552.png" />
 </td>
@@ -738,7 +738,7 @@ Rokka uses the Elite Crew skin.
 <Th colspan="2">Cost 3</th>
 </Tr>
 <Tr>
-<Td colspan="2"><img alt="Pareo" width="64px" height="64px" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/Guerilla.png" /></td>
+<Td colspan="2"><img alt="Pareo" width="64px" height="64px" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/gign.png" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/guerilla.png" /></td>
 </Tr>
 <Tr>
 <Th colspan="2">Nyubara Reona</th>
@@ -760,7 +760,7 @@ Rokka uses the Elite Crew skin.
 <Th>High</th>
 </Tr>
 <Tr>
-<th>Prim. Weapon</th>
+<th>Primary Weapon</th>
 <Td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
@@ -843,8 +843,10 @@ Reona uses the Elite Crew skin.
 <Ul>
 <Li>About <a href="https://counterstrike.fandom.com/wiki/Category:Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a></li>
 <Li>BanG Dream!'s Band Members in Fandom website.</li>
-<Ul><li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin Party</a></li>
-<Ul><li><a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Toyama Kasumi</a></li>
+<Ul>
+<li><a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a></li>
+<Ul>
+<li><a href="https://bandori.fandom.com/wiki/Toyama_Kasumi">Toyama Kasumi</a></li>
 </ul>
 <Li><a href="https://bandori.fandom.com/wiki/Afterglow">Afterglow</a></li>
 <ul>
@@ -867,7 +869,7 @@ Reona uses the Elite Crew skin.
 <Li><a href="https://bandori.fandom.com/wiki/Udagawa_Ako">Udagawa Ako</a></li></ul>
 <li><a href="https://bandori.fandom.com/wiki/RAISE_A_SUILEN">RAISE A SUILEN</a></li>
 <Ul>
-<Li><a href="https://bandori.fandom.com/wiki/Asahi_Rokka">Asahi Rokka</a></li>
+<Li><a href="https://bandori.fandom.com/wiki/Wakana_Rei">Wakana Rei</a></li>
 </ul>
 <Li><a href="https://bandori.fandom.com/wiki/Toyama_Asuka">Toyama Asuka</a></li></ul>
 </Ul>
