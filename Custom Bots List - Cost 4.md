@@ -535,6 +535,7 @@ Her voice pitch is 114, which means she has a high voice pitch.
 
 # Trivia
 <ul>
+<li>Unlike the original Tour of Duty, none of the bots use Tactical Shield like <a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_CT_Bots/Cost_4#Brent">Brent</a>.
 <li>Only Chisato use the exclusive character, Spetsnaz.</li>
 <ul>
 <li>The bot skin named Chisato is set to 5 (Spetsnaz) because the voice actress in BanG Dream!, Uesaka Sumire can speak Russian.</li>
