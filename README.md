@@ -1,5 +1,7 @@
 # Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream
 
+# Status : Not Ready
+
 ## A. About Tour of Duty
 <p align="center"><img alt="Counter-Strike Condition Zero - Tour of Duty" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail.jpg" /></p>
 
