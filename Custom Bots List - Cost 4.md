@@ -57,7 +57,7 @@
 </Ol></b>
 
 ## Overview
-There are 9 CT bots under Cost 4 category and 1 bots will switch to the terrorist team on Hard and Expert difficulties.
+There are 9 CT bots under Cost 4 category and 1 bot will switch to the terrorist team on Hard and Expert difficulties.
 
 On Easy and Normal difficulty, they are unlocked after the player finished 13 maps (at 15 reputation points), on Hard, they are unlocked after finishing 6 maps (at 12 reputation points), and on Expert they are available from the beginning.
 
