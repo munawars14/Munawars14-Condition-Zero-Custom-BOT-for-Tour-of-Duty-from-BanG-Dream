@@ -815,7 +815,7 @@ Reona uses the Elite Crew skin.
 
 # Trivia
 <ul>
-<li>Unlike the original Tour of Duty, none of the bots use Tactical Shield and stats of bots like <a href="https://counterstrike.fandom.com/wiki/Maverick">Maverick</a>.</li>
+<li>Unlike the original Tour of Duty, none of the bots use Tactical Shield like <a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_CT_Bots/Cost_3#Travis">Travis</a> and stats of bots like <a href="https://counterstrike.fandom.com/wiki/List_of_Tour_of_Duty_CT_Bots/Cost_3#Maverick">Maverick</a>.</li>
 <li>Udagawa Ako has the highest pitch among all Tour of Duty bots.</li>
 <Li>Only Ako, Saaya, and Chiyu use the exclusive character, Spetsnaz.</li>
 <li>In the BETA phase, there was an adjustment to the bot from the band member RAISE A SUILEN.
