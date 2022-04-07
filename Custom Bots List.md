@@ -533,7 +533,7 @@
 <Td>-</td>
 <Td>High</td>
 <Td>High</td>
-<Td>Good</td>
+<Td>Ok</td>
 <Td>107</td>
 </Tr>
 <Tr>
