@@ -80,7 +80,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/awp.png" /></td>
 </Tr>
 </Tbody>
@@ -126,7 +126,7 @@ Her voice pitch is set to 107, slightly higher.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
@@ -174,7 +174,7 @@ Her voice pitch is set to 118, the high level.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
@@ -221,7 +221,7 @@ Her voice pitch is 114, which means she has a high voice pitch.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
 </Tr>
 </Tbody>
@@ -267,7 +267,7 @@ Same as Hina, her voice pitch is set to 118.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
 </Tr>
 </Tbody>
@@ -313,7 +313,7 @@ Her voice pitch is set to 116, which means she has a bit high pitch.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></td>
 </Tr>
 </Tbody>
