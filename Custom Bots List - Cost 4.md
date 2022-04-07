@@ -95,7 +95,7 @@ The order of the top weapons on the list becomes the bot's top priority.
 <Th>Low</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/awp.png" /></td>
 </Tr>
 </Tbody>
@@ -155,7 +155,7 @@ Rei uses the Arctic Avengers skin.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></td>
 </Tr>
 </Tbody>
@@ -206,7 +206,7 @@ Tsukushi uses Power weapon preference template.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ak47.png" /><br>
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
@@ -260,7 +260,7 @@ Same as CHU<sup>2</sup>, Chisato is also an exclusive bot in Cost 4 because she 
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
 </Tr>
 </Tbody>
@@ -311,7 +311,7 @@ Her voice pitch is set to 115 which means she has a high pitch.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aug.png" /></td>
 </Tr>
 </Tbody>
@@ -360,7 +360,7 @@ Her voice pitch is set to 107, slightly higher than standard.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
@@ -413,7 +413,7 @@ Her voice pitch is 105, slightly higher than standard.
 <Th>High</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m4a1.png" /></td>
 </Tr>
 </Tbody>
@@ -462,7 +462,7 @@ Same also as her rival, Yukina's voice pitch is set to 105.
 <Th>Ok</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/p90.png" /></td>
 </Tr>
 </Tbody>
@@ -511,7 +511,7 @@ Her voice pitch is set to 115 which means she has a high pitch.
 <Th>Good</th>
 </Tr>
 <Tr>
-<Th>Prim. Weapon</th>
+<Th>Primary Weapon</th>
 <td><img width="75%" height="75%" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/m249.png" /></td>
 </Tr>
 </Tbody>
