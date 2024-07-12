@@ -1,7 +1,5 @@
 # Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream
 
-# Status : Not Ready
-
 ## A. About Tour of Duty
 <p align="center"><img alt="Counter-Strike Condition Zero - Tour of Duty" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail.jpg" /></p>
 
@@ -30,7 +28,7 @@ When the player gains reputation points, the amount of enemies on maps within th
 For the list of Terrorist (with custom) bots and their individual statistics, <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md">see here</a>.
 
 ## B. About Custom BOT Nickname for Tour of Duty</b>
-<p align="center"><img alt="Counter-Strike Condition Zero - Custom Tour of Duty from BanG Dream!" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail-bandori.jpg" /></p>
+<p align="center"><img alt="Counter-Strike Condition Zero - Custom Tour of Duty from BanG Dream!" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/thumbnail-bandori-v1.2.jpg" /></p>
 
 The bot in this Tour of Duty mod has been <i>modified</i>, all the names and personalities of the Counter-Terrorists bot teammates are taken from the game and series <b>BanG Dream! Girls Band Party</b>. Bots for Terrorist teams will keep to use the default bots Tour of Duty and all maps will keep to use the default maps Tour of Duty.
 
@@ -41,18 +39,16 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 ## C. Features
 <ul>
 <li>All custom CT bot names are taken from the <b>BanG Dream!</b> series and game.</li>
-<li>Some custom Terrorist bots will use weapons that were <i>not used</i> on the original Tour of Duty (ex : SG552, G3SG1, Galil, etc.).</li>
-<li>Some custom Terrorist and CT bots will use skin of a Midwest Militia and Spetsnaz.</li>
+<li>Some custom Terrorist bots will use weapons that were <i>not used</i> on the original Tour of Duty (example: Krieg 552, D3/AU1, IDF Defender, etc.).</li>
+<li>Some custom Terrorist and CT bots will use exclusive characters: Midwest Militia and Spetsnaz.</li>
 <li>Added new custom bot for Terrorists.</li>
 <ul>
-<li><b>Easy</b> : Yasha and Striker</li>
-<li><b>Fair</b> : Galods and Jaeger</li>
-<li><b>Normal</b> : Ash, Blaze, and Vespid</li>
-<li><b>Tough</b> : Creeper, Ripper, and Albacore</li>
-<li><b>Hard</b> : Aegis, Hornet, Leech, and Brute</li>
-<li><b>Very Hard</b> : Vodka and Hunter</li>
-<li><b>Expert</b> : Bat, Lizard, and Weaver</li>
-<li><b>Elite</b> : Ferret, Raiden, and Frost</li>
+<li><b>Fair</b>: Intruder</li>
+<li><b>Normal</b>: Rascal and Hunter</li>
+<li><b>Tough</b>: Thug and Akunin</li>
+<li><b>Very Hard</b>: Hook</li>
+<li><b>Expert</b>: Creeper, Goose, Ikkiru, and Wasp</li>
+<li><b>Elite</b>: Ferret</li>
 </ul>
 <li>Tour of Duty for all difficulties increased.</li>
 </ul>
@@ -89,7 +85,7 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <td>Piranesi • Fastline • Torn</td>
 </tr>
 <tr>
-<th>Tour of Duty 7 [Not Ready]</th>
+<th>Tour of Duty 7 [Bonus]</th>
 <td>Truth • Corruption • Vostok</td>
 </tr>
 </tbody>
@@ -102,67 +98,71 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <th colspan="3" align="center">Custom Bots List in Tour of Duty</th>
 </tr>
 <tr>
-<th rowspan="5"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">Counter-Terrorists</a></th>
+<th rowspan="6"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md">Counter-Terrorists</a></th>
+<th align="center"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md#cost-1">Cost 0</a></th>
+<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%200.md#marina">Marina</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%200.md#Kasumi">Kasumi</a></td>
+</tr>
+<tr>
 <th align="center"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md#cost-1">Cost 1</a></th>
-<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#fumika">Fumika</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#hinako">Hinako</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#natsuki">Natsuki</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#satomi">Satomi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#asuka">Asuka</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#nanana">Nanana</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#rii">Rii</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#yuri">Yuri</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#marina">Marina</a></td>
+<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#fumika">Fumika</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#serina">Serina</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#natsuki">Natsuki</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#shino">Shino</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#satomi">Satomi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#nanana">Nanana</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#hinako">Hinako</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#mana">Mana</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#rii">Rii</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%201.md#yuri">Yuri</a></td>
 </tr>
 <tr>
 <th align="center"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md#cost-2">Cost 2</a></th>
-<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#mayu">Mayu</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#toko">Toko</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#arisa">Arisa</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#himari">Himari</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rui">Rui</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#mashiro">Mashiro</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#hagumi">Hagumi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#nanami">Nanami</a></td>
+<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#mayu">Mayu</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#arisa">Arisa</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#Asuka">Asuka</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#kaoru">Kaoru</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#nanami">Nanami</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rui">Rui</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#aya">Aya</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#rimi">Rimi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%202.md#hagumi">Hagumi</a></td>
 </tr>
 <tr>
 <th align="center"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md#cost-3">Cost 3</a></th>
-<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#kaoru">Kaoru</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#chiyu-aka-chu2">Chu2</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#kanon">Kanon</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#masuki-aka-masking">Masking</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#saaya">Saaya</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#tae">Tae</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rokka-aka-lock">Lock</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#reona-aka-pareo">Pareo</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#aya">Aya</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#lisa">Lisa</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rimi">Rimi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rinko">Rinko</a></td>
+<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#mio">Mio</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#ako">Ako</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#kanon">Kanon</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#saaya">Saaya</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#tae">Tae</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#misaki">Misaki</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#tsugumi">Tsugumi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#lisa">Lisa</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#maya">Maya</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#moca">Moca</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#chiyu-aka-chu2">Chu2</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#masuki-aka-masking">Masking</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#rokka-aka-lock">Lock</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%203.md#reona-aka-pareo">Pareo</a> • </td>
 </tr>
 <tr>
 <th align="center"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md#cost-4">Cost 4</a></th>
-<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#rei-aka-layer">Layer</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chisato">Chisato</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#misaki">Misaki</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#tsukushi">Tsukushi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#moca">Moca</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#ran">Ran</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#yukina">Yukina</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#tsugumi">Tsugumi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#eve">Eve</a></td>
+<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#rei-aka-layer">Layer</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#rinko">Rinko</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#chisato">Chisato</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#ran">Ran</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#mashiro">Mashiro</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#eve">Eve</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#tomori">Tomori</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#anon">Anon</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#rana">Rana</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#soyo">Soyo</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%204.md#taki">Taki</a></td>
 </tr>
 <tr>
 <th align="center"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List.md#cost-5">Cost 5</a></th>
-<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#sayo">Sayo</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#hina">Hina</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kasumi">Kasumi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kokoro">Kokoro</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#maya">Maya</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#tomoe">Tomoe</a></td>
+<td><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#himari">Himari</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#tsukushi">Tsukushi</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#yukina">Yukina</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#sayo">Sayo</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#hina">Hina</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#kokoro">Kokoro</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#toko">Toko</a> • <a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Cost%205.md#tomoe">Tomoe</a></td>
 </tr>
 <tr>
 <th rowspan="8"><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md">Terrorists</a></th>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#easy">Easy</a></th>
-<td>Weasel • Lunatic • Crackpot • Outcast • <i>Yasha</i> • <i>Striker</i></td>
+<td>Weasel • Lunatic • Crackpot • Outcast</td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#fair">Fair</a></th>
-<td>Madman • Rat • Screech • Worm • Splinter • <i>Galods</i> • <i>Jaeger</i></td>
+<td>Madman • Rat • Screech • Worm • Splinter • <i>Intruder</i></td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#normal">Normal</a></th>
-<td>Freak • Maniac • Psycho • <i>Ash</i> • <i>Blaze</i> • <i>Vespid</i></td>
+<td>Freak • Maniac • Psycho • <i>Rascal</i> • <i>Hunter</i></td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#tough">Tough</a></th>
-<td>Rebel • Fiend • Vandal • <i>Creeper</i> • <i>Ripper</i> • <i>Albacore</i></td>
+<td>Rebel • Fiend • Vandal • <i>Thug</i> • <i>Akunin</i></td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#hard">Hard</a></th>
-<td>Razor • Bandit • Raider • Blade • <i>Aegis</i> • <i>Brute</i> • <i>Hornet</i> • <i>Leech</i></td>
+<td>Razor • Bandit • Raider • Blade</td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#very-hard">Very Hard</a></th>
-<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Vodka</i> • <i>Hunter</i></td>
+<td>Nails • Hammer • Crank • Cutter • Fanatic • <i>Hook</i></td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#expert">Expert</a></th>
-<td>Hyena • Wolfhound • Panther • Crow • <i>Bat</i> • <i>Lizard</i> • <i>Weaver</i></td>
+<td>Hyena • Wolfhound • Panther • Crow • <i>Creeper</i> • <i>Goose</i> • <i>Wasp</i> • <i>Ikkiru</i></td>
 </tr>
 <tr>
 <th><a href="https://github.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/blob/main/Custom%20Bots%20List%20-%20Terrorists.md#elite">Elite</a></th>
-<td>Jackal • Hawk • Spider • Snake • <i>Ferret</i> • <i>Raiden</i> • <i>Frost</i></td>
+<td>Jackal • Hawk • Spider • Snake • <i>Ferret</i></td>
 </tr>
 </tbody>
 </table>
 
 ## E. Changelog
-- Waiting ...
+- TBA
 
 ## F. Download Link
-- Waiting ...
+- TBA
 
 ## G. Trivia
 <ul>
@@ -175,19 +175,9 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 <Li>All custom bot of the band RAISE A SUILEN will use a stage name.</li>
 <li>Terrorists custom bots have different type of name meanings depends on the difficulty :</li>
 <ul>
-<li>Yasha and Galods are people's names.</li>
-<li>Custom bots named Ash is taken from one of the characters <a href="https://rainbowsixsiege-archive.fandom.com/wiki/Ash">Rainbow Six : Siege</a>.</li>
-<li>Albacore is the name of a submarine from the <a href="https://en.m.wikipedia.org/wiki/USS_Albacore_(SS-218)">United States</a>.</li>
 <li>Creeper is a term for a transformation in plants.</li>
-<li>Vodka is a liquor product. The name Vodka is also used as the name of the Black Organization members character in the Detective Conan series.</li>
-<li>Frost is a thin layer of ice on a solid surface that is easily brittle.</li>
-<Li>Raiden comes from Japanese which means lightning.</li>
 <li>Animal Name :
 <ul>
-<li>Hornet is a large stinging wasp that typically nests in hollow trees.</li>
-<li>Leech is an aquatic or terrestrial annelid worm species.</li>
-<Li>Bat are nocturnal mammals that can fly with both forelegs that develop into wings.</li>
-<Li>Lizard is a reptile animal.</li>
 <li>Same like the original Tour of Duty bot, Weasel. Ferret is also rodent names.</li>
 </ul>
 </ul>
@@ -196,11 +186,12 @@ For the list of custom bots and their individual statistics, <a href="https://gi
 
 ## Preferences
 - About <a href="https://counterstrike.fandom.com/wiki/Tour_of_Duty">Tour of Duty</a> in <a href="https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero">Counter-Strike Condition Zero</a>
-- <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">CSCZ Custom BOT Nickname from BanG Dream! (Classic BOT)</a>
+- <a href="https://github.com/munawars14/munawars14-botprofile-from-bandori">Custom BOT Name from BanG Dream! (Classic BOT)</a>
 
 ## Special Thanks
 - Bang Dream! Project
 - Craft Egg Inc.
 - Bushiroad
+- Ikkiru
 - Turtle Rock Studios
-- Valve Corporation
+- Valve
