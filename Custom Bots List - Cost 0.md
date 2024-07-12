@@ -36,7 +36,7 @@ There are 2 Tour of Duty CT bots under Cost 0 category. They are always unlocked
 </Tr>
 <Tr>
 <Th>Faction</th>
-<Th>N/A</th>
+<Th>-</th>
 </Tr>
 <Tr>
 <Th>Skill</th>
